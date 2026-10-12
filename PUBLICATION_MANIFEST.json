@@ -1,7 +1,7 @@
 {
   "edition": "public-review-v2-reconstruction-cycle-v5",
   "date": "2026-10-13",
-  "previous_public_commit": "7be7dd3322a913ada0f76042071e44ff097da958",
+  "previous_public_commit": "8f3a1d8492e78561b4c8ee0141e7fa1456e86822",
   "source_payloads_included": false,
   "transcript_included": false,
   "development_history_included": false,
@@ -19,23 +19,23 @@
     },
     {
       "path": "EXPERIMENT.md",
-      "bytes": 19197,
-      "sha256": "0924d78f5e3de6a1be344f49830f100783b1fbfcca94b79ade53a830e27b1d9d"
+      "bytes": 21620,
+      "sha256": "2180c606fdb7580c5d532d1cba70dadde84dba9b29b9a8dc5893a39a7b079793"
     },
     {
       "path": "EXPERIMENT_LOG.md",
-      "bytes": 7192,
-      "sha256": "ee085c29ebb754de3f90f86ab2b7c056fb7ae9f2397cddf3ea2e1c80cbc9112b"
+      "bytes": 7815,
+      "sha256": "73da58471b6428cfa049bd585b57c9a428bbc821192d436751b0685a1cb7bd2a"
     },
     {
       "path": "NOTICE.md",
-      "bytes": 1237,
-      "sha256": "a58294ed8a344785d59a4da59884cebe6f657229e58cfca473adf5f0a0f680b3"
+      "bytes": 1311,
+      "sha256": "51e348f345f8af5a481bdc234a28c5def2a8b12da6dfbc218a757cd12c164af3"
     },
     {
       "path": "README.md",
-      "bytes": 8022,
-      "sha256": "b89cac10b891344aa5f34477925dfe2ea77418be5e743b68a752e6d5399958ae"
+      "bytes": 9943,
+      "sha256": "f05baed01b7f240326cc535e7d3327f6ea36c1490d8bb6ae74454367fe1e10b6"
     },
     {
       "path": "REORIENTATION-v5.md",
@@ -54,8 +54,8 @@
     },
     {
       "path": "REVIEW_GUIDE.md",
-      "bytes": 6618,
-      "sha256": "f60dac51854cd5db31c47bff37e919d685c039774d8b38abd2dbe0c13b40e775"
+      "bytes": 7215,
+      "sha256": "fef9d252d64046b63a749a9d8dde3395118a872a2950a8b3c25d1b4efe1dd8b2"
     },
     {
       "path": "SOURCES.md",
@@ -392,5 +392,6 @@
       "bytes": 6041,
       "sha256": "da10dbb7f5e2ef10c79229dbf5f2f52ca170e77d113d2aec1867e52a5e7e3cb2"
     }
-  ]
+  ],
+  "editorial_update": "2026-10-13: contemporary capability and independent-task framing"
 }

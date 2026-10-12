@@ -1,8 +1,18 @@
 # What this experiment attempted, did and found
 
-**Question:** can an LLM, working with primary texts and original scholarship, produce a substantial contribution to history of philosophy, rather than plausible summaries or speculative criticism? This experiment uses Hume to make that question concrete. It is a single interactive research episode with a documented argument record. Its intellectual quality awaits external assessment.
+**Question:** what can current state-of-the-art LLMs contribute to substantive history of philosophy when given a demanding research task, in the environment available today? Here, “today” refers to the conditions of this experiment on 12–13 October 2026. Can the system produce a substantial contribution from primary texts and original scholarship, beyond plausible summaries or speculative criticism? This experiment uses Hume to make that question concrete. It is a single interactive research episode with a documented argument record. Its intellectual quality awaits external assessment.
 
 The first four stages took place on 12 October 2026; the integrated fifth reconstruction cycle continued across 12–13 October 2026. Mikko Tolonen set the research question and standards, supplied access to existing research resources, and redirected the investigation. A Codex LLM assistant selected claims, retrieved texts, reconstructed arguments, wrote dossiers and integrated separate automated assessments. No philosopher has yet validated the conclusions. The scholars discussed were not contacted.
+
+## Independence, collaboration and the point of the test
+
+The intention was to test independent execution after assigning a substantive task, not to labor over an interpretation with an LLM as the closely guided tool of a Hume scholar. The investigator was expected to choose specific targets, read the relevant evidence, develop its own reasoning, confront opposition and revise its conclusions. Tolonen supplied the task and research resources, named areas and scholars worth investigating, and later demanded deeper evidence and a more systematic reconstruction. Those interventions changed the trajectory and remain visible in the record. This is therefore independence within a human-assigned and subsequently clarified task, rather than a claim that the system worked without instructions or feedback.
+
+The comparison with recent LLM work in mathematics motivates the experiment without supplying its success criterion. Formal checking can establish the validity of certain mathematical proofs; in this setting it establishes consequences of a proposed translation. Whether that translation captures Hume's argument remains a historical and philosophical question. Analytical work in the history of philosophy can expose premises and test entailments, while still requiring judgments about meaning, textual development and rival interpretations.
+
+The possibility of philosopher-led LLMs becoming tools that scholars routinely work with raises a further question: “so what?” If science aims to advance the truth, the source of a valid contribution need not determine its value. But whether such a contribution has been made cannot be assumed from the tool's fluency or the scholar's involvement. This experiment does not resolve the broader debate over independent systems, scholarly collaboration or their place in research. It tests what happens under a particular present-day setup and makes the resulting arguments available for evaluation.
+
+“Current state-of-the-art” describes the intended contemporary capability question. The record concerns one workflow, with exact model deployment and sampling settings unavailable; it does not establish a comparative result across all leading models.
 
 ## Current reconstruction cycle: aims, work and results
 

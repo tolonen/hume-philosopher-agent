@@ -1,6 +1,6 @@
 # Publication and source rights
 
-This repository contains an experimental research record prepared with an LLM under Mikko Tolonen's direction. It is publicly available for inspection and evaluation. Public availability is not an expert endorsement.
+This repository contains an experimental research record produced by an LLM executing a substantive task assigned by Mikko Tolonen, with subsequent instructions on scope and standards. It is publicly available for inspection and evaluation. Public availability is not an expert endorsement.
 
 Modern scholarly articles, manuscript PDFs, licensed corpus files, complete source extracts and critical-edition scans are not redistributed here. Their authors and publishers retain their rights. Brief quotations identify claims under discussion; links point to external originals. Historical Hume quotations reproduce the identified public transcription, with its editorial limitations recorded in the dossiers.
 

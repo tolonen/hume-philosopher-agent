@@ -63,3 +63,7 @@ The user reopened the premises of the positive account and required one complete
 - A deleted Roman-history note was dated through the critical apparatus, not inferred from later omission.
 
 [The evaluation record](evaluation/session-v5.json) links the tests, adverse outcomes, corrections and coverage. No human review or novelty certification occurred. Earlier files remain provisional history rather than silently rewritten predictions.
+
+## Framing clarification, 13 October 2026
+
+At the user's request, the opening now asks what current state-of-the-art LLMs can contribute under the conditions of this dated test. The intended experiment concerns independent execution of an assigned research task; the recorded task-setting and later instructions remain explicit. The account distinguishes historical interpretation from formal proof checking, and frames possible philosopher-led LLM research and the “so what?” question as a broader debate this experiment does not decide. No philosophical result or reading claim was changed in this editorial update.

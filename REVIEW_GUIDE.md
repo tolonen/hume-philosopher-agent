@@ -1,6 +1,6 @@
 # Guide for philosophical evaluation
 
-The request is for an assessment of both the Hume arguments and what this experiment shows about an LLM's contribution. Please treat the materials as unvalidated proposals. The automated reviews are part of the experiment, not refereeing. There is no expectation of a positive judgement.
+The request is for an assessment of both the Hume arguments and what this dated experiment shows about current state-of-the-art LLMs undertaking a substantive task independently within supplied instructions. Please treat the materials as unvalidated proposals. The automated reviews are part of the experiment, not refereeing. There is no expectation of a positive judgement.
 
 ## A manageable reading route
 
@@ -25,6 +25,8 @@ If time is limited, prioritize a detailed judgement on one inferential chain ove
 | Scholarly contribution | Is the combined reading new, a useful elaboration of known positions, familiar synthesis, or philosophically unhelpful? Which existing argument provides the closest precedent? |
 
 ## Assess the experiment separately
+
+The intended test was independent execution of a demanding task, rather than a Hume scholar developing an argument through intensive guidance of an LLM tool. Task-setting, access provision and subsequent redirection still occurred and must be considered when assessing that independence. The experiment does not adjudicate the broader value of philosopher-led LLM research. Evaluate what was actually produced and what it establishes, without treating its origin as either a guarantee or a disqualification.
 
 Source accuracy and revision honesty are valuable but do not by themselves amount to philosophical discovery. Please distinguish:
 
