@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-12",
+  "essay": "Of the Study of History",
+  "coverage": "Complete text in public Hume Texts Online and existing Clarendon2021 page index, volume1 printed26–29",
+  "public_url": "https://davidhume.org/texts/empw/sh",
+  "critical_witness_pages": [
+    {
+      "volume": 1,
+      "pdf_page": 59,
+      "printed_page": 26,
+      "text_sha256": "9e5c6477e11e6987c5c145b646e989c58a94b58198c20cd7214c42814b51dd4d",
+      "source_sha256": "048177e3e65cd90666c8013446a8b028f424a05227917bef1668988e32e27811"
+    },
+    {
+      "volume": 1,
+      "pdf_page": 60,
+      "printed_page": 27,
+      "text_sha256": "9602e698b89f60c2dcdae9bf167ffebbf91181f311b63ba8481ae4d452e046fa",
+      "source_sha256": "048177e3e65cd90666c8013446a8b028f424a05227917bef1668988e32e27811"
+    },
+    {
+      "volume": 1,
+      "pdf_page": 61,
+      "printed_page": 28,
+      "text_sha256": "a6a4684b871a30d6fc365d9e8e831f5b06771877164b1efafbccef0491c387ea",
+      "source_sha256": "048177e3e65cd90666c8013446a8b028f424a05227917bef1668988e32e27811"
+    },
+    {
+      "volume": 1,
+      "pdf_page": 62,
+      "printed_page": 29,
+      "text_sha256": "c64c964b94dca9a6b668e6c76fffad4ba46e89269d5e39985516267910329135",
+      "source_sha256": "048177e3e65cd90666c8013446a8b028f424a05227917bef1668988e32e27811"
+    }
+  ],
+  "source_policy": "User-supplied critical PDFs remain at their existing restricted CSC location; no Allas copy or new local source payload",
+  "chronology": "Withdrawn essay; edition table text inspected at PDF25–26, column alignment not independently image-verified; no first-edition collation",
+  "role": "Corroboration of mediated empirical inquiry, not proof of antisceptical warrant",
+  "_public_edition_note": "Selected argument, reading and verification metadata. Private operational locators and quotation-account fields omitted. Checksums and claims about source checks are reported audit evidence, not public access to the private witness."
+}

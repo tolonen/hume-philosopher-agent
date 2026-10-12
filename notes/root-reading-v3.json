@@ -1,0 +1,57 @@
+{
+  "schema": "hpa-root-reading-v3",
+  "date": "2026-10-12",
+  "reader": "/root",
+  "full_primary_sequences": [
+    {
+      "url": "https://davidhume.org/texts/t/1/4/5",
+      "coverage": "All35paragraphs and all notes"
+    },
+    {
+      "url": "https://davidhume.org/texts/e/11",
+      "coverage": "All30paragraphs and all notes"
+    },
+    {
+      "url": "https://davidhume.org/texts/empw/sh",
+      "coverage": "All7paragraphs, plus complete Clarendon2021 text printed26–29"
+    }
+  ],
+  "selected_primary_sequences": [
+    {
+      "url": "https://davidhume.org/texts/t/1/4/2",
+      "coverage": "31–42"
+    },
+    {
+      "url": "https://davidhume.org/texts/t/3/3/1",
+      "coverage": "1–10"
+    },
+    {
+      "url": "https://davidhume.org/texts/d/4",
+      "coverage": "8–14; separate investigator full part"
+    }
+  ],
+  "scholarship_reused": "notes/root-reading-v2.json; current-stage re-read Hakkarainen2012 realism MS1–16 to check exact independence condition",
+  "separate_assessments_read_in_full": [
+    "notes/positive-analogy-primary-v3.md",
+    "notes/positive-other-minds-primary-v3.md",
+    "notes/positive-reading-adversarial-v3.md"
+  ],
+  "source_verification": [
+    "notes/primary-substance-cause-v3.json",
+    "notes/primary-independent-experience-v3.json",
+    "notes/essay-witness-v3.json"
+  ],
+  "limits": [
+    "No claim to have searched all works; History volumes are not indexed",
+    "No full Waldow argument",
+    "No page-image collation",
+    "Kim/Inoue full reading performed by separate assessor, not root"
+  ],
+  "unassessed_discovery_leads": [
+    "EPM Appendix2 not read in this stage",
+    "Millican2024 Humes Old and New not assessed",
+    "Millican egoism article not assessed",
+    "Burton correspondence lead not read"
+  ],
+  "_public_edition_note": "Selected argument, reading and verification metadata. Private operational locators and quotation-account fields omitted. Checksums and claims about source checks are reported audit evidence, not public access to the private witness."
+}

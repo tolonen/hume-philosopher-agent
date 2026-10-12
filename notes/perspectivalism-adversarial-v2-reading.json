@@ -1,0 +1,239 @@
+{
+  "assessment_id": "perspectivalism-adversarial-v2",
+  "evidence_date": "2026-10-12",
+  "assessment_type": "nonblinded automated defence of the target scholar",
+  "parent_task": "/root",
+  "assessor_task": "/root/perspectivalism_defence",
+  "model": {
+    "inheritance": "parent model, no override",
+    "exact_identifier": null,
+    "sampling_configuration": null,
+    "independent_training_or_human_endorsement_claimed": false
+  },
+  "prompt_scope": "Defend Zahn 2025 against the proposed transition objection; inspect first-order truth qualifications, internalism/externalism scope, strongest later replies, and the original Hakkarainen argument before assessing their disagreement.",
+  "scholarship": [
+    {
+      "author": "Sam Zahn",
+      "title": "Is Hume a Perspectivalist?",
+      "year": 2025,
+      "journal": "Ergo",
+      "volume_issue": "12(1)",
+      "printed_pages": "1–34",
+      "url": "https://journals.publishing.umich.edu/ergo/article/7132/galley/4523/view/",
+      "doi": "10.3998/ergo.7132",
+      "access": "publisher PDF text through web reader",
+      "coverage": "complete argument, qualifications, notes and bibliography",
+      "target_locations": [
+        "pp. 3–4 and nn. 8–9",
+        "p. 8",
+        "pp. 14–18",
+        "pp. 20–23",
+        "pp. 26–30",
+        "pp. 32–33"
+      ],
+      "page_image_verified": false,
+      "source_bytes_archived_by_assessor": false,
+      "source_sha256": null,
+      "scholar_verbatim_words_in_assessment": 0
+    },
+    {
+      "author": "Jani Hakkarainen",
+      "title": "Hume's Scepticism and Realism",
+      "publication_year": 2012,
+      "doi": "10.1080/09608788.2012.664024",
+      "url": "https://scispace.com/pdf/hume-s-scepticism-and-realism-3iyqczay45.pdf",
+      "access": "47-page author manuscript through web reader; URL supplied by parent after publisher route failed",
+      "coverage": "partial original inspection: PDF pp. 1–16, 20–21, 23–34; targeted notes 21–35, including notes 23, 32 and 35",
+      "published_page_equivalence_verified": false,
+      "page_image_verified": false,
+      "source_bytes_archived_by_assessor": false,
+      "source_sha256": null,
+      "scholar_verbatim_words_in_assessment": 0,
+      "verdict_scope": "limited to the availability of restricted suspension alongside empirical inquiry; entire metaphysical argument not adjudicated"
+    },
+    {
+      "author": "Don Garrett",
+      "title": "Reasons to act and believe: Naturalism and rational justification in Hume's philosophical project",
+      "year": 2007,
+      "journal": "Philosophical Studies",
+      "volume_issue": "132(1)",
+      "printed_pages": "1–16",
+      "doi": "10.1007/s11098-006-9055-y",
+      "access": "bibliographic record and abstract only; publisher article and PDF routes failed",
+      "full_argument_assessed": false,
+      "attempted_urls": [
+        "https://link.springer.com/article/10.1007/s11098-006-9055-y",
+        "https://link.springer.com/content/pdf/10.1007/s11098-006-9055-y.pdf"
+      ]
+    },
+    {
+      "author": "Sam Zahn",
+      "title": "The Two Forms of Doxastic Normativity in Hume's Treatise",
+      "publication_year": 2021,
+      "issue_year": 2018,
+      "journal": "Hume Studies",
+      "volume_issue": "44(1)",
+      "printed_pages": "3–22",
+      "doi": "10.1353/hms.2018.0000",
+      "access": "complete official Hume Society article read through bounded extraction from the parent-preserved checksum-verified remote archive",
+      "full_argument_assessed": true,
+      "publication_year_basis": "author research page and bibliographic record; Hume Society issue label is April 2018",
+      "dissertation_route": "earlier institutional dissertation route failed; subsequently superseded by complete official journal article access",
+      "coverage": "all 21 PDF pages: cover plus printed pp. 3–22, including notes and bibliography",
+      "url": "https://humesociety.org/?hume_article_pdf=16453",
+      "page_mapping": "PDF p. 2 = printed p. 3; subsequent printed page = PDF page + 1",
+      "target_locations": [
+        "pp. 7–13",
+        "pp. 17–18",
+        "note 23, p. 21"
+      ],
+      "source_sha256": "26fdfee78e23550e5988181c706f2433a72c6aa292058ebd3c25c9c62792e5be",
+      "reader": "scripts/read_public_scholarship.py",
+      "page_image_verified": false,
+      "local_source_payload_created": false,
+      "scholar_verbatim_words_in_assessment": 0
+    },
+    {
+      "author": "Tamas Demeter",
+      "title": "Hume’s methodological solipsism",
+      "year": 2025,
+      "journal": "Philosophical Studies",
+      "volume": 182,
+      "printed_pages": "1467–1493",
+      "doi": "10.1007/s11098-025-02334-8",
+      "url": "https://link.springer.com/article/10.1007/s11098-025-02334-8",
+      "access": "publisher full-text HTML",
+      "coverage": "partial original reading: complete sections 2 and 5, note 61; contextual portions of sections 1 and 6 and selected adjacent notes",
+      "full_argument_assessed": false,
+      "printed_page_collation": false,
+      "page_image_verified": false,
+      "local_source_payload_created": false,
+      "source_sha256": null,
+      "scholar_verbatim_words_in_assessment": 0,
+      "comparison_status": "assessor comparison, not identified published exchange with Zahn and not a claim of agreement with Hakkarainen",
+      "citation_check": {
+        "printed_reference": "T 2.2.11.5 in section 2, structural uniformity of minds and bodies",
+        "verified_matching_reference": "T 2.1.11.5, SBN 318",
+        "check_source": "https://davidhume.org/texts/t/full",
+        "assessment": "narrow locator correction only"
+      }
+    }
+  ],
+  "primary_reading": {
+    "source": "Hume Texts Online edited Treatise",
+    "url": "https://davidhume.org/texts/t/full",
+    "edition_caution": "edited text incorporates Appendix material; no independent first-edition page-image collation in this assessment",
+    "coverage": [
+      "T 1.2.5.25–26 and 26n12; adjacent paragraphs 19–29 inspected for context",
+      "T 1.3.5.1–7",
+      "T 1.3.6.1–16",
+      "T 1.3.13.7–20, especially 9–13",
+      "T 1.3.15.1–12",
+      "T 1.4.1.1–12",
+      "T 1.4.2.1–2",
+      "T 1.4.4.1–8, especially 1–2",
+      "T 1.4.7.1–15",
+      "T 3.3.1.22–30, especially 25",
+      "T 1.4.2.3–8 and 11, with selected adjacent context",
+      "T Intro.8–10",
+      "T 2.2.11.1–6, especially 5 (checked printed Demeter locator)",
+      "T 2.1.11.3–6, especially 4–5 (corrected structural-uniformity locator and adjacent existence claim)"
+    ],
+    "standard_locators": [
+      {
+        "ref": "T 1.3.6.4–12",
+        "sbn": "88–92"
+      },
+      {
+        "ref": "T 1.3.13.11–12",
+        "sbn": "149–150"
+      },
+      {
+        "ref": "T 1.3.15.2",
+        "sbn": "173"
+      },
+      {
+        "ref": "T 1.4.1.1–12",
+        "sbn": "180–187"
+      },
+      {
+        "ref": "T 1.4.4.1–2",
+        "sbn": "225–226"
+      },
+      {
+        "ref": "T 1.4.7.4",
+        "sbn": "265–266"
+      },
+      {
+        "ref": "T 1.4.7.11",
+        "sbn": "270"
+      },
+      {
+        "ref": "T 3.3.1.25",
+        "sbn": "588–589"
+      },
+      {
+        "ref": "T 1.2.5.25–26",
+        "sbn": "63–64"
+      },
+      {
+        "ref": "T 1.2.5.26n12",
+        "sbn": "638–639"
+      },
+      {
+        "ref": "T 1.3.5.2",
+        "sbn": "84"
+      },
+      {
+        "ref": "T 1.4.2.3–8, 11",
+        "sbn": "188–192"
+      },
+      {
+        "ref": "T Intro.10",
+        "sbn": "xviii–xix"
+      },
+      {
+        "ref": "T 2.1.11.3–5",
+        "sbn": "317–318"
+      },
+      {
+        "ref": "T 2.2.11.5",
+        "sbn": "395–396"
+      }
+    ]
+  },
+  "argument_versions": [
+    {
+      "version": "initial",
+      "candidate": "scientific truth claims defeat perspectivalism",
+      "verdict": "objection withdrawn after inspection of the explicit first-order qualification"
+    },
+    {
+      "version": "revised",
+      "candidate": "lack of independent faculty vindication excludes every systematic truth connection",
+      "verdict": "particular inference requires an additional premise; interpretation not thereby refuted"
+    },
+    {
+      "version": "discriminant",
+      "candidate": "cross-episode coherence at T 1.4.7.4",
+      "verdict": "interpretive test with an identified published precursor; not original discovery"
+    },
+    {
+      "version": "restricted-suspension-discriminant",
+      "candidate": "positive empirical science necessarily entails reflective assent to mind-independent existence",
+      "verdict": "bridge requires argument; T 1.3.5.2 supports proceeding without deciding ultimate perceptual origin, but methodological bracketing is not a proof of epistemic warrant or actual suspension"
+    },
+    {
+      "version": "methodological-autonomy-addendum",
+      "candidate": "Demeter supplies support for preserving a restricted-suspension option against positive-science entailment",
+      "verdict": "limited compatibility support; methodological bracketing does not establish actual suspension; social evidence introduces separate warrant and ontological-commitment questions"
+    }
+  ],
+  "novelty": {
+    "systematic_search_completed": false,
+    "identified_precursor": "Hakkarainen manuscript PDF pp. 20–21 and note 23, PDF p. 45, explicitly confronts successive assent and contradiction",
+    "originality_claim": false,
+    "parent_reported_precursor_not_independently_read": "Parent reports Garrett reply to Loeb (2014), pp. 281, 284–288, already argues that particular truth judgments precede faculty assessment; no independent verification or originality claim by this assessor."
+  },
+  "_public_edition_note": "Selected argument, reading and verification metadata. Private operational locators and quotation-account fields omitted. Checksums and claims about source checks are reported audit evidence, not public access to the private witness."
+}

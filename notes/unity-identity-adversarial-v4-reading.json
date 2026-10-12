@@ -1,0 +1,165 @@
+{
+  "assessment_id": "unity-identity-adversarial-v4",
+  "evidence_date": "2026-10-12",
+  "assessment_type": "nonblinded automated adversarial primary-text assessment",
+  "parent_task": "/root",
+  "assessor_task": "/root/perspectivalism_defence",
+  "model": {
+    "inheritance": "parent model, no override",
+    "exact_identifier": null,
+    "sampling_configuration": null,
+    "independent_human_endorsement_claimed": false
+  },
+  "prompt_scope": "Test the distinction between unity at a time, strict identity through time, and causal coherence; assess limits of integration into HPA-006, especially the use of stable character; do not adjudicate inaccessible secondary originals.",
+  "primary_sources": [
+    {
+      "work": "A Treatise of Human Nature",
+      "section": "T 1.4.6",
+      "url": "https://davidhume.org/texts/t/1/4/6",
+      "coverage": "complete paragraphs 1–23 and note 50",
+      "sbn_pages": "251–263",
+      "original_publication_year": 1739,
+      "target_locations": [
+        "T 1.4.6.4–8",
+        "T 1.4.6.11–17",
+        "T 1.4.6.19–22"
+      ],
+      "argument_in_full_read": true,
+      "access": "Hume Texts Online edited HTML through web reader",
+      "page_image_verified": false,
+      "source_sha256": null,
+      "local_source_payload_created": false
+    },
+    {
+      "work": "A Treatise of Human Nature, Appendix",
+      "section": "App.10–21",
+      "url": "https://davidhume.org/texts/t/app",
+      "coverage": "complete personal-identity discussion App.10–21; App.1–9 and opening of App.22 also read for context",
+      "sbn_pages": "633–636; adjacent App.1–9 SBN 623–627",
+      "original_publication_year": 1740,
+      "target_locations": [
+        "App.10–11",
+        "App.15",
+        "App.20–21"
+      ],
+      "bounded_argument_in_full_read": true,
+      "entire_appendix_claimed_read": false,
+      "access": "Hume Texts Online edited HTML through web reader",
+      "page_image_verified": false,
+      "source_sha256": null,
+      "local_source_payload_created": false,
+      "chronology_constraint": "Appendix qualification is not silently fused with the earlier exposition."
+    },
+    {
+      "work": "A Treatise of Human Nature",
+      "section": "T 1.4.2",
+      "url": "https://davidhume.org/texts/t/1/4/2",
+      "coverage": "complete paragraphs 1–57 and displayed notes 34–41",
+      "sbn_pages": "187–218",
+      "original_publication_year": 1739,
+      "target_locations": [
+        "T 1.4.2.25–30",
+        "T 1.4.2.31",
+        "T 1.4.2.38–40",
+        "T 1.4.2.43–47",
+        "T 1.4.2.56–57"
+      ],
+      "argument_in_full_read": true,
+      "access": "Hume Texts Online edited HTML through web reader",
+      "page_image_verified": false,
+      "source_sha256": null,
+      "local_source_payload_created": false
+    },
+    {
+      "work": "A Treatise of Human Nature",
+      "section": "T 3.3.1",
+      "url": "https://davidhume.org/texts/t/3/3/1",
+      "coverage": "targeted fresh reading of paragraphs 3–11, especially 4–7; additional surrounding material inspected but not classified as complete section coverage",
+      "sbn_pages": "574–579",
+      "original_publication_year": 1740,
+      "target_locations": [
+        {
+          "reference": "T 3.3.1.4–5",
+          "sbn": "575"
+        },
+        {
+          "reference": "T 3.3.1.7",
+          "sbn": "575–576"
+        }
+      ],
+      "argument_in_full_read": false,
+      "access": "Hume Texts Online edited HTML through web reader",
+      "page_image_verified": false,
+      "source_sha256": null,
+      "local_source_payload_created": false
+    }
+  ],
+  "edition_caution": "Modern edited text displays errata and incorporates Appendix interventions in relevant places; no independent first-edition or page-image collation performed in this bounded assessment.",
+  "secondary_access": {
+    "hakkarainen_spatial_unity_original_assessed": false,
+    "baxter_identity_or_composition_original_assessed": false,
+    "reason": "The parent supplied a candidate comparison, not complete secondary originals for this assessment. No attribution or verdict is made from abstracts or summaries.",
+    "scope_of_comparison": "conditional compatibility of specified propositions; actual published agreement remains unassessed",
+    "secondary_scholar_verbatim_words": 0,
+    "parent_provided_baxter_assent": {
+      "author": "Donald L. M. Baxter",
+      "source_url": "https://philpapers.org/archive/BAXAIS.pdf",
+      "source_id": "baxter-assent-2018",
+      "source_identity": "BAXAIS.pdf; complete title not independently verified in this assessment",
+      "pdf_pages": 26,
+      "parent_reported_coverage": "complete original manuscript",
+      "assessor_direct_reading": false,
+      "parent_reported_target_pages": [
+        "MS17–18",
+        "MS20",
+        "MS21"
+      ],
+      "evidential_status": "parent-supplied source reading; not independent assessor verification",
+      "source_sha256_from_receipt": "f86be6777e4fa08a0ffd52368a47d699d4fdc33bf1f40323a39707bf390551ae",
+      "consequence": "Affirmative causal or normative content does not alone establish active endorsement or defeat the reported assent distinction."
+    }
+  },
+  "verdicts": [
+    {
+      "candidate": "Unity at a time, strict identity through time, and causal coherence are interchangeable.",
+      "verdict": "textual contradiction after contextual checking",
+      "basis": "T 1.4.2.26–30 and T 1.4.6.6–22 explicitly distinguish relevant ideas and attributions."
+    },
+    {
+      "candidate": "Criticism of strict identity entails a denial of all composition.",
+      "verdict": "particular inference failure",
+      "basis": "T 1.4.6.8 conditionally permits a composite mass's perfect identity; .22 criticizes simplicity rather than every related whole; App.15 retains composition language.",
+      "qualification": "This does not independently refute every comprehensive ontological composition nihilism."
+    },
+    {
+      "candidate": "Causal connectedness supplies a completed account of personal unity.",
+      "verdict": "interpretation weakened by explicit counterevidence",
+      "basis": "App.20–21 declares the uniting explanation unsatisfactory; causal relations also cross persons.",
+      "qualification": "No particular secondary author's argument is adjudicated."
+    },
+    {
+      "candidate": "Stable character independently establishes personal identity.",
+      "verdict": "particular inference failure",
+      "basis": "T 1.4.6.19 allows character change; T 3.3.1.4–5 already concern a person's conduct.",
+      "safe_role": "defeasible evidence within an empirically tracked personal history"
+    },
+    {
+      "candidate": "Spatial unity can coexist with denial of strict temporal identity in changing complexes.",
+      "verdict": "contestable alternative; conditional compatibility",
+      "qualification": "Does not establish that Hakkarainen and Baxter endorse exactly these limited propositions."
+    }
+  ],
+  "novelty": {
+    "systematic_search_completed": false,
+    "novelty_claim": false,
+    "purpose": "primary-text constraint and adversarial test for a subsequent source-complete integration"
+  },
+  "locator_correction_to_prior_note": {
+    "prior_note": "notes/positive-reading-adversarial-v3.md",
+    "reference": "T3.3.1.7",
+    "correct_sbn": "575–576",
+    "previous_sbn": "576–577",
+    "action": "parent notified; prior note not edited in this bounded task"
+  },
+  "_public_edition_note": "Selected argument, reading and verification metadata. Private operational locators and quotation-account fields omitted. Checksums and claims about source checks are reported audit evidence, not public access to the private witness."
+}

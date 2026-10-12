@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-12",
+  "reader": "/root",
+  "full_original_argument": {
+    "id": "baxter-assent-2018",
+    "title": "A Pyrrhonian Interpretation of Hume on Assent",
+    "coverage": "Complete26PDFpages including all notes and references",
+    "witness": "Author manuscript announcing forthcoming2016; published volume2018; published-version collation not performed",
+    "sha256": "f86be6777e4fa08a0ffd52368a47d699d4fdc33bf1f40323a39707bf390551ae",
+    "target_locations": [
+      "MS1–2 problem and proposal",
+      "MS7–11 kinds of assent",
+      "MS14–16 sceptical regress and Garrett disagreement",
+      "MS17–18 practical causal rules",
+      "MS20 theoretical and normative content",
+      "MS21 strong passive assent"
+    ]
+  },
+  "partial_original_reading": [
+    {
+      "id": "baxter-substance-2015",
+      "coverage": "MS22–27 full concluding argument/direct reply to Hakkarainen; separate assessor complete27pages"
+    },
+    {
+      "id": "hakkarainen-spatial-properties",
+      "coverage": "MS2–6 and11–20; separate assessor complete20pages"
+    }
+  ],
+  "full_primary_sections": [
+    {
+      "url": "https://davidhume.org/texts/t/1/4/6",
+      "coverage": "All23paragraphs and note50"
+    },
+    {
+      "url": "https://davidhume.org/texts/t/1/4/1",
+      "coverage": "All12paragraphs"
+    },
+    {
+      "url": "https://davidhume.org/texts/t/1/1/6",
+      "coverage": "All3paragraphs"
+    },
+    {
+      "url": "https://davidhume.org/texts/t/1/2/2",
+      "coverage": "All10paragraphs and notes"
+    },
+    {
+      "url": "https://davidhume.org/texts/t/1/2/3",
+      "coverage": "All17paragraphs and notes"
+    },
+    {
+      "url": "https://davidhume.org/texts/t/1/1/7",
+      "coverage": "All18paragraphs and notes read across two complete web extracts"
+    }
+  ],
+  "selected_primary": [
+    {
+      "url": "https://davidhume.org/texts/t/app",
+      "coverage": "1–21 in edited arrangement; remaining original insertions not claimed fully collated"
+    }
+  ],
+  "primary_check": "notes/primary-character-identity-v4.json",
+  "novelty_corrections": [
+    "Hakk2015n13 already distinguishes unity and temporal identity",
+    "Baxter2015 already answers Hakk2012 and real compound/mass passages",
+    "Baxter assent already accommodates normative and theoretical content"
+  ],
+  "limits": [
+    "Hakkarainen2019 unity original unavailable",
+    "Baxter1990 and space/time2016 full arguments unassessed",
+    "No complete Baxter book reading",
+    "No published-version or facsimile collation",
+    "No full Garrett1997/2007 rereading"
+  ],
+  "_public_edition_note": "Selected argument, reading and verification metadata. Private operational locators and quotation-account fields omitted. Checksums and claims about source checks are reported audit evidence, not public access to the private witness."
+}

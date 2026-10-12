@@ -1,0 +1,40 @@
+{
+  "source_sha256": "bd89a6ff76c25780f9ab5b678e596f759b835cf0784a8b2dd1a50fa885c3c9d2",
+  "query": "\"other experience\"",
+  "reference_collation": "proposed only, independently verify before citation",
+  "results": [
+    {
+      "member": "hume.17.xml",
+      "kind": "p",
+      "ordinal": 1441,
+      "proposed_reference": null,
+      "text_sha256": "3d22cab1b6a608d21094c4e7b269798fe2456149f0485bc8534e18327815f689",
+      "characters": 208,
+      "has_real_relations_of_ideas": false,
+      "has_real_relations_without_of_ideas": false,
+      "public_fragment_matches": [
+        {
+          "input_sha256": "8c4cd56fcca91d428a1ac9bda29967761511e3f96c0c9bbca096109659f773c9",
+          "literal_match": false
+        }
+      ]
+    },
+    {
+      "member": "hume.05.xml",
+      "kind": "p",
+      "ordinal": 236,
+      "proposed_reference": null,
+      "text_sha256": "ecda7fe3f8e40516a5b38b4b604405b04f8354cf0efa4c91ccf961f0473a123a",
+      "characters": 2098,
+      "has_real_relations_of_ideas": false,
+      "has_real_relations_without_of_ideas": false,
+      "public_fragment_matches": [
+        {
+          "input_sha256": "8c4cd56fcca91d428a1ac9bda29967761511e3f96c0c9bbca096109659f773c9",
+          "literal_match": true
+        }
+      ]
+    }
+  ],
+  "_public_edition_note": "Selected argument, reading and verification metadata. Private operational locators and quotation-account fields omitted. Checksums and claims about source checks are reported audit evidence, not public access to the private witness."
+}

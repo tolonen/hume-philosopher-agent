@@ -1,0 +1,316 @@
+{
+  "edition": "public-review-v1",
+  "date": "2026-10-12",
+  "experiment_date": "2026-10-12",
+  "development_base_commit": "c5196c199d9ecfdea4a05153666074acc02744cf",
+  "development_history_included": false,
+  "coverage": "Selected public research record; current dossiers, historical stage reports, edited source ledgers, experiment account and review guide. File identity does not certify scholarly conclusions.",
+  "source_payloads_included": false,
+  "transcript_included": false,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 33,
+      "sha256": "fa5b2d4433b835933b22140e01833a4972a0ee8532d76951286e3dd071994af0"
+    },
+    {
+      "path": "DISPUTES.md",
+      "bytes": 9098,
+      "sha256": "d72ca0e0015384decfa1092b60f2ee41e9d9bf7815ef45ef3bafb39f58cb899e"
+    },
+    {
+      "path": "EXPERIMENT.md",
+      "bytes": 15954,
+      "sha256": "4d87dd41af841772e1881edb74ca29c925e73ed4541bf1ae7e4925f9e50b93b4"
+    },
+    {
+      "path": "EXPERIMENT_LOG.md",
+      "bytes": 5796,
+      "sha256": "ef61a9300571f2d39d2396ca718c071cb8ba17492dbf3e079ba5638e9ef9a4ca"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 1237,
+      "sha256": "a58294ed8a344785d59a4da59884cebe6f657229e58cfca473adf5f0a0f680b3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6975,
+      "sha256": "9bacead57a894d952285839d7c076ba143c1fb0d05c34065034b3f5cb7d57e27"
+    },
+    {
+      "path": "REQUEST.md",
+      "bytes": 13605,
+      "sha256": "3c9cfda3bc5acc18c8d325997d27cf09ac52cdfdbe99a0a87525b3409982420c"
+    },
+    {
+      "path": "REVIEW_GUIDE.md",
+      "bytes": 5364,
+      "sha256": "bf95fbcb8110d143baff5276c942414569d5cca5cba9ec51ecda695acad2a680"
+    },
+    {
+      "path": "SOURCES.md",
+      "bytes": 11941,
+      "sha256": "60c3ccb57a06640cb201e732093b2397c89e0f6f9c16a07ab6f92d0ad6a08c54"
+    },
+    {
+      "path": "bibliography.bib",
+      "bytes": 8138,
+      "sha256": "d1a6b812d365abfa37580429431dc2146fd87df2e77599c6e399c34487609a9d"
+    },
+    {
+      "path": "dossiers/HPA-001.md",
+      "bytes": 18587,
+      "sha256": "6f3e874dcd13a131eaea24a9bf71f8f05e070947b1201560ba17c6667381da46"
+    },
+    {
+      "path": "dossiers/HPA-002.md",
+      "bytes": 11743,
+      "sha256": "30662f5fff9d9a64a8ef1057530c45fbd410f593c02d6b443c1d385a98fb95e6"
+    },
+    {
+      "path": "dossiers/HPA-003.md",
+      "bytes": 12530,
+      "sha256": "a5c0ffbfd089c49d2a8b04b4eb395c5c5bb023f457eb7f06c321395263b94543"
+    },
+    {
+      "path": "dossiers/HPA-004.md",
+      "bytes": 7147,
+      "sha256": "7aaef0e9744ae1a7fa9cabc96d32a04a2b2bc14857b93f3e1bf277b310990e8d"
+    },
+    {
+      "path": "dossiers/HPA-005.md",
+      "bytes": 8447,
+      "sha256": "7e1317de49b23a21fce7301b773884f1d78edb1c5bdc0dd78c2ca4310e956894"
+    },
+    {
+      "path": "dossiers/HPA-006.md",
+      "bytes": 18493,
+      "sha256": "257105423a4203cdca1f6f81de3e1e8f113c960fe6e5c67a0365e9f9ca02fc9e"
+    },
+    {
+      "path": "dossiers/HPA-007.md",
+      "bytes": 14490,
+      "sha256": "8cfe1220e49c5af510cdd1a8a627068064293356d6187ff1bdc5a4ef8498ea68"
+    },
+    {
+      "path": "evaluation/PROTOCOL.md",
+      "bytes": 1421,
+      "sha256": "97933dd83a8d89f4483fde73bac52ff8ee2083810de74b76cecfe870c2f94c6e"
+    },
+    {
+      "path": "evaluation/public-edition-review.md",
+      "bytes": 751,
+      "sha256": "51a9266a804c1369cb22dbf711f99ef5ff880f39dbdb5fba6cc6093fda178dd1"
+    },
+    {
+      "path": "evaluation/session-v2.json",
+      "bytes": 3795,
+      "sha256": "85ed63413e2944d92d1bcd8040ced68fcc4b62902cca52bbfc36e1503bef2d2d"
+    },
+    {
+      "path": "evaluation/session-v3.json",
+      "bytes": 2626,
+      "sha256": "2c5170cd901e26a6dbe060cbdd123ac7cfd2fd38f9754919e2af9b2939daace0"
+    },
+    {
+      "path": "evaluation/session-v4.json",
+      "bytes": 2313,
+      "sha256": "d73fd22e914271e03467a3ce7ea6e961be285f5ccef9c69870c2d500d326851a"
+    },
+    {
+      "path": "evaluation/session.json",
+      "bytes": 2007,
+      "sha256": "20454b75696eb862e18644ea152f4209a47fa1738a3dda9ac8110114af81b522"
+    },
+    {
+      "path": "notes/HPA-001-sources.json",
+      "bytes": 9927,
+      "sha256": "2b788d548fb5a138d6773a8bace304441553431e6bf6f21753f7c1ce315ab66d"
+    },
+    {
+      "path": "notes/HPA-002-sources.json",
+      "bytes": 6761,
+      "sha256": "ed6bb9e6a50eea713c8da9c9cca9ce632940d5cf698fc158eeaf18579b6c6807"
+    },
+    {
+      "path": "notes/adversarial-HPA-001.md",
+      "bytes": 5369,
+      "sha256": "a3f5fdbc8d4f0493bc4b132584136fbceb94dc81e1b8f13dc7cbeee476ed266c"
+    },
+    {
+      "path": "notes/adversarial-HPA-002.md",
+      "bytes": 6285,
+      "sha256": "bc973e8619cb7e0072c36514c9771de96c57191d5ff71c956f66d6c67e982b76"
+    },
+    {
+      "path": "notes/baxter-composition-v4-sources.json",
+      "bytes": 7421,
+      "sha256": "590a9cf572ccdd1a1d117ca3c8937a8e349a20772cdec7937d083655fa321015"
+    },
+    {
+      "path": "notes/baxter-composition-v4.md",
+      "bytes": 9899,
+      "sha256": "d1300901f7d937222d49743dfdf392bff96705bd845f5f14b2c67647ccdbea14"
+    },
+    {
+      "path": "notes/essay-witness-v3.json",
+      "bytes": 1966,
+      "sha256": "3eed5f47bbb4ba49bb47c7295130949877200203703b0429f573eafe3ac98ce2"
+    },
+    {
+      "path": "notes/garrett-induction-assessment-v2-sources.json",
+      "bytes": 10747,
+      "sha256": "3400c5e121b2df593d460fcd3fc2065f5991f8031793d55d537c0089188527f4"
+    },
+    {
+      "path": "notes/garrett-induction-assessment-v2.md",
+      "bytes": 20090,
+      "sha256": "ba249b643be40256a7417f0dceebf6d79d858647dbaf1f6507dcda3ecd33da89"
+    },
+    {
+      "path": "notes/hakkarainen-unity-v4-sources.json",
+      "bytes": 6308,
+      "sha256": "ca2433fd0f0b1eae4a602c2800042bfc689eec569d3648c03c4dcf413dbf5ac7"
+    },
+    {
+      "path": "notes/hakkarainen-unity-v4.md",
+      "bytes": 8701,
+      "sha256": "7ae5f2f70882fbe98ad73adaa23d2dcb428377b5b9166944a3272148cf4ff884"
+    },
+    {
+      "path": "notes/metaphysics-adversarial-v2-sources.json",
+      "bytes": 10004,
+      "sha256": "78da8e179f174887d08f084cc578e5faf8b41451875191299f767a3c3047edae"
+    },
+    {
+      "path": "notes/metaphysics-adversarial-v2.md",
+      "bytes": 12919,
+      "sha256": "3f2aa58adb4b3c4f5bc6baa3205f764c79240e0c050c6d8fde475a488f45a9d2"
+    },
+    {
+      "path": "notes/perspectivalism-adversarial-v2-reading.json",
+      "bytes": 9975,
+      "sha256": "ea7e44c257c17caa1a9aea0c6c0a4399a603158f65dbd70ccf610d4133f9f1d9"
+    },
+    {
+      "path": "notes/perspectivalism-adversarial-v2.md",
+      "bytes": 20024,
+      "sha256": "e8986783e09f5595d66183037972648f6b6a54c76318fe7377e7dd830308a732"
+    },
+    {
+      "path": "notes/positive-analogy-primary-v3-sources.json",
+      "bytes": 14779,
+      "sha256": "1352260b4ce509d39ada5068c8261c85305637d4e4bb87d2d8563cbafff7ae5a"
+    },
+    {
+      "path": "notes/positive-analogy-primary-v3.md",
+      "bytes": 17177,
+      "sha256": "8929cfad3717e3a2abd8862b0a3cf5432569f149da826768dd4db6c8f63ee6f7"
+    },
+    {
+      "path": "notes/positive-other-minds-primary-v3-sources.json",
+      "bytes": 10219,
+      "sha256": "2f616a3200d06a88feeb59b048bf711583b19e7a71041e218650ec6d9376031b"
+    },
+    {
+      "path": "notes/positive-other-minds-primary-v3.md",
+      "bytes": 11300,
+      "sha256": "0f5171d7f221fe00854a1c419e3ffdc8c85c628b6bd1f52cc9458ab043e67267"
+    },
+    {
+      "path": "notes/positive-reading-adversarial-v3-reading.json",
+      "bytes": 9857,
+      "sha256": "373c7f138d81f477f9e7b26a3745068b0282c424c6151b0185802a10a03c41be"
+    },
+    {
+      "path": "notes/positive-reading-adversarial-v3.md",
+      "bytes": 17012,
+      "sha256": "ef5f93deabd3073469be1fdea3a111fd7042fac1bd42916c254bfd3652d4fc4f"
+    },
+    {
+      "path": "notes/primary-character-identity-v4.json",
+      "bytes": 1017,
+      "sha256": "450cd58ef80af4d7aaa4bc2ef5c795d2afde88c8bd784052b92b2d8b34d6454e"
+    },
+    {
+      "path": "notes/primary-independent-experience-v3.json",
+      "bytes": 1525,
+      "sha256": "84d6656ba84d8be1fd507bd7e54e6a093f9e55f5e0b4ee52c256768fff0e16ec"
+    },
+    {
+      "path": "notes/primary-substance-cause-v3.json",
+      "bytes": 1018,
+      "sha256": "f33bafd31ae4539cc98f770ce24c5a8cdf14cbb97efdae25a94a5ce6cf1b6cbc"
+    },
+    {
+      "path": "notes/primary-witness-T1352.json",
+      "bytes": 1545,
+      "sha256": "bc9c25dabc2faffbe0020bc25b3bdc174f98ac167bf49b6417dbe44a1375974f"
+    },
+    {
+      "path": "notes/primary-witness-T3119.json",
+      "bytes": 810,
+      "sha256": "22d2c5d891a879dbf4a5e4361e8e04d1f63a9947b5dd27fcb53ca3ab59b186cc"
+    },
+    {
+      "path": "notes/root-reading-v2.json",
+      "bytes": 5932,
+      "sha256": "9ba00ce923372cc745d0641960599e8d7f6ff6b8aa8dec0112fcfbfeff50e002"
+    },
+    {
+      "path": "notes/root-reading-v3.json",
+      "bytes": 2042,
+      "sha256": "5a23a75f3b884a19c8827e3ccde170364ee79e6d59f65f95ef0f61b6ceeff820"
+    },
+    {
+      "path": "notes/root-reading-v4.json",
+      "bytes": 2842,
+      "sha256": "d7301cfb9fe50ad47bfb4ebb915e811e4358750d86dfc32232cd07b756c8086f"
+    },
+    {
+      "path": "notes/unity-identity-adversarial-v4-reading.json",
+      "bytes": 7750,
+      "sha256": "eb94c8950c4a3e3ac39150b3ea34278a15d5decfd7041a8564a94aa1cb9cdf2b"
+    },
+    {
+      "path": "notes/unity-identity-adversarial-v4.md",
+      "bytes": 14304,
+      "sha256": "d0944a1e6d8ec1d120aa21b6a810ceeb5a175b17f3a641e8716ddb9c552a11b5"
+    },
+    {
+      "path": "reports/first-investigations.md",
+      "bytes": 10203,
+      "sha256": "c2cca70c27df030dd2dd08f94a907de2967e67ea28a186b6ac601be1ba56ff94"
+    },
+    {
+      "path": "reports/positive-reconstruction.md",
+      "bytes": 12862,
+      "sha256": "511412ba5a76f296fcec0bba994e91430e322e1e3ee9fb69c817654ce5edc07e"
+    },
+    {
+      "path": "reports/second-investigations.md",
+      "bytes": 10767,
+      "sha256": "ccc66bcc4e0f208776a3afe326a66c767b48eeb405ef8c4531ab900fed548431"
+    },
+    {
+      "path": "schemas/dossier-template.md",
+      "bytes": 1340,
+      "sha256": "705fd09accc16f7c012afea454f1e02a75c770fbf4e9ddcbaef2ca7e60996967"
+    },
+    {
+      "path": "scripts/check_argument_forms.py",
+      "bytes": 2054,
+      "sha256": "88551702da0ccb9c2ca4d94d1c7d553e12fed44c67d02dba0a8310eed645eeb5"
+    }
+  ],
+  "file_count_excluding_manifest": 59,
+  "total_bytes_excluding_manifest": 485242,
+  "validation": {
+    "json_parse": "passed",
+    "relative_markdown_links": "passed including manifest link",
+    "private_locator_and_credential_patterns": "passed",
+    "formal_check": "passed with /usr/bin/python3 (resolved Python 3.9.6), standard library only; eight valuations and eight worlds",
+    "automated_framing_review": "Two corrections incorporated; evaluation/public-edition-review.md"
+  }
+}

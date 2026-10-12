@@ -1,0 +1,24 @@
+{
+  "source_sha256": "bd89a6ff76c25780f9ab5b678e596f759b835cf0784a8b2dd1a50fa885c3c9d2",
+  "query": "\"same person may vary\"",
+  "reference_collation": "proposed only, independently verify before citation",
+  "results": [
+    {
+      "member": "hume.02.xml",
+      "kind": "p",
+      "ordinal": 661,
+      "proposed_reference": "T 1.4.6.19",
+      "text_sha256": "4888762a53330518a326fd20fc02a714b6543e46138045b2b24b38397351ed96",
+      "characters": 1386,
+      "has_real_relations_of_ideas": false,
+      "has_real_relations_without_of_ideas": false,
+      "public_fragment_matches": [
+        {
+          "input_sha256": "4effd2cca7295d0c98ccb651dfb9ec9d9ae881edd1a81a0bd46d490e5885e304",
+          "literal_match": true
+        }
+      ]
+    }
+  ],
+  "_public_edition_note": "Selected argument, reading and verification metadata. Private operational locators and quotation-account fields omitted. Checksums and claims about source checks are reported audit evidence, not public access to the private witness."
+}

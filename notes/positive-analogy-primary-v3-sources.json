@@ -1,0 +1,402 @@
+{
+  "schema": "hpa-primary-reading-ledger-v1",
+  "created": "2026-10-12",
+  "agent": "/root/new_hume_reading",
+  "artifact": "notes/positive-analogy-primary-v3.md",
+  "task": "Positive reconstruction of warranted causal extension beyond observed cases",
+  "sources": [
+    {
+      "id": "T145",
+      "url": "https://davidhume.org/texts/t/1/4/5",
+      "kind": "primary",
+      "reading_status": "complete_bounded_sequence",
+      "coverage": "T 1.4.5.1–35 and all displayed notes",
+      "page_labels_verified_in_html": "SBN 232–251",
+      "web_line_span_fully_inspected": [
+        0,
+        203
+      ],
+      "web_read_receipts": [
+        "turn263view0:45–203",
+        "turn265view0:0–102"
+      ],
+      "decisive_uses": [
+        "Substance versus cause: .1–6, .29–33",
+        "Illicit spatial addition: .12–14",
+        "Experience not a priori exclusion supports bodily cause of thought: .30",
+        "Immortality apology: .34–35 retained, not used to settle religion"
+      ],
+      "edition_or_provenance": "1739 original-edition-based witness; website edited version incorporates errata and Appendix changes, interventions displayed where returned",
+      "facsimile_collation": false,
+      "local_source_payload": false
+    },
+    {
+      "id": "E9",
+      "url": "https://davidhume.org/texts/e/9",
+      "kind": "primary",
+      "reading_status": "complete_bounded_sequence",
+      "coverage": "E 9.1–6 and note H, displayed note 20",
+      "page_labels_verified_in_html": "SBN 104–108",
+      "web_line_span_fully_inspected": [
+        0,
+        90
+      ],
+      "web_read_receipts": [
+        "turn258view3:0–57",
+        "turn260view3:32–90"
+      ],
+      "decisive_uses": [
+        "Anatomical and psychological extension: .1–5",
+        "One accurate experiment plus general habit: note H.3",
+        "Testimony enlarges experience: note H.11"
+      ],
+      "edition_or_provenance": "1777 copytext according to website editorial notes",
+      "facsimile_collation": false,
+      "local_source_payload": false
+    },
+    {
+      "id": "E10",
+      "url": "https://davidhume.org/texts/e/10",
+      "kind": "primary",
+      "reading_status": "complete_bounded_sequence",
+      "coverage": "E 10.1–41 and all displayed notes/endnotes",
+      "page_labels_verified_in_html": "SBN 109–131",
+      "web_line_span_fully_inspected": [
+        0,
+        275
+      ],
+      "web_read_receipts": [
+        "Initial complete opening inspection:0–148",
+        "turn216view0:128–174",
+        "turn218view0:160–206",
+        "turn220view2:174–260",
+        "turn221view2:237–275"
+      ],
+      "decisive_uses": [
+        "Testimony grounded in experienced veracity and motives: .5–7",
+        "Frost and unfamiliar circumstances: .10 and note I",
+        "Eight-day darkness versus resurrection: .35–37",
+        "No probability increase from independently inaccessible divine attributes: .38"
+      ],
+      "edition_or_provenance": "1777 copytext according to website editorial notes",
+      "facsimile_collation": false,
+      "local_source_payload": false
+    },
+    {
+      "id": "E11",
+      "url": "https://davidhume.org/texts/e/11",
+      "kind": "primary",
+      "reading_status": "complete_bounded_sequence",
+      "coverage": "E 11.1–30 and note M, displayed note 31",
+      "page_labels_verified_in_html": "SBN 132–148",
+      "web_line_span_fully_inspected": [
+        0,
+        168
+      ],
+      "web_read_receipts": [
+        "turn216view1:0–49",
+        "turn218view1:26–66",
+        "turn220view0:52–92",
+        "turn221view0:77–114",
+        "turn224view0:103–164",
+        "turn226view0:124–168"
+      ],
+      "decisive_uses": [
+        "Friend impersonates Epicurus; narrator withholds blanket approval: .1",
+        "Proportional attribution: .12–14",
+        "Footprint/building objection and independent known-species reply: .24–27",
+        "Normative argument versus actual belief/conduct: .28",
+        "Narrator singular-universe objection: .30",
+        "No added effects from solely known effect: note M"
+      ],
+      "edition_or_provenance": "1777 copytext according to website editorial notes",
+      "facsimile_collation": false,
+      "local_source_payload": false
+    },
+    {
+      "id": "E12",
+      "url": "https://davidhume.org/texts/e/12",
+      "kind": "primary",
+      "reading_status": "complete_bounded_sequence",
+      "coverage": "E 12.1–34 and all displayed endnotes N–Q",
+      "page_labels_verified_in_html": "SBN 149–165",
+      "web_line_span_fully_inspected": [
+        0,
+        187
+      ],
+      "web_read_receipts": [
+        "turn216view2:0–43",
+        "turn218view2:31–63",
+        "turn220view1:49–92",
+        "turn221view1:76–114",
+        "turn224view1:98–166",
+        "turn226view1:126–187"
+      ],
+      "decisive_uses": [
+        "No experienced perception/object conjunction: .10–14",
+        "Unknown substratum after removing qualities: .16",
+        "Fragile global scepticism and mitigated scope: .22–26",
+        "History/science/theology so far supported by experience: .29–32"
+      ],
+      "edition_or_provenance": "1777 copytext according to website editorial notes",
+      "facsimile_collation": false,
+      "local_source_payload": false
+    },
+    {
+      "id": "D0",
+      "url": "https://davidhume.org/texts/d/0",
+      "kind": "primary",
+      "reading_status": "complete_bounded_sequence",
+      "coverage": "D 0.1–6, complete introduction",
+      "page_labels_verified_in_html": "KS 127–129",
+      "web_line_span_fully_inspected": [
+        0,
+        32
+      ],
+      "web_read_receipts": [
+        "turn265view3:0–32"
+      ],
+      "decisive_uses": [
+        "Dialogue as setting for uncertain disputed questions",
+        "Pamphilus narrator, different character positions"
+      ],
+      "edition_or_provenance": "1779 first-edition text with minimal editorial changes according to website notes",
+      "facsimile_collation": false,
+      "local_source_payload": false
+    },
+    {
+      "id": "D1",
+      "url": "https://davidhume.org/texts/d/1",
+      "kind": "primary",
+      "reading_status": "complete_bounded_sequence",
+      "coverage": "D 1.1–20 and all displayed notes",
+      "page_labels_verified_in_html": "KS 130–140",
+      "web_line_span_fully_inspected": [
+        0,
+        117
+      ],
+      "web_read_receipts": [
+        "turn258view0:0–38",
+        "turn260view0:24–64",
+        "turn262view0:36–117",
+        "turn262view2:68–117"
+      ],
+      "decisive_uses": [
+        "Pamphilus pupil/adopted son of Cleanthes: .1",
+        "Philo scientific/common-life method: .9",
+        "Suspense argument: .10–11",
+        "Cleanthes challenge to indiscriminate scientific/theological exclusion: .12–16"
+      ],
+      "edition_or_provenance": "1779 first-edition text",
+      "facsimile_collation": false,
+      "local_source_payload": false
+    },
+    {
+      "id": "D2",
+      "url": "https://davidhume.org/texts/d/2",
+      "kind": "primary",
+      "reading_status": "complete_bounded_sequence",
+      "coverage": "D 2.1–28 and displayed note",
+      "page_labels_verified_in_html": "KS 141–151",
+      "web_line_span_fully_inspected": [
+        0,
+        122
+      ],
+      "web_read_receipts": [
+        "turn226view3:0–38",
+        "turn256view1:14–82",
+        "turn257view1:37–122"
+      ],
+      "decisive_uses": [
+        "Design presented by Cleanthes: .5",
+        "Variable analogical strength: .7–9",
+        "Parts/whole and novel formation circumstances: .17–24",
+        "Copernican observed analogies and Galileo: .25–28"
+      ],
+      "edition_or_provenance": "1779 first-edition text",
+      "facsimile_collation": false,
+      "local_source_payload": false
+    },
+    {
+      "id": "D3",
+      "url": "https://davidhume.org/texts/d/3",
+      "kind": "primary",
+      "reading_status": "complete_bounded_sequence",
+      "coverage": "D 3.1–13, complete Part 3",
+      "page_labels_verified_in_html": "KS 152–157",
+      "web_line_span_fully_inspected": [
+        0,
+        52
+      ],
+      "web_read_receipts": [
+        "turn216view3:0–32",
+        "turn218view3:21–52"
+      ],
+      "decisive_uses": [
+        "Novel intelligent voice and natural books: Cleanthes .2–6",
+        "Natural/irregular argumentative force: Cleanthes .7–8",
+        "Pamphilus reports Philo embarrassed without reply: .10",
+        "Demea reply concerns divine anthropology: .11–13"
+      ],
+      "edition_or_provenance": "1779 first-edition text",
+      "facsimile_collation": false,
+      "local_source_payload": false
+    },
+    {
+      "id": "D4",
+      "url": "https://davidhume.org/texts/d/4",
+      "kind": "primary",
+      "reading_status": "complete_bounded_sequence",
+      "coverage": "D 4.1–14, complete Part 4",
+      "page_labels_verified_in_html": "KS 158–164",
+      "web_line_span_fully_inspected": [
+        0,
+        65
+      ],
+      "web_read_receipts": [
+        "turn258view1:0–40",
+        "turn260view1:20–59",
+        "turn262view1:35–65"
+      ],
+      "decisive_uses": [
+        "Cleanthes causal explanation need not explain its cause: .13",
+        "Philo permits particular effects explained by ultimately unexplained general causes: .14",
+        "Causal regress and rival ordering hypotheses retained: .5–12"
+      ],
+      "edition_or_provenance": "1779 first-edition text",
+      "facsimile_collation": false,
+      "local_source_payload": false
+    },
+    {
+      "id": "D5",
+      "url": "https://davidhume.org/texts/d/5",
+      "kind": "primary",
+      "reading_status": "complete_bounded_sequence",
+      "coverage": "D 5.1–13 and displayed notes",
+      "page_labels_verified_in_html": "KS 165–169",
+      "web_line_span_fully_inspected": [
+        0,
+        75
+      ],
+      "web_read_receipts": [
+        "turn258view2:0–48",
+        "turn260view2:33–75"
+      ],
+      "decisive_uses": [
+        "No infinity/perfection/unity from experimental design alone: .5–12",
+        "Cleanthes affirms conceded design sufficient for religion: .13"
+      ],
+      "edition_or_provenance": "1779 first-edition text",
+      "facsimile_collation": false,
+      "local_source_payload": false
+    },
+    {
+      "id": "D12",
+      "url": "https://davidhume.org/texts/d/12",
+      "kind": "primary",
+      "reading_status": "complete_bounded_sequence",
+      "coverage": "D 12.1–34 and all displayed notes 10–13",
+      "page_labels_verified_in_html": "KS 214–228",
+      "web_line_span_fully_inspected": [
+        0,
+        172
+      ],
+      "web_read_receipts": [
+        "turn221view3:0–33",
+        "turn224view2:21–59",
+        "turn226view2:43–97",
+        "turn256view0:63–142",
+        "turn257view0:84–172",
+        "turn281view0:0–137"
+      ],
+      "decisive_uses": [
+        "Strong positive scientific/design declarations: Philo .2–4, .6",
+        "Proportional analogies, turnip extension: Philo .6–8",
+        "Actual impossibility of sustained suspense: .6",
+        "Restricted final proposition and philosophical assent: Philo .33",
+        "Pamphilus final preference for Cleanthes: .34",
+        "Unavoidable assent despite logical difficulty: note 11"
+      ],
+      "edition_or_provenance": "1779 first-edition text",
+      "facsimile_collation": false,
+      "local_source_payload": false
+    },
+    {
+      "id": "T-notes",
+      "url": "https://davidhume.org/texts/t/notes",
+      "kind": "editorial_provenance",
+      "reading_status": "complete_bounded_sequence",
+      "coverage": "Entire displayed editorial note",
+      "page_labels_verified_in_html": null,
+      "web_line_span_fully_inspected": [
+        0,
+        33
+      ],
+      "web_read_receipts": [
+        "turn281view1"
+      ],
+      "decisive_uses": [
+        "Original-edition source; errata/Appendix incorporation; editorial interventions"
+      ],
+      "edition_or_provenance": null,
+      "facsimile_collation": false,
+      "local_source_payload": false
+    },
+    {
+      "id": "E-notes",
+      "url": "https://davidhume.org/texts/e/notes",
+      "kind": "editorial_provenance",
+      "reading_status": "complete_bounded_sequence",
+      "coverage": "Entire displayed editorial note",
+      "page_labels_verified_in_html": null,
+      "web_line_span_fully_inspected": [
+        0,
+        21
+      ],
+      "web_read_receipts": [
+        "turn268view0"
+      ],
+      "decisive_uses": [
+        "1748 first publication; 1777 copytext"
+      ],
+      "edition_or_provenance": null,
+      "facsimile_collation": false,
+      "local_source_payload": false
+    },
+    {
+      "id": "D-notes",
+      "url": "https://davidhume.org/texts/d/notes",
+      "kind": "editorial_provenance",
+      "reading_status": "complete_bounded_sequence",
+      "coverage": "Entire displayed editorial note",
+      "page_labels_verified_in_html": null,
+      "web_line_span_fully_inspected": [
+        0,
+        44
+      ],
+      "web_read_receipts": [
+        "turn268view1"
+      ],
+      "decisive_uses": [
+        "1779 first-edition text; editor reports composition 1751–52 and revisions through 1776"
+      ],
+      "edition_or_provenance": null,
+      "facsimile_collation": false,
+      "local_source_payload": false
+    }
+  ],
+  "scope_gaps": [
+    "Dialogues Parts 6–11 not read in this stage",
+    "No facsimile collation in this stage",
+    "No independent chronology archival investigation; composition dates attributed to website editor",
+    "No novelty or full secondary-literature priority assessment; analogy not claimed new",
+    "No complete external-object argument T 1.4.2 in this stage"
+  ],
+  "conclusions": {
+    "supported": "Local separation of empirical causal relation from unsupported substance; extension requires supported resemblance and independent evidence for added attributes. Unknown ultimate explanation alone does not prohibit natural science.",
+    "rejected": "Only intrinsic nature is excluded; argument limits establish actual general suspension; unseen or novel causes categorically forbidden.",
+    "unresolved": "Relation of strong Part 12 design affirmations to earlier singular-universe objections; authorial religious position; foundational inductive justification; external-object ontology.",
+    "voice_case": "Proposed familiar speech signature response is the agent reconstruction, not a reply recorded from Philo."
+  },
+  "_public_edition_note": "Selected argument, reading and verification metadata. Private operational locators and quotation-account fields omitted. Checksums and claims about source checks are reported audit evidence, not public access to the private witness."
+}

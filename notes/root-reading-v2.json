@@ -1,0 +1,137 @@
+{
+  "schema": "hpa-root-reading-v2",
+  "date": "2026-10-12",
+  "reader": "principal investigator /root",
+  "method": "Original accessible text read in bounded web/remote extracts; no local source files. Full means text including notes and bibliography, not image collation.",
+  "full_arguments": [
+    {
+      "id": "hakkarainen-realism-2012",
+      "author": "Jani Hakkarainen",
+      "title": "Hume’s Scepticism and Realism",
+      "doi": "10.1080/09608788.2012.664024",
+      "url": "https://scispace.com/pdf/hume-s-scepticism-and-realism-3iyqczay45.pdf",
+      "coverage": "All47author-manuscript pages, including all notes; original published page mapping uncollated",
+      "decisive_locators": [
+        "MS12–19 second profound argument",
+        "MS20–21 and n23 successive assent",
+        "MS26–34 domain distinction",
+        "MS47n35 empirical science compatibility"
+      ],
+      "durable_status": "Remote acquisition HTTP403; web text read; no claim of archived original"
+    },
+    {
+      "id": "zahn-perspectivalist-2025",
+      "author": "Sam Zahn",
+      "title": "Is Hume a Perspectivalist?",
+      "doi": "10.3998/ergo.7132",
+      "coverage": "All34publisher PDF pages including notes and bibliography",
+      "decisive_locators": [
+        "pp3–4 truth tracking/internalism",
+        "pp14–16 first-order truth concession",
+        "pp20–23 title principle",
+        "pp26–27 Hakkarainen comparison",
+        "pp28–33 cross-perspective consistency and mixed dispositions"
+      ],
+      "identity_check": "Author and title independently rechecked in preserved PDFpage1 during final review"
+    },
+    {
+      "id": "garrett-loeb-reply-2014",
+      "author": "Don Garrett",
+      "title": "Loeb’s ‘Standard’ Questions about Hume’s Concept of Probable Truth",
+      "doi": "10.1353/hms.2014.0022",
+      "coverage": "All23PDFpages: cover and printed279–300, including notes",
+      "decisive_locators": [
+        "280–85 standards and probable truth",
+        "286–92 sceptical doubts and convergence",
+        "293–96 body belief and senses",
+        "297–99 contingency and belief"
+      ],
+      "counterpart_gap": "Loeb original archived but not fully read; no verdict against his complete argument"
+    },
+    {
+      "id": "demeter-methodological-solipsism-2025",
+      "author": "Tamas Demeter",
+      "title": "Hume’s methodological solipsism",
+      "doi": "10.1007/s11098-025-02334-8",
+      "url": "https://link.springer.com/article/10.1007/s11098-025-02334-8",
+      "coverage": "PublisherHTML §§1–6, all68notes and bibliography; selected publisherPDF pagination",
+      "decisive_locators": [
+        "§2/printed1470–72 method and metaphysical commitment",
+        "§5/n61 Garrett relative ideas",
+        "§2 social observation and structural uniformity"
+      ],
+      "rights": "CC BY4.0 on publisher page",
+      "correction": "Structural-uniformity reference printedT2.2.11.5 should beT2.1.11.5; separate defender verified and root checked T2.1.11.3–5"
+    }
+  ],
+  "partial_arguments": [
+    {
+      "id": "garrett-millican-dialogue-2011",
+      "coverage": "Root printed1–18; separate investigator full dialogue and references"
+    },
+    {
+      "id": "hakkarainen-third-2012",
+      "coverage": "Root selected textual comparisons via separate full-reading assessment; full original read by separate investigator"
+    },
+    {
+      "id": "clay-separability-2024",
+      "coverage": "Root assessed full-reading note and formal reconstruction; separate investigator full11-page manuscript"
+    },
+    {
+      "id": "zahn-two-forms",
+      "coverage": "Root assessed separate full-reading note; separate investigator all original pages"
+    },
+    {
+      "id": "garrett-millican-reply-2014",
+      "coverage": "Separate investigator full original; root inspected complete resulting assessment"
+    }
+  ],
+  "primary_reading": [
+    {
+      "url": "https://davidhume.org/texts/t/1/3/5",
+      "coverage": "Complete section1–7; decisive.2/SBN84",
+      "private_fragment_check": "notes/primary-witness-T1352.json"
+    },
+    {
+      "url": "https://davidhume.org/texts/t/1/2/5",
+      "coverage": "Selected.25–28 and completeAppendixn12",
+      "chronology": "1739body; appended1740note distinct"
+    },
+    {
+      "url": "https://davidhume.org/texts/t/1/4/7",
+      "coverage": "Complete15paragraphs and notes"
+    },
+    {
+      "url": "https://davidhume.org/texts/t/1/4/2",
+      "coverage": "Paragraphs1–19; not full57paragraph section"
+    },
+    {
+      "url": "https://davidhume.org/texts/e/12",
+      "coverage": "Paragraphs1–28; later copytext not silently applied to1739"
+    },
+    {
+      "url": "https://davidhume.org/texts/t/2/1/11",
+      "coverage": "Paragraphs1–19, with primary focus3–5; remainder not claimed"
+    }
+  ],
+  "novelty_coverage": {
+    "sources": "Complete sources above; separate assessor ledgers give full/partial further originals and discovery-only leads",
+    "known_precedents": [
+      "Hakkarainen n35 already preserves science under restricted suspension",
+      "Demeter already combinesT1.3.5.2/T1.2.5.26",
+      "Hakkarainen n23 already raises successive-assent challenge",
+      "Millican/Loeb bad-argument objection established",
+      "Qu overlap example explicitly credited in Clay"
+    ],
+    "exhaustive_forward_search": false,
+    "original_intervention_promoted": false
+  },
+  "limits": [
+    "No human endorsement",
+    "Same-session nonblinded automated reviews",
+    "No untouched evaluation set",
+    "No critical/page-image collation",
+    "Full Hakkarainen realism manuscript durable copy unresolved"
+  ],
+  "_public_edition_note": "Selected argument, reading and verification metadata. Private operational locators and quotation-account fields omitted. Checksums and claims about source checks are reported audit evidence, not public access to the private witness."
+}

@@ -1,0 +1,227 @@
+{
+  "assessment": "garrett-induction-assessment-v2.md",
+  "date": "2026-10-12",
+  "status": "completed_bounded_adversarial_assessment",
+  "purpose": "Defend Garrett's strongest actual interpretation against Millican, while following primary evidence and later qualifications.",
+  "verdict": "Positive support for dependency on custom and distinct inferential/evaluative boundaries; unresolved pressure on invalid demonstrative steps and immediate causation of particular predictions; no novelty or complete vindication claimed.",
+  "reading_method": "Complete means all accessible extracted text inspected, including notes and references. It does not mean facsimile collation. Selective coverage is identified below.",
+  "sources": [
+    {
+      "id": "garrett_millican_2011",
+      "authors": [
+        "Don Garrett",
+        "Peter Millican"
+      ],
+      "title": "Reason, Induction and Causation in Hume's Philosophy",
+      "year": 2011,
+      "series": "IASH Occasional Paper 19",
+      "url": "https://era.ed.ac.uk/bitstreams/ce5776f7-d5c1-4972-bc50-4952a296ac36/download",
+      "reading": "complete",
+      "physical_pdf_pages": 48,
+      "printed_coverage": "Dialogue pp1-35; bibliography pp37-39; front and back matter included",
+      "web_extracted_line_coverage": "0-1226 of1227, through overlapping opens; including previously missing1002-1041",
+      "decisive_pages": [
+        17,
+        19,
+        20,
+        21,
+        22,
+        24
+      ],
+      "pagination_note": "Supplied description of printedpp1-42 was not verified. Extracted labels give dialogue1-35 and bibliography37-39.",
+      "image_check": "Screenshot forPDFindex29/printedp24 failed: tool could not resolve PDF screenshot. Typography not independently verified.",
+      "local_source_copy": false,
+      "sha256": null
+    },
+    {
+      "id": "garrett_reply_2014_2016",
+      "author": "Don Garrett",
+      "title": "Millican's Abstract, Imaginative, Reasonable, and Sensible Questions about Hume's Theory of Cognition",
+      "journal": "Hume Studies",
+      "volume": 40,
+      "issue": 2,
+      "issue_year": 2014,
+      "appearance_year": 2016,
+      "pages": "227-242",
+      "doi": "10.1353/hms.2014.0021",
+      "url": "https://humesociety.org/?hume_article_pdf=16383",
+      "reading": "complete",
+      "physical_pdf_pages": 17,
+      "coverage": "Cover and all printedpp227-242, including notes and works cited",
+      "decisive_pages": "234-238,240-241notes6-9",
+      "retrieval": "Parent acquired public official article directly on authorized remote host, preserved and verified remote copy, and supplied read-only reader. Subagent inspected three remote text batches: first1/count6,first7/count6,first13/count5.",
+      "reader": "[private filesystem path omitted]",
+      "reader_source_id": "garrett-millican-reply-2014",
+      "sha256": "e2d5e789185484e151b75aa9dcc79c89e39ae94cd3f4f84b76b0871c64f05133",
+      "remote_preservation_receipt_owner": "parent/root",
+      "image_check": "Extracted printed page labels checked; no facsimile collation",
+      "access_history": "Initial webreader proxy cache miss and Muse631778 rejection; no available browser. Resolved by authorized remote public-source reader without localPDF.",
+      "miscitation": "Printedp236 referencesT2.2.3 for voluntary action; relevant sequenceT2.3.3. Assessment does not rely on the misprinted identifier.",
+      "local_source_copy": false
+    },
+    {
+      "id": "millican_2012",
+      "author": "Peter Millican",
+      "title": "Hume's Scepticism about Induction",
+      "year": 2012,
+      "container": "The Continuum Companion to Hume",
+      "pages": "57-103",
+      "url": "https://davidhume.org/scholarship/papers/millican/2012_Induction.pdf",
+      "reading": "selective",
+      "physical_pdf_pages": 47,
+      "coverage": "Continuous relevant discussion printedpp74-83 and beginning84; extractedlines1235-1912. Additional targeted finds and notes consulted, not complete chapter.",
+      "decisive_pages": "76-79:fallacious argument and antecedently established uniformity premise;79-83:faculty framework and semantic qualifications",
+      "historical_source_limit": "Hutcheson/Price/Beattie/Johnson editions not independently collated; chapter's historical comparison does not establish own source-edition reading.",
+      "local_source_copy": false,
+      "sha256": null
+    },
+    {
+      "id": "millican_2014",
+      "author": "Peter Millican",
+      "title": "Skepticism about Garrett's Hume: Faculties, Concepts, and Imposed Coherence",
+      "journal": "Hume Studies",
+      "volume": 40,
+      "issue": 2,
+      "year": 2014,
+      "pages": "205-226",
+      "url": "https://davidhume.org/scholarship/papers/millican/2014_Garrett%27s_Hume.pdf",
+      "reading": "selective",
+      "physical_pdf_pages": 22,
+      "coverage": "Printedpp209-216,sections3-4; relevant notes on222-223,includingnotes13-25; metadata and targeted finds. Not complete article.",
+      "local_source_copy": false,
+      "sha256": null
+    },
+    {
+      "id": "loeb_2006",
+      "author": "Louis E. Loeb",
+      "title": "Psychology, Epistemology, and Skepticism in Hume's Argument about Induction",
+      "year": 2006,
+      "journal": "Synthese",
+      "volume": 152,
+      "pages": "321-338",
+      "doi": "10.1007/s11229-006-9008-1",
+      "url": "https://fitelson.org/confirmation/loeb.pdf",
+      "witness": "Author manuscript,28PDFpages; printed manuscript pagination differs from published journal",
+      "reading": "selective",
+      "coverage": "Manuscriptpp9-13,section3 and beginning4; earlier contextpp8-9 inspected. Not complete article.",
+      "use": "Prior objection and reportedGarrett1998reply; not substitute for original1998reading",
+      "local_source_copy": false,
+      "sha256": null
+    },
+    {
+      "id": "qu_positive_induction",
+      "author": "Hsueh Qu",
+      "title": "Hume's Positive Argument on Induction",
+      "url": "https://pgrim.org/philosophersannual/2014nominations/quhume.pdf",
+      "witness": "Early online articlePDF headedNous00:0(2013)1-31,31physicalpages; do not substitute this pagination for later publication",
+      "reading": "selective",
+      "coverage": "Onlinepp1-3,9-10 and notes25-27 ononlinep26; targeted contextfinds. Not complete article.",
+      "use": "Existing normative reading and already reported Garrett causal-reliability alternative forE5.22",
+      "local_source_copy": false,
+      "sha256": null
+    },
+    {
+      "id": "cottrell_2024",
+      "author": "Jonathan Cottrell",
+      "title": "Natural Teleology in Hume's Sceptical Solution",
+      "year": 2024,
+      "published_date": "2024-05-13",
+      "journal": "Journal of Modern Philosophy",
+      "volume": 6,
+      "doi": "10.25894/jmp.1901",
+      "url": "https://www.research.ed.ac.uk/files/471204480/jmp-1901-cottrell_1_.pdf",
+      "witness": "PublisherPDF with repositorycover;38physicalpages",
+      "reading": "selective",
+      "coverage": "Printedpp1-3,5-9 and bibliographic metadata, plus targetedfinds. Not complete article.",
+      "rights": "CC-BY4.0 per repositoryPDF page1",
+      "use": "Evidence of live combined causal/evaluative interpretation; full natural teleology argument not adjudicated",
+      "local_source_copy": false,
+      "sha256": null
+    }
+  ],
+  "primary_reading": {
+    "provider": "Hume Texts Online",
+    "edition_limit": "Edited webwitness with SBNlabels, not facsimile edition collation. TreatiseBooks1/2 from1739 andEnquiry1777 witness context. Public-domain Hume quotations unrestricted by project's scholarly quotation cap.",
+    "complete_sections": [
+      {
+        "section": "T1.3.1",
+        "url": "https://davidhume.org/texts/t/1/3/1",
+        "coverage": ".1-.7 andnote"
+      },
+      {
+        "section": "T1.3.3",
+        "url": "https://davidhume.org/texts/t/1/3/3",
+        "coverage": ".1-.9 andnotes17-19"
+      },
+      {
+        "section": "T1.3.6",
+        "url": "https://davidhume.org/texts/t/1/3/6",
+        "coverage": ".1-.16"
+      },
+      {
+        "section": "T1.3.8",
+        "url": "https://davidhume.org/texts/t/1/3/8",
+        "coverage": ".1-.17 andnote21"
+      },
+      {
+        "section": "T1.3.9",
+        "url": "https://davidhume.org/texts/t/1/3/9",
+        "coverage": ".1-.19 andnote22"
+      },
+      {
+        "section": "T1.3.13",
+        "url": "https://davidhume.org/texts/t/1/3/13",
+        "coverage": ".1-.20 andnotes"
+      },
+      {
+        "section": "T1.4.1",
+        "url": "https://davidhume.org/texts/t/1/4/1",
+        "coverage": ".1-.12"
+      },
+      {
+        "section": "T1.4.4",
+        "url": "https://davidhume.org/texts/t/1/4/4",
+        "coverage": ".1-.15 andnote"
+      },
+      {
+        "section": "T1.4.7",
+        "url": "https://davidhume.org/texts/t/1/4/7",
+        "coverage": ".1-.15 andnotes51-53"
+      },
+      {
+        "section": "E4",
+        "url": "https://davidhume.org/texts/e/4",
+        "coverage": ".1-.23 andnote7"
+      },
+      {
+        "section": "E5",
+        "url": "https://davidhume.org/texts/e/5",
+        "coverage": ".1-.22,NOTE B.1-.5,andCicero quotationnote9"
+      }
+    ],
+    "selective_sections": [
+      {
+        "section": "T1.2.4",
+        "url": "https://davidhume.org/texts/t/1/2/4",
+        "coverage": ".7-.23; not full section"
+      }
+    ],
+    "strongest_tests": [
+      "T1.3.8.14:SBN104-105:reflection indirectly producescustom",
+      "E5.22:SBN55:fallacious deductions ofreason",
+      "T1.4.1.1:SBN180:infallible rules and fallible applications",
+      "T1.3.9.19n22:SBN117-118:inferential boundary",
+      "T1.3.6.12-.15:SBN92-93 versusT1.4.4.1:SBN225:imagination and stablecustom",
+      "T1.4.7.7:SBN267-268:identifyingunderstanding withestablishedimaginativeproperties"
+    ]
+  },
+  "search_and_limits": {
+    "novelty": "No novelty claim. Original bad-argument objection explicitly inMillican1998 as reported byLoeb2006,withGarrett1998p187reply; continued2011/2012/2014dispute.",
+    "original_1998": "Not independently read; later sources and dialogue report revisions. Do not characterize older reports as latest Garrettposition.",
+    "garrett_2015_book": "Not fully read;2014/2016symposiumreply read in full.",
+    "later_than_2016": "Cottrell2024selectivelyinspected; not exhaustive later-replies search.",
+    "model_agreement": "Not evidence of historical correctness; this is a separate source-based assessment, not independent human validation.",
+    "external_contacts": false
+  },
+  "_public_edition_note": "Selected argument, reading and verification metadata. Private operational locators and quotation-account fields omitted. Checksums and claims about source checks are reported audit evidence, not public access to the private witness."
+}

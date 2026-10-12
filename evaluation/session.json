@@ -1,0 +1,46 @@
+{
+  "schema": "hpa-session-v1",
+  "date": "2026-10-12",
+  "thread_id": "01a13177-96a8-75c2-941f-6c89f36361fe",
+  "system_model_family": "GPT-6",
+  "exact_deployed_model": null,
+  "sampling_parameters": null,
+  "reasoning_effort": null,
+  "unavailable_configuration_reason": "Not exposed by this session; inspected model/config environment variables absent",
+  "delegates": [
+    {
+      "role": "new_hume_reading",
+      "model_override": false,
+      "tasks": [
+        "HPA-001 investigation",
+        "separate HPA-002 defence"
+      ]
+    },
+    {
+      "role": "treatise_investigation",
+      "model_override": false,
+      "tasks": [
+        "HPA-002 investigation",
+        "separate HPA-001 defence"
+      ]
+    }
+  ],
+  "prompt_record": {
+    "user_brief": "REQUEST.md; verbatim pasted request",
+    "delegation_summaries": [
+      "Read original full accessible arguments; select exact claims only after reading; reconstruct objection, defence, alternative and novelty without local source downloads",
+      "Cross-assess the other investigator’s claim; defend the target and identify the weakest step without instruction to agree"
+    ],
+    "summary_warning": "Delegation entries are retrospective summaries, not verbatim prompts; exact turn messages remain in the Codex conversation history",
+    "important_constraints": "AGENTS.md; original user brief takes priority"
+  },
+  "source_access": "SOURCES.md and notes/*-sources.json",
+  "successive_versions": "Git history plus notes/*-sources.json argument_versions",
+  "initial_version_commit": "5eb60c4",
+  "assessment": "Automated same-session inherited configuration, nonblinded; not human or independent historical validation",
+  "prior_exposure": "unknown; pretraining contamination not controlled",
+  "holdout": "None; HPA-001/002 are development/comparison cases",
+  "verdict": "No decisive consequential error or original intervention survived first two investigations",
+  "training_admission": false,
+  "compute_jobs_submitted": 0
+}

@@ -1,0 +1,220 @@
+{
+  "assessment_id": "positive-reading-adversarial-v3",
+  "evidence_date": "2026-10-12",
+  "assessment_type": "nonblinded automated adversarial assessment of a proposed positive reconstruction",
+  "parent_task": "/root",
+  "assessor_task": "/root/perspectivalism_defence",
+  "model": {
+    "inheritance": "parent model, no override",
+    "exact_identifier": null,
+    "sampling_configuration": null,
+    "human_endorsement_or_independent_training_claimed": false
+  },
+  "prompt_scope": "Test whether other-minds inference can use experienced causal kinds while leaving perception-independent ultimate bearers unsettled; find original precedents, defend realist and perspectivalist replies, and reject the hypothesis if necessary.",
+  "argument_versions": [
+    {
+      "version": "initial",
+      "candidate": "Other mental causes are inferable through experience whereas material causes are not.",
+      "verdict": "objection withdrawn",
+      "reason": "T 1.4.5.30 and 33 explicitly admit bodily motion as a cause of thought."
+    },
+    {
+      "version": "revised",
+      "candidate": "Inferences among experienced kinds may support other human mental events without identifying a specifically different, unexperienced ultimate bearer or origin of perceptions.",
+      "verdict": "contestable alternative; supports a limited failure-of-entailment claim",
+      "unproved": [
+        "actual reflective metaphysical suspension",
+        "uniqueness of the reconstruction",
+        "global vindication of induction",
+        "refutation of perspectivalism",
+        "novelty over all prior scholarship"
+      ]
+    }
+  ],
+  "scholarship": [
+    {
+      "author": "Byoungjae Kim",
+      "title": "Hume on the Problem of Other Minds",
+      "online_publication_date": "2018-11-08",
+      "issue_year": 2019,
+      "journal": "British Journal for the History of Philosophy",
+      "volume_issue": "27(3)",
+      "doi": "10.1080/09608788.2018.1524365",
+      "url": "https://www.researchgate.net/publication/328822026_Hume_on_the_Problem_of_Other_Minds",
+      "publisher_metadata_url": "https://www.tandfonline.com/doi/abs/10.1080/09608788.2018.1524365",
+      "access": "author-uploaded typeset article exposed in web-reader text",
+      "coverage": "complete 21-page original argument, notes and bibliography; excludes ResearchGate related articles and citation abstracts",
+      "pagination": "article's own 1–21 pagination; final issue page equivalence unverified",
+      "metadata_caution": "ResearchGate header incorrectly reports 27(2); publisher identifies 27(3).",
+      "target_locations": [
+        "pp. 9–10",
+        "pp. 10–17",
+        "pp. 13–14",
+        "note 4",
+        "note 5",
+        "pp. 18–19"
+      ],
+      "full_argument_assessed": true,
+      "page_image_verified": false,
+      "source_sha256": null,
+      "source_bytes_archived_by_assessor": false,
+      "local_source_payload_created": false,
+      "verbatim_words_in_note": 10,
+      "novelty_role": "direct original precedent for the basic analogy; no priority claim for our reconstruction"
+    },
+    {
+      "author": "Haruko Inoue",
+      "title": "Hume's Position Concerning Other Minds",
+      "year": 2003,
+      "journal": "Annals of the Japan Association for Philosophy of Science",
+      "volume_issue": "11(2)",
+      "printed_pages": "75–86",
+      "issue_internal_pages": "19–30",
+      "doi": "10.4288/jafpos1956.11.75",
+      "url": "https://www.jstage.jst.go.jp/article/jafpos1956/11/2/11_2_75/_pdf/-char/en",
+      "access": "complete original journal PDF through web reader, 12 pages",
+      "coverage": "entire argument and notes; all 458 extracted lines",
+      "target_locations": [
+        "pp. 75–77",
+        "pp. 79–82",
+        "pp. 83–86"
+      ],
+      "full_argument_assessed": true,
+      "page_image_verified": false,
+      "publication_year_basis": "bibliographic metadata; date not independently printed in the extracted PDF text",
+      "source_sha256": null,
+      "source_bytes_archived_by_assessor": false,
+      "local_source_payload_created": false,
+      "verbatim_words_in_note": 0
+    },
+    {
+      "author": "A. E. Pitson",
+      "title": "Sympathy and Other Selves",
+      "year": 1996,
+      "journal": "Hume Studies",
+      "volume_issue": "22(2)",
+      "printed_pages": "255–271",
+      "access": "archive record located; original PDF routes failed",
+      "attempted_urls": [
+        "https://humesociety.org/?hume_article_pdf=15879",
+        "https://muse.jhu.edu/article/382947"
+      ],
+      "full_argument_assessed": false,
+      "secondary_reports_used_for_verdict": false
+    },
+    {
+      "author": "A. E. Pitson",
+      "title": "Hume's Philosophy of the Self",
+      "year": 2002,
+      "access": "relevant pp. 150–152 encountered only through another author's quotations; original not read",
+      "full_argument_assessed": false,
+      "secondary_reports_used_for_verdict": false
+    },
+    {
+      "author": "Rico Vitz",
+      "title": "The Nature and Functions of Sympathy in Hume's Philosophy",
+      "year": 2016,
+      "container": "The Oxford Handbook of Hume",
+      "printed_pages": "312–332",
+      "access": "bibliographic discovery only; original argument not read",
+      "full_argument_assessed": false,
+      "secondary_reports_used_for_verdict": false
+    },
+    {
+      "author": "Anik Waldow",
+      "title": "David Hume and the Problem of Other Minds",
+      "year": 2009,
+      "publisher": "Continuum",
+      "access": "publisher metadata and partial preview/snippets; direct Perlego full-preview reads failed",
+      "coverage": "partial introductory preview only; relevant complete argument unavailable",
+      "attempted_urls": [
+        "https://www.bloomsbury.com/uk/david-hume-and-the-problem-of-other-minds-9781441116918/",
+        "https://www.perlego.com/book/883131/david-hume-and-the-problem-of-other-minds-pdf"
+      ],
+      "full_argument_assessed": false,
+      "secondary_reports_used_for_verdict": false,
+      "limitation": "cannot adjudicate the book's solution or use a preliminary preview conclusion as its final position"
+    },
+    {
+      "author": "Anik Waldow",
+      "title": "Hume's Belief in Other Minds",
+      "year": 2009,
+      "journal": "British Journal for the History of Philosophy",
+      "volume_issue": "17(1)",
+      "printed_pages": "119–132",
+      "doi": "10.1080/09608780802548341",
+      "access": "publisher bibliographic record and abstract; complete original unavailable",
+      "attempted_urls": [
+        "https://www.tandfonline.com/doi/abs/10.1080/09608780802548341",
+        "https://scispace.com/pdf/hume-s-belief-in-other-minds-2xzcega0oa.pdf"
+      ],
+      "full_argument_assessed": false,
+      "secondary_reports_used_for_verdict": false
+    },
+    {
+      "author": "Dan O'Brien",
+      "title": "Sympathy in Hume's social epistemology",
+      "year": 2025,
+      "journal": "The Southern Journal of Philosophy",
+      "volume_issue": "63(2)",
+      "printed_pages": "224–235",
+      "doi": "10.1111/sjp.12634",
+      "access": "metadata and abstract only; publisher and institutional full-text routes failed",
+      "attempted_urls": [
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/sjp.12634",
+        "https://radar.brookes.ac.uk/radar/file/4777d5d0-08c2-4069-932a-828582d1d65e/1/The%20Southern%20J%20of%20Philosophy%20-%202025%20-%20O%27Brien%20-%20Sympathy%20in%20Hume%20s%20social%20epistemology.pdf"
+      ],
+      "full_argument_assessed": false
+    }
+  ],
+  "primary_reading": {
+    "provider": "Hume Texts Online, edited text",
+    "treatise_url": "https://davidhume.org/texts/t/full",
+    "enquiry_urls": [
+      "https://davidhume.org/texts/e/11",
+      "https://davidhume.org/texts/e/12"
+    ],
+    "edition_caution": "No independent page-image collation; edited Treatise includes Appendix interventions; later Enquiry evidence is kept chronologically separate.",
+    "current_stage_coverage": [
+      "T 1.3.15.6–12, SBN 173–176; earlier paragraphs already read in v2",
+      "T 1.3.16.1–9, SBN 176–179, complete section",
+      "T 1.4.2.45–50 and opening paragraph of 51, SBN 210–214",
+      "T 1.4.5.1–6, SBN 232–234",
+      "T 1.4.5.27–34, SBN 245–250",
+      "T 2.3.1.2–8, SBN 399–402",
+      "T 3.3.1.1–11, SBN 574–579",
+      "E 11.24–30 and 26n31, SBN 142–148, complete relevant dialogue and narrator response; adjacent context inspected but not recorded as full-section coverage",
+      "E 12.1–16, SBN 149–155"
+    ],
+    "earlier_direct_reading_reused": {
+      "ledger": "notes/perspectivalism-adversarial-v2-reading.json",
+      "passages": [
+        "T Intro.8–10",
+        "T 1.2.5.25–26 and 26n12",
+        "T 1.3.5.1–7",
+        "T 1.3.6.1–16",
+        "T 1.3.13.7–20",
+        "T 1.3.15.1–12",
+        "T 1.4.1.1–12",
+        "T 1.4.2.1–8 and 11",
+        "T 1.4.4.1–8",
+        "T 1.4.7.1–15",
+        "T 2.1.11.3–6",
+        "T 2.2.11.1–6",
+        "T 3.3.1.22–30"
+      ]
+    }
+  },
+  "novelty_audit": {
+    "systematic_search_completed": false,
+    "search_scope": "Hume other minds, sympathy, analogy, Pitson, Vitz, Waldow; original article discovery through author uploads and journal archive; selected backward references and later citation discovery",
+    "basic_analogy_novel": false,
+    "published_precedent_verified_in_full": [
+      "Kim 2018/2019",
+      "Inoue 2003"
+    ],
+    "integration_novelty": "unestablished",
+    "material_gap": "Waldow's complete relevant book and article arguments remain unassessed"
+  },
+  "_public_edition_note": "Selected argument, reading and verification metadata. Private operational locators and quotation-account fields omitted. Checksums and claims about source checks are reported audit evidence, not public access to the private witness."
+}

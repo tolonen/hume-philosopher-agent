@@ -1,0 +1,219 @@
+{
+  "id": "HPA-001",
+  "evidence_date": "2026-10-12",
+  "status": "completed_unsuccessful_objection",
+  "promotion": "not_an_intervention",
+  "independent_review": "completed_separate_automated_assessment; notes/adversarial-HPA-001.md",
+  "agent": {
+    "role": "new_hume_reading",
+    "model": "inherited; exact API model not independently exposed to this agent",
+    "configuration": "parent session defaults; no override",
+    "human_review": false,
+    "prior_exposure": "not controlled; no claim of uncontaminated discovery"
+  },
+  "task_prompt": "Read the complete 2009 Millican article and relevant later qualifications; select one consequential exact claim; test objection, strongest defence, primary evidence, alternative, novelty; no source PDF or corpus downloads locally; no contact with scholars.",
+  "sources": [
+    {
+      "id": "M2009",
+      "author": "Peter Millican",
+      "title": "Hume, Causal Realism, and Causal Science",
+      "publication": "Mind 118(471), 2009, 647–712",
+      "url": "https://davidhume.org/scholarship/papers/millican/2009_Causal_Science.pdf",
+      "doi": "10.1093/mind/fzp095",
+      "coverage": "full extracted-text argument, footnotes and references inspected",
+      "pdf_pages": 66,
+      "page_map": "zero-based PDF page index + 647 = printed page",
+      "decisive_pages": [
+        690,
+        699,
+        700,
+        701
+      ],
+      "target_page": 699,
+      "target_pdf_page_one_based": 53,
+      "page_image_verification": "2009 screenshots requested at indices 43 and 52; both cache misses",
+      "source_sha256": "9a303414b7e4e5944e37d94d7a886f0533c610893bf02679e0515458d440f99b",
+      "checksum_reason": "Remote-only acquisition with independent full archive size/SHA-256 readback; separate from argument reading",
+      "source_bytes": 389217,
+      "archive_member": "millican-2009.pdf"
+    },
+    {
+      "id": "B2007",
+      "author": "Helen Beebee",
+      "title": "The Two Definitions and the Doctrine of Necessity",
+      "publication": "Proceedings of the Aristotelian Society 107, 2007, 413–431",
+      "url": "https://philpapers.org/archive/BEETTD.pdf",
+      "doi": "10.1111/j.1467-9264.2007.00231.x",
+      "coverage": "full extracted text including references inspected",
+      "pdf_pages": 19,
+      "decisive_pages": [
+        425,
+        426,
+        427,
+        428,
+        429,
+        430
+      ],
+      "source_sha256": "66ad79b66cd0d5da4d4704fcf8e64ea23d17bb1763e21eaf6df85a7c0104454e",
+      "source_bytes": 137563,
+      "archive_member": "beebee-2007.pdf",
+      "checksum_reason": "Remote-only acquisition with independent full archive size/SHA-256 readback; separate from argument reading"
+    },
+    {
+      "id": "M2011",
+      "author": "Peter Millican",
+      "title": "Hume, Causal Realism, and Free Will",
+      "publication": "In Keith Allen and Tom Stoneham, Causation and Modern Philosophy, 2011, 123–165",
+      "url": "https://davidhume.org/scholarship/papers/millican/2011_Hume_Causal_Realism_Free_Will.pdf",
+      "coverage": "partial; selective inspection of section IV, printed pp.133–142, via find and overlapping opens; not complete chapter",
+      "pdf_pages": 43,
+      "decisive_pages": [
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142
+      ],
+      "important_qualification": "Conditional representational reconciliation discussed pp.141–142; no quote reproduced",
+      "source_sha256": "eee36962d2618578f1f3064810a567efd327053d1ddf1492e1294a0c5ef61242",
+      "source_bytes": 396013,
+      "archive_member": "millican-2011.pdf",
+      "checksum_reason": "Remote-only acquisition with independent full archive size/SHA-256 readback; separate from argument reading"
+    },
+    {
+      "id": "M2024",
+      "author": "Peter Millican",
+      "title": "Hume as Regularity Theorist—After All! Completing a Counter-Revolution",
+      "publication": "Hume Studies 49(1), 2024, 101–162",
+      "url": "https://davidhume.org/scholarship/papers/millican/2024_Hume_Regularity_Theorist.pdf",
+      "coverage": "partial; abstract, retrospective discussion around pp.118–119, definitional discussion around pp.125–131, subjectivism discussion around pp.135–140, conclusion around pp.148–149, selected notes/references; some ranges inspected selectively, not continuous full coverage",
+      "pdf_pages": 62,
+      "source_sha256": "e0dcb71c9e0708474793d3ab530d49500db8181560221cddadab584c77eb02b1",
+      "source_bytes": 359060,
+      "archive_member": "millican-2024.pdf",
+      "checksum_reason": "Remote-only acquisition with independent full archive size/SHA-256 readback; separate from argument reading"
+    },
+    {
+      "id": "HTO_COPYTEXT",
+      "url": "https://davidhume.org/notes/copytexts",
+      "coverage": "full metadata statement inspected",
+      "role": "edition provenance",
+      "checksum": null
+    },
+    {
+      "id": "HTO_EDITED",
+      "url": "https://davidhume.org/notes/edited",
+      "coverage": "full editorial policy inspected",
+      "role": "editing provenance",
+      "checksum": null
+    }
+  ],
+  "primary_passages": [
+    {
+      "ref": "T 1.3.14.27",
+      "pages": "SBN 168",
+      "url": "https://davidhume.org/texts/t/1/3/14",
+      "copytext": "1739 Book 1; HTO edited transcription",
+      "extent": "reply to preceding objection; unknown qualities plus next sentences rejecting intelligible connexion"
+    },
+    {
+      "ref": "T 1.3.14.33",
+      "pages": "SBN 171",
+      "url": "https://davidhume.org/texts/t/1/3/14",
+      "copytext": "1739 Book 1; HTO edited transcription",
+      "extent": "first paragraph sentence cluster; remainder about degrees inspected"
+    },
+    {
+      "ref": "T 1.4.5.30–33",
+      "pages": "SBN 247–250",
+      "url": "https://davidhume.org/texts/t/1/4/5",
+      "copytext": "1739 Book 1; HTO edited transcription",
+      "extent": "positive motion-causes-thought conclusion, dilemma and final qualified conclusion; preceding section context inspected through 2009 reconstruction and HTO selections"
+    },
+    {
+      "ref": "T 2.3.1.4",
+      "pages": "SBN 400–401",
+      "url": "https://davidhume.org/texts/t/2/3/1",
+      "copytext": "1739 Book 2; HTO edited transcription",
+      "extent": "paragraph and preceding comparison with matter inspected"
+    },
+    {
+      "ref": "T 2.3.2.4",
+      "pages": "SBN 409–410",
+      "url": "https://davidhume.org/texts/t/2/3/2",
+      "copytext": "1739 Book 2; HTO edited transcription",
+      "extent": "whole section inspected; concession identified inside religious defence introduced in paragraph 3"
+    },
+    {
+      "ref": "A 31–34",
+      "pages": "SBN 660–661",
+      "url": "https://davidhume.org/texts/a/",
+      "copytext": "1740 Abstract; HTO edited transcription",
+      "extent": "all four paragraphs inspected independently; A34 quoted whole"
+    },
+    {
+      "ref": "E 8.5–6, 8.27",
+      "pages": "SBN 82–83, 97",
+      "url": "https://davidhume.org/texts/e/8",
+      "copytext": "1777 Essays and Treatises; HTO edited transcription",
+      "extent": "paragraphs inspected independently with contexts; additional §§8.10–19 and 8.25–28 inspected"
+    }
+  ],
+  "verification_limits": {
+    "primary_page_images": "not independently inspected",
+    "SBN_pagination": "verified as HTO labels only",
+    "variant_status": "No relevant marked intervention in quoted clauses; full critical-edition variant collation not completed",
+    "source_acquisition": "Reading through web tool; four original PDFs later acquired directly on qualified transfer host, preserved privately and staging retired; no local PDF",
+    "corpus_build": "outside this subtask; parent is handling searchable corpus foundation"
+  },
+  "novelty_search": {
+    "date": "2026-10-12",
+    "queries": [
+      "Millican Hume, Causal Realism, and Free Will pdf",
+      "Beebee Two Definitions Doctrine of Necessity pdf",
+      "Millican causal realism reply 2024 2025",
+      "Millican ascription reference Hume"
+    ],
+    "followed": [
+      "Millican author bibliography on davidhume.org",
+      "2009 article references",
+      "2011 direct reply",
+      "2024 retrospective/references"
+    ],
+    "positive_precedent": "Beebee 2007 pp.425–430; Millican 2009 fn61 p.700; Millican 2011 §IV",
+    "unassessed_leads": [
+      "Harris 2003",
+      "Kail Projection and Realism 2007",
+      "Kail How to Understand Hume’s Realism",
+      "Wright Hume’s A Treatise of Human Nature",
+      "Strawson 2011/2014 books"
+    ],
+    "coverage_limit": "No exhaustive citation-index search; no absence-of-precedent assertion"
+  },
+  "argument_versions": [
+    {
+      "version": 1,
+      "proposal": "Sufficient regularity warrant need not entail metaphysical reduction",
+      "reason_changed": "2009 p.690 already makes the distinction; generic objection would miss explicit defence"
+    },
+    {
+      "version": 2,
+      "proposal": "Semantic univocity need not require exhaustive reference content",
+      "reason_changed": "Known Beebee argument; 2011 conditionally acknowledges reconciliation but challenges its representation theory"
+    },
+    {
+      "version": 3,
+      "conclusion": "Withdraw refutation; retain contestable alternative and precise defeat condition",
+      "reason": "T1.3.14.33, T2.3.1.4, A34 and representational burden prevent decisive contradiction"
+    }
+  ],
+  "parent_assessment": {
+    "result": "withdrawal retained; representation premise remains contested",
+    "human_endorsement": false,
+    "historically_independent": false
+  },
+  "task_prompt_status": "retrospective summary; not claimed as verbatim delegation message",
+  "_public_edition_note": "Selected argument, reading and verification metadata. Private operational locators and quotation-account fields omitted. Checksums and claims about source checks are reported audit evidence, not public access to the private witness."
+}

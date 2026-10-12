@@ -1,0 +1,149 @@
+{
+  "schema": "hpa-reading-ledger-v1",
+  "stage": "baxter-composition-v4",
+  "date": "2026-10-12",
+  "reader": "new_hume_reading",
+  "model": "Inherited parent model/configuration; exact identifier and sampling parameters not exposed",
+  "independence": "Separate automated assessment; nonblinded; not independent human evidence",
+  "verdict": "Organized-plurality versus real-complex-being fork remains genuine; causal content distinction does not settle it; no refutation of unread Hakkarainen 2019",
+  "sources": [
+    {
+      "id": "baxter-substance-2015",
+      "title": "Hume on Substance: A Critique of Locke",
+      "url": "https://philarchive.org/archive/BAXHOS-4",
+      "version": "Penultimate manuscript dated 2014-01-06; identified for Lodge and Stoneham volume, Routledge 2015",
+      "reading": "complete",
+      "coverage": "All 27 PDF pages; all seven sections; all footnotes; web extracted lines 0-644",
+      "pagination": "Manuscript pages 1-27; published pagination not verified",
+      "verified_claim_locations": [
+        "pp. 6-7",
+        "pp. 7-10",
+        "p. 8 n16",
+        "pp. 25-26, replying to Hakkarainen 2012 pp. 56-57",
+        "p. 27"
+      ],
+      "source_sha256": "ebed624660031d37bb539b5c8545a94cfb3f00b3a630869544c307f04c1886ea",
+      "source_bytes": 190347,
+      "archive_sha256": "c3c26f5927c7aaecede2a686da52ce5c7bab04183d2a0e29b666fb7db01b68ac",
+      "remote_verification": "Parent receipt records exact-size full readback verified",
+      "rights": "Public author manuscript; private research; no redistribution or training admission"
+    },
+    {
+      "id": "baxter-precis-2009",
+      "title": "Précis of Hume's Difficulty: Time and Identity in the Treatise",
+      "url": "https://philarchive.org/archive/BAXPOH-2",
+      "version": "Manuscript dated 2009-07-14, identifies final version Philosophical Studies 146 (2009), 407-411",
+      "reading": "complete",
+      "coverage": "All six PDF pages, extracted lines 0-161, including all three notes",
+      "pagination": "Manuscript pages 1-6; final published pagination not collated",
+      "scope_limit": "Author's original synopsis; not book or symposium critics' full arguments",
+      "local_source_payload": false,
+      "remote_preservation": "Not performed by this subagent; lawful web reading only"
+    },
+    {
+      "id": "baxter-difficulty-preview",
+      "title": "Hume's Difficulty: Time and Identity in the Treatise",
+      "url": "https://www.perlego.com/book/1685851/humes-difficulty-time-and-identity-in-the-treatise-pdf",
+      "publisher_url": "https://www.routledge.com/Humes-Difficulty-Time-and-Identity-in-the-Treatise/Baxter/p/book/9780415804776",
+      "reading": "selective incomplete original preview",
+      "coverage": "Chapter 1 preview HTML lines 138-197; ends mid-paragraph; notes 1-14 unavailable",
+      "chronology": "Publisher copyright 2008; Perlego entry 2012 does not establish revised argument",
+      "full_chapter_read": false,
+      "book_read": false,
+      "access_gap": "Publisher indexed signed preview fetch cache miss; no token manipulation or access-control bypass"
+    },
+    {
+      "id": "baxter-composites-1990",
+      "title": "Hume on Virtue, Beauty, Composites, and Secondary Qualities",
+      "url": "https://philpapers.org/rec/BAXHOV",
+      "citation": "Pacific Philosophical Quarterly 71(2) (1990), 103-118",
+      "doi": "10.1111/j.1468-0114.1990.tb00394.x",
+      "reading": "metadata and abstract only",
+      "access_gap": "No lawful complete original located on author/institution/archive/publisher routes inspected",
+      "substantive_assessment": false
+    },
+    {
+      "id": "baxter-space-time-2016",
+      "title": "Hume on Space and Time",
+      "url": "https://philpapers.org/archive/BAXHOS-3.doc",
+      "publisher_url": "https://academic.oup.com/edited-volume/40220/chapter/345462953",
+      "citation": "Oxford Handbook of Hume, pp. 173-190",
+      "doi": "10.1093/oxfordhb/9780199742844.013.7",
+      "chronology": "Online 2014-08-04; print 2016",
+      "reading": "metadata and abstract only",
+      "access_gap": "Archive BAXHOS-3 is legacy Word, 102912 bytes, not PDF; remote conversion runtime unavailable; publisher chapter access not available",
+      "substantive_assessment": false
+    },
+    {
+      "id": "hakkarainen-unity-2019",
+      "title": "Hume on the Unity of Determinations of Extension",
+      "url": "https://philarchive.org/archive/HAKHOTv1",
+      "citation": "History of Philosophy and Logical Analysis 22(1) (2019), 219-233",
+      "reading": "metadata and abstract only",
+      "access_gap": "Parent ordinary remote acquisition returns HTTP 404; complete original not read",
+      "substantive_assessment": "No verdict against complete 2019 argument; conditional rival reconstruction only"
+    }
+  ],
+  "primary_reading": [
+    {
+      "url": "https://davidhume.org/texts/t/1/2/2",
+      "coverage": "Complete .1-.10 and notes",
+      "reading": "complete",
+      "page_labels": "SBN 29-33"
+    },
+    {
+      "url": "https://davidhume.org/texts/t/1/2/3",
+      "coverage": "Complete .1-.17 and notes",
+      "reading": "complete",
+      "page_labels": "SBN 33-39"
+    },
+    {
+      "url": "https://davidhume.org/texts/t/1/2/4",
+      "coverage": "Complete .1-.11; additional .12-.17 available in last web output; remaining section unread",
+      "reading": "selective",
+      "claim_used": ".6, SBN 41"
+    },
+    {
+      "url": "https://davidhume.org/texts/t/1/4/2",
+      "coverage": "Temporal-identity sequence .21-.36; .20 and .37 partial; not full section",
+      "reading": "selective",
+      "claim_used": ".26-.30, SBN 200-201"
+    },
+    {
+      "url": "https://davidhume.org/texts/t/1/4/3",
+      "coverage": "Complete .1-.11",
+      "reading": "complete",
+      "page_labels": "SBN 219-225"
+    },
+    {
+      "url": "https://davidhume.org/texts/t/1/4/5",
+      "coverage": "Complete .1-.35 and notes, preceding positive-analogy-primary-v3 stage",
+      "reading": "complete previous stage, not repeated",
+      "claim_used": ".5; .30; .33",
+      "prior_ledger": "notes/positive-analogy-primary-v3-sources.json"
+    },
+    {
+      "url": "https://davidhume.org/texts/t/1/4/6",
+      "coverage": "Complete .1-.23 and note 50; HTML lines 0-115",
+      "reading": "complete",
+      "page_labels": "SBN 251-263"
+    },
+    {
+      "url": "https://davidhume.org/texts/t/app",
+      "coverage": "Complete .1-.22 and note 89; HTML lines 0-99",
+      "reading": "complete",
+      "page_labels": "SBN 623-636"
+    },
+    {
+      "url": "https://davidhume.org/texts/d/9",
+      "coverage": "Complete .1-.11 and notes 7-8; HTML lines 0-66",
+      "reading": "complete",
+      "page_labels": "KS 188-192",
+      "speaker_limit": "Cleanthes .9; Philo .10-.11; not narrator endorsement"
+    }
+  ],
+  "primary_edition_limit": "Edited Hume Texts Online HTML; paragraph/page labels checked; no facsimile collation in this stage",
+  "novelty": "No novel scholarly refutation or reconciliation claimed; 2015 response already anticipates key primary objections; 2009 critics and later 2025 chapter not exhaustively read",
+  "training_admission": false,
+  "_public_edition_note": "Selected argument, reading and verification metadata. Private operational locators and quotation-account fields omitted. Checksums and claims about source checks are reported audit evidence, not public access to the private witness."
+}

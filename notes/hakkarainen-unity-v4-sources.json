@@ -1,0 +1,122 @@
+{
+  "assessment_date": "2026-10-12",
+  "assessment": "hakkarainen-unity-v4.md",
+  "scope": "Separate adversarial assessment; complete 2015 fallback original, 2019 original unassessed",
+  "sources": [
+    {
+      "id": "hakkarainen-spatial-properties-2015",
+      "title": "Hume on Spatial Properties",
+      "author": "Jani Hakkarainen",
+      "published": "2015, in Ghislain Guigon and Gonzalo Rodriguez-Pereyra (eds.), Nominalism about Properties: New Essays, Routledge, pp. 79-94",
+      "source_url": "https://trepo.tuni.fi/bitstream/10024/101369/1/hume_on_spatial_properties.pdf",
+      "metadata_url": "https://philpapers.org/versions/HAKHOS",
+      "version": "Institutional author manuscript; twenty PDF pages numbered manuscript 1-20; no separate cover",
+      "coverage": "Complete argument, endnotes and references read via public web extraction; identical preserved source reader inspected pp. 1-2 and 17-18",
+      "web_read_ranges": "L0-455, accessed across overlapping calls covering all twenty pages",
+      "facsimile_inspected": false,
+      "facsimile_limitation": "Web screenshot failed because endpoint was not resolved as application/pdf; no book-page mapping asserted",
+      "target": {
+        "page_basis": "printed manuscript header",
+        "page": 2,
+        "claim": "Every spatial property of a perception of a body is a mereologically complex trope"
+      },
+      "scope_controls": [
+        "MS18 note xiii: synchronic unity vs diachronic identity",
+        "MS17 note ix: multimodal bodies bracketed",
+        "MS17-18 note x: distinct observers' and modalities' spaces",
+        "MS14-16: tentative spatial-relations extension"
+      ],
+      "source_sha256": "8e86095a70e4d0777e2073503e33cbb95432fb501da946cdf751939a1b2c89cf",
+      "source_bytes": 429445,
+      "text_sha256": "37411eed1dc8e5f6ddeb78b53dae60533419ecfdacb7a1b28faf091d9534f938",
+      "text_bytes": 41024,
+      "remote_archive": "[private source locator omitted]",
+      "archive_sha256": "19e1f446c306608d2058b63c9e58d835e2c63faa4d83d1e3f3c6205092c44398",
+      "archive_bytes": 481280,
+      "remote_verification": "Parent acquisition receipt records full readback; reader confirms source hash",
+      "access_class": "Publicly accessible original, notice restricts use to personal use; private research preservation only, no source redistribution or training admission",
+      "local_source_payload": false,
+      "verdict": "Positive spatial-property reconstruction defensible; numerical unity versus organized plurality remains contested; no verdict on 2019 reply"
+    },
+    {
+      "id": "hakkarainen-unity-2019",
+      "title": "Hume on the Unity of Determinations of Extension",
+      "citation": "History of Philosophy and Logical Analysis 22(1) (2019), 219-233",
+      "doi": "10.30965/26664275-02201013",
+      "metadata_url": "https://researchportal.tuni.fi/en/publications/hume-on-the-unity-of-determinations-of-extension/",
+      "author_cv_url": "https://philpeople.org/public_cache/file?content_type=application%2Fpdf&key=88wvahyemqnw3ovovg5iu3vqm83q",
+      "coverage": "Institutional metadata, author bibliography and abstract discovery only",
+      "full_argument_access": false,
+      "acquisition_routes": [
+        {
+          "url": "https://philarchive.org/archive/HAKHOTv1",
+          "result": "Institutionally linked original; parent ordinary remote acquisition returned 404, recorded private operational audit (not included)"
+        },
+        {
+          "url": "https://philarchive.org/archive/HAKHOT/latest",
+          "result": "Parent ordinary remote acquisition returned 404"
+        },
+        {
+          "url": "https://philpapers.org/rec/HAKHOT",
+          "result": "Web tool 403; author-index direct-download link led to DOI, no alternative original found"
+        },
+        {
+          "url": "https://doi.org/10.30965/26664275-02201013",
+          "result": "Web tool inaccessible; not proof of absence or subscription exclusion"
+        },
+        {
+          "url": "https://uta-fi.academia.edu/JaniHakkarainen/Papers",
+          "result": "Search-indexed author publication list; no complete original acquired"
+        },
+        {
+          "url": "https://www.researchgate.net/publication/338966981_Hume_on_the_Unity_of_Determinations_of_Extension",
+          "result": "No full text offered; no author contact requested"
+        }
+      ],
+      "verdict": "UNASSESSED; neither refuted nor vindicated from metadata/abstract"
+    },
+    {
+      "id": "hume-primary-v4",
+      "witness": "Hume Texts Online public edited text with SBN references; no facsimile inspected",
+      "complete_sequences_read": [
+        {
+          "reference": "T1.1.7",
+          "url": "https://davidhume.org/texts/t/1/1/7"
+        },
+        {
+          "reference": "T1.2.2",
+          "url": "https://davidhume.org/texts/t/1/2/2"
+        },
+        {
+          "reference": "T1.2.3",
+          "url": "https://davidhume.org/texts/t/1/2/3"
+        },
+        {
+          "reference": "T1.4.6",
+          "url": "https://davidhume.org/texts/t/1/4/6"
+        },
+        {
+          "reference": "Edited Appendix sequence",
+          "url": "https://davidhume.org/texts/t/app"
+        }
+      ],
+      "decisive_references": [
+        "T1.1.7.17-18",
+        "T1.2.2.3",
+        "T1.2.3.4-5",
+        "T1.2.3.14",
+        "T1.4.6.8-12",
+        "T1.4.6.19-22",
+        "Appendix4",
+        "Appendix20-21"
+      ],
+      "chronology": "Treatise Books1-2:1739; Book3 and Appendix:1740",
+      "appendix_limitation": "Edited website relocates some additions into Book1; not an unaltered original Appendix facsimile",
+      "private_corpus_used_in_this_stage": false
+    }
+  ],
+  "novelty": "No novelty or priority claim; no exact attribution or verdict on unread Baxter argument",
+  "source_summary_control": "2015 reconstruction under 150 words; one eight-word scholarly quote; rest explicitly original tests using primary texts",
+  "model_identity": "Exact deployment/configuration unavailable; not invented",
+  "_public_edition_note": "Selected argument, reading and verification metadata. Private operational locators and quotation-account fields omitted. Checksums and claims about source checks are reported audit evidence, not public access to the private witness."
+}

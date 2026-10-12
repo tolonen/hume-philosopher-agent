@@ -1,0 +1,204 @@
+{
+  "record_version": 3,
+  "evidence_at_utc": "2026-10-12T19:42:34Z",
+  "assessor": "/root/treatise_investigation",
+  "model_identity": "Exact deployment/configuration unavailable to this assessor; no invented identifier",
+  "status": "completed directHakkarainen/Clay adversarial comparison; Qu rejected-alternative argument remains unassessed",
+  "source_access": [
+    {
+      "id": "hakkarainen2012",
+      "citation": "Jani Hakkarainen, A Third Type of Distinction in the Treatise, Hume Studies38(1)(2012),55–78",
+      "doi": "10.1353/hms.2012.0002",
+      "urls": [
+        "https://trepo.tuni.fi/bitstream/handle/10024/100476/a_third_type_of_distinction.pdf?sequence=1",
+        "https://humesociety.org/?hume_article_pdf=16320",
+        "https://uta-fi.academia.edu/JaniHakkarainen/Papers"
+      ],
+      "coverage": "Full original published article including notes, printed55–78; PDF25pages with coverfirst; allpages inspected via remote checksum-verified extracted text",
+      "access_failures": [
+        "Trepo Anubis access denial",
+        "HumeSociety ArticlePDF link709 cache miss",
+        "Academia author page cache miss"
+      ],
+      "published_page_claim_verified": true,
+      "target_verdict": "Partial-distinction repair survives localwhole/part objection; historicalexclusiveSPscope underdetermined; inferencefrom exclusionof identicalaspects to exclusionof alloverlap requiresadditionalpremise",
+      "page_verification": "Printedpage56 from extracted page text; no facsimile inspected",
+      "preservation": {
+        "source_sha256": "fe3f2f86020e924f4ddcbe8703032f71a4923560caac029437b98bc4a724ca02",
+        "archive": {
+          "bytes": 6338560,
+          "sha256": "1d79e575d6eac904fd5942cbb9a857e48b8fffe088ad6fcbc66d843990f30b42",
+          "full_readback_verified": true,
+          "verified_at": "2026-10-12T19:43:28Z"
+        },
+        "text_member": "hakkarainen-third-2012.pages.json",
+        "text_bytes": 79857,
+        "text_sha256": "5dbfb06a896c33345850a9a5323fcddcdbf9f7085765678e17b01e6e2ae2795a",
+        "reader": "scripts/read_public_scholarship.py",
+        "read_pdf_pages": "1–25 in batches1–6,7–12,13–18,19–24,25"
+      }
+    },
+    {
+      "id": "qu2022",
+      "citation": "Hsueh M. Qu, Complex Ideas and Hume’s Separability Principle, Mind131(522)(2022),517–534",
+      "doi": "10.1093/mind/fzaa099",
+      "online_date": "2021-02-11",
+      "print_issue_date": "2022-04",
+      "urls": [
+        "https://academic.oup.com/mind/article-abstract/131/522/517/6133137",
+        "https://philpapers.org/rec/QUCIA",
+        "https://hsuehqu.weebly.com/"
+      ],
+      "coverage": "Original abstract, metadata and table of contents only; no full argument",
+      "access_failures": [
+        "PhilPapers403",
+        "Publisher redirected to minimal article shell",
+        "Author home/publications/research/papers pages unavailable via web retrieval; no author full-copy route found"
+      ],
+      "published_page_claim_verified": false,
+      "target_verdict": "unassessed"
+    },
+    {
+      "id": "clay2024",
+      "citation": "Graham Clay, Hume’s Separability Principle, his Dictum, and their Implications, Mind133(530)(2024),504–516",
+      "doi": "10.1093/mind/fzad036",
+      "online_date": "2023-09-06",
+      "print_issue_date": "2024-04",
+      "urls": [
+        "https://philpapers.org/archive/CLAHSP.pdf",
+        "https://philarchive.org/archive/CLAHSP",
+        "https://academic.oup.com/mind/article/133/530/504/7261625?rss=1",
+        "https://grahamclay.com/"
+      ],
+      "coverage": "Full penultimate author manuscript11PDFpages including bibliography via remote checksum-verified extracted text",
+      "access_failures": [
+        "PhilPapers/PhilArchive403",
+        "Publisher fetching error",
+        "Author site fetch failures; publications timeout"
+      ],
+      "published_page_claim_verified": false,
+      "target_verdict": "Modifiedrestriction basedon noninclusion differsfrom Hakkarainen75 no-common-parts proposal; overlapexample alreadyquotedfromQu532 inClayMS3; continuingEnquiryinference compatiblewithrestricted version",
+      "manuscript_page_claim_verified": true,
+      "page_verification": "Manuscriptpage2 definition; no mapping to published504–516 assumed",
+      "preservation": {
+        "source_sha256": "7a306ab8c66018aa462a7b3187cd810cc664ae30f306fe9d3305b017b9ac7a93",
+        "archive": {
+          "bytes": 235520,
+          "sha256": "a03ec1b47bad217d5e5f732be77650267e8195c14ae62bb9d60928b01727fd36",
+          "full_readback_verified": true,
+          "verified_at": "2026-10-12T19:46:01Z"
+        },
+        "text_member": "clay-separability-2024.pages.json",
+        "text_bytes": 33873,
+        "text_sha256": "bf0e0071a263354b031efd2ab603cd2c1e62938bb46668be5d3c98cc1a7d8498",
+        "reader": "scripts/read_public_scholarship.py --batch 3",
+        "read_pdf_pages": "1–11 in batches1–6,7–11"
+      }
+    },
+    {
+      "id": "ainslie2025_chapter",
+      "urls": [
+        "https://philpapers.org/archive/SLACPA-3.pdf",
+        "https://trepo.tuni.fi/bitstream/10024/232991/5/978-952-03-3938-8.pdf"
+      ],
+      "coverage": "Indexed original printed90 discussion lead only; full chapter90–97 not inspected",
+      "access_failures": [
+        "PhilPapers403",
+        "Trepo Anubis access denial"
+      ],
+      "target_verdict": "unassessed"
+    },
+    {
+      "id": "ehli2026_followup",
+      "citation": "Bridger Ehli, Humean Skepticism and the Metaphysics of Impressions: Questions for Falkenstein, Hume Studies51(1)(2026),203–212",
+      "doi": "10.1353/hms.2026.a989202",
+      "url": "https://philpapers.org/archive/EHLHSA.pdf",
+      "coverage": "Journal issue metadata and indexed author-draft note7 citing Hakkarainen/Qu/Clay; full argument unassessed"
+    },
+    {
+      "id": "oxford_supportive_reception_unidentified",
+      "url": "https://ora.ox.ac.uk/objects/uuid%3Af36268a5-cea2-49a8-a7a3-9e692e62c53c/files/m3a5c47a018f186699c7e1a2608126ebb",
+      "coverage": "Indexed original manuscript25n50 invokes Hakkarainen qualification of real distinctness; bibliographic identity not verified",
+      "access_failure": "403",
+      "admission_status": "discovery lead only; no attribution or target claim admitted"
+    }
+  ],
+  "primary_witness": {
+    "provider": "Hume Texts Online",
+    "version": "edited witness; provenance notes previously inspected in HPA002; no newly inspected facsimile",
+    "urls_and_coverage": [
+      {
+        "url": "https://davidhume.org/texts/t/1/1/1",
+        "coverage": "entire section"
+      },
+      {
+        "url": "https://davidhume.org/texts/t/1/1/7",
+        "coverage": "entire section and appended n5"
+      },
+      {
+        "url": "https://davidhume.org/texts/t/1/2/3",
+        "coverage": "entire section"
+      },
+      {
+        "url": "https://davidhume.org/texts/t/1/4/6",
+        "coverage": "paragraphs1–16"
+      },
+      {
+        "url": "https://davidhume.org/texts/t/1/3/3",
+        "coverage": "paragraphs1–4"
+      },
+      {
+        "url": "https://davidhume.org/texts/e/4",
+        "coverage": "entire section"
+      },
+      {
+        "url": "https://davidhume.org/texts/t/1/1/5",
+        "coverage": "entiresection"
+      },
+      {
+        "url": "https://davidhume.org/texts/t/1/2/6",
+        "coverage": "entiresection"
+      },
+      {
+        "url": "https://davidhume.org/texts/t/1/4/5",
+        "coverage": "paragraphs15–29"
+      },
+      {
+        "url": "https://davidhume.org/texts/t/1/2/4",
+        "coverage": "paragraphs1–21"
+      }
+    ],
+    "page_status": "SBN labels from edited website, not independently verified printed pages"
+  },
+  "additional_access_checks": {
+    "cua_browser_surfaces_available": 0,
+    "ordinary_shell_http_result": "DNS resolution unavailable; no payload saved"
+  },
+  "interpretive_tests": [
+    "Local point/otherpoints separation does not explicitly assert reciprocal whole/part separation",
+    "Numerical nonidentity versus wholly distinct objects requires full-source definitions",
+    "Overlapping non-nested composites discriminate repairs based on inclusion versus shared content",
+    "Mass identity through changes of part place versus structured extension must not conflate objects and perceptions",
+    "Enquiry background separability versus exact unrestricted principle are distinct commitments",
+    "Overlappingessentialconstituentcomplexes can each existwithouttheother by absenceof itsnonsharedpart; mutualexistentialindependence neednot imply absenceof sharedcontent",
+    "ClayMS3 correctlyshowsone-wayCP yieldsforwardSPonly; reciprocalexistentialbiconditionalneedsadditionalpremiseorindependentprimarywarrant"
+  ],
+  "novelty": "Overlappingnon-nestedcomplex example alreadypublishedinQu532 andreported/adopted inClayMS3; nooriginalscholarlyinterventionclaimed. Exactstronger Hakkcriterion critique/laterresponsesnotexhaustivelysearched.",
+  "version_history": [
+    {
+      "version": 1,
+      "notes_sha256": "5939f52ab68c65fea2b282bc2b9bd17d73513523fcbeba5d1bbab313283a0239",
+      "ledger_sha256": "87e78c4c081ab7b6acfbce6dd96343ac46b4e646559fe33eb77c810a0a62536b",
+      "state": "Allthree fulltargetsaccessgated; noverdict,0quotes"
+    },
+    {
+      "version": 2,
+      "change": "FullHakkread by newlyavailableauthorizedremote reader; exactscopeclaimand narrow assessmentadmitted; laterreplygateunchanged; overlappingcomplex test refined"
+    },
+    {
+      "version": 3,
+      "change": "FullClay read, adoptsdirecttwo-repaircomparison; overlapexample recognizedalreadyQu532 asreportedandadoptedbyClayMS3; nooriginalityassertion;12wordClaydefinition admitted;Qu’sunreadrejectedalternativesnotassessed"
+    }
+  ],
+  "_public_edition_note": "Selected argument, reading and verification metadata. Private operational locators and quotation-account fields omitted. Checksums and claims about source checks are reported audit evidence, not public access to the private witness."
+}

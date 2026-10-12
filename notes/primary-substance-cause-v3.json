@@ -1,0 +1,24 @@
+{
+  "source_sha256": "bd89a6ff76c25780f9ab5b678e596f759b835cf0784a8b2dd1a50fa885c3c9d2",
+  "query": "\"substance of the mind\"",
+  "reference_collation": "proposed only, independently verify before citation",
+  "results": [
+    {
+      "member": "hume.02.xml",
+      "kind": "p",
+      "ordinal": 637,
+      "proposed_reference": "T 1.4.5.30",
+      "text_sha256": "8a6f9fde4220dc0885c6f13daf920e1a09a74df7ff9e41728bbf82200e1f9685",
+      "characters": 2858,
+      "has_real_relations_of_ideas": false,
+      "has_real_relations_without_of_ideas": false,
+      "public_fragment_matches": [
+        {
+          "input_sha256": "81329bc0534cf63976baad493c1fb88bfe7499f15ed16532e4494e1d7a874171",
+          "literal_match": true
+        }
+      ]
+    }
+  ],
+  "_public_edition_note": "Selected argument, reading and verification metadata. Private operational locators and quotation-account fields omitted. Checksums and claims about source checks are reported audit evidence, not public access to the private witness."
+}

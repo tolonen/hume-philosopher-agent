@@ -1,0 +1,222 @@
+{
+  "assessment": "positive-other-minds-primary-v3",
+  "date": "2026-10-12",
+  "agent_role": "separate Treatise investigator",
+  "model_identity": {
+    "exact_deployment": null,
+    "configuration": null,
+    "limitation": "Not independently available; not inferred."
+  },
+  "status": "Completed bounded primary reconstruction; original secondary-argument comparison remains open.",
+  "conclusion": "Experienced mental event types support defeasible analogical inference to other instances; the inference is not a radical-sceptic-proof demonstration and does not license unexperienced material archetypes or mental productive powers.",
+  "sources": [
+    {
+      "id": "T1316",
+      "url": "https://davidhume.org/texts/t/1/3/16",
+      "kind": "public primary edited witness",
+      "coverage": "Complete section .1-.9",
+      "key_refs": [
+        "T1.3.16.2-.3, SBN176-177",
+        "T1.3.16.5-.9, SBN177-179"
+      ],
+      "role": "Explicit own-case analogy; learning and altered training; rejection of refined reasoning as universal explanation."
+    },
+    {
+      "id": "T2111",
+      "url": "https://davidhume.org/texts/t/2/1/11",
+      "kind": "public primary edited witness",
+      "coverage": "Complete section .1-.19 and notes",
+      "key_refs": [
+        "T2.1.11.3-.8, SBN317-320",
+        "T2.1.11.9-.19, SBN320-324"
+      ],
+      "role": "Causal belief distinguished from additional sympathetic vivacity; biased judgment and checks against phenomena."
+    },
+    {
+      "id": "T225",
+      "url": "https://davidhume.org/texts/t/2/2/5",
+      "kind": "public primary edited witness",
+      "coverage": "Complete section .1-.21",
+      "key_refs": [
+        "T2.2.5.9-.13, SBN360-362",
+        "T2.2.5.21, SBN365"
+      ],
+      "role": "Competing explanations and adverse frequency; reciprocal social feedback."
+    },
+    {
+      "id": "T227",
+      "url": "https://davidhume.org/texts/t/2/2/7",
+      "kind": "public primary edited witness",
+      "coverage": "Complete section .1-.6 and retained asterisk note",
+      "key_refs": [
+        "T2.2.7.3, SBN369-370",
+        "T2.2.7.5-.6, SBN370-371"
+      ],
+      "role": "Fictional feeling and sympathy with affections absent in the target; decisive limit on certification by sympathy."
+    },
+    {
+      "id": "T229",
+      "url": "https://davidhume.org/texts/t/2/2/9",
+      "kind": "public primary edited witness",
+      "coverage": "Complete section .1-.20",
+      "key_refs": [
+        "T2.2.9.13-.14, SBN385-386"
+      ],
+      "role": "Anticipated and merely possible pain; present circumstance as support for imaginative extension."
+    },
+    {
+      "id": "T331",
+      "url": "https://davidhume.org/texts/t/3/3/1",
+      "kind": "public primary edited witness",
+      "coverage": "Complete section .1-.31 and note",
+      "key_refs": [
+        "T3.3.1.4-.7, SBN575-576",
+        "T3.3.1.15-.21, SBN581-585"
+      ],
+      "role": "Indirect access to another passion; character signs; correction for standpoint and frustrated disposition."
+    },
+    {
+      "id": "T142",
+      "url": "https://davidhume.org/texts/t/1/4/2",
+      "kind": "public primary edited witness",
+      "coverage": "Selective surrounding sequence .39-.57; full section not claimed in this assessment",
+      "key_refs": [
+        "T1.4.2.47, SBN212",
+        "T1.4.2.54-.57, SBN216-218"
+      ],
+      "role": "No experienced perception-archetype pair; sceptical limits retained."
+    },
+    {
+      "id": "E8",
+      "url": "https://davidhume.org/texts/e/8",
+      "kind": "public primary edited witness following 1777",
+      "coverage": "Complete argument .1-.36 and notes F/G, through successive windows; a tool truncation affected a few opening words of .26, not its argument",
+      "key_refs": [
+        "EHU8.9-.15, SBN84-88",
+        "EHU8.19-.21, SBN90-93",
+        "EHU8.29-.31, SBN98-99"
+      ],
+      "role": "Reciprocal motive-conduct inference; contextual variation; natural and moral evidence unified; character attribution revised."
+    },
+    {
+      "id": "E9",
+      "url": "https://davidhume.org/texts/e/9",
+      "kind": "public primary edited witness following 1777",
+      "coverage": "Complete .1-.6 and note H",
+      "key_refs": [
+        "EHU9.1, SBN104-105",
+        "EHU9.2-.6, SBN105-108",
+        "EHU9.5n20.3-.11, SBN107"
+      ],
+      "role": "Analogy graded by resemblance; experiential learning; custom; observation, complication, prejudice and testimony affect reasoning."
+    },
+    {
+      "id": "E11",
+      "url": "https://davidhume.org/texts/e/11",
+      "kind": "public primary edited witness following 1777",
+      "coverage": "Complete .1-.30 and notes, including note M",
+      "key_refs": [
+        "EHU11.24-.27, SBN142-147",
+        "EHU11.30, SBN147-148"
+      ],
+      "role": "Additional independent species experience licenses further social predictions; dialogue attribution qualified; narrator's concluding requirement of experienced causal similarity."
+    },
+    {
+      "id": "E7",
+      "url": "https://davidhume.org/texts/e/7",
+      "kind": "public primary edited witness following 1777",
+      "coverage": "Selective .6-.20; opening of .21 also inspected, full section not claimed",
+      "key_refs": [
+        "EHU7.9-.15, SBN64-67",
+        "EHU7.16-.20, SBN67-69"
+      ],
+      "role": "Own volition and succession known, productive power unknown; crucial restriction of privileged-access argument."
+    },
+    {
+      "id": "E12",
+      "url": "https://davidhume.org/texts/e/12",
+      "kind": "public primary edited witness following 1777",
+      "coverage": "Part I .1-.16 complete; full section not claimed",
+      "key_refs": [
+        "EHU12.11-.14, SBN152-154"
+      ],
+      "role": "Other possible origins of perceptions; absence of experience of archetype-perception conjunction."
+    },
+    {
+      "id": "Teditorial",
+      "url": "https://davidhume.org/texts/t/notes",
+      "kind": "editorial provenance",
+      "coverage": "Complete notes page",
+      "role": "Original-edition copytext, incorporated errata/Appendix/handwritten and editorial interventions; not independently checked page facsimile."
+    },
+    {
+      "id": "Eeditorial",
+      "url": "https://davidhume.org/texts/e/notes",
+      "kind": "editorial provenance",
+      "coverage": "Complete notes page",
+      "role": "First publication1748; title changed1758; current witness1777. No first-edition clause-by-clause collation."
+    },
+    {
+      "id": "Kim2019",
+      "url": "https://doi.org/10.1080/09608788.2018.1524365",
+      "citation": "Byoungjae Kim, Hume on the Problem of Other Minds, British Journal for the History of Philosophy27(3)(2019),535-555; online2018",
+      "kind": "original scholarly abstract and metadata",
+      "coverage": "Abstract and bibliographic record only; full article not read",
+      "role": "Established analogical interpretation based on custom/imagination; precludes novelty assertion."
+    },
+    {
+      "id": "KimThesis",
+      "url": "https://etheses.dur.ac.uk/12958/1/Sympathy_and_Reflection_in_Hume%27s_Philosophy_-_Mind%2C_Morals%2C_Art_and_Politics.pdf",
+      "kind": "original scholarly full-argument lead",
+      "coverage": "Indexed chapter title and short search excerpts only; full fetch failed",
+      "access_failures": [
+        "dur.ac.uk route cache miss",
+        "durham.ac.uk id/eprint route cache miss"
+      ],
+      "role": "Legitimate route for future full comparison; not evidence for an exact-claim verdict."
+    },
+    {
+      "id": "Waldow2009article",
+      "url": "https://doi.org/10.1080/09608780802548341",
+      "citation": "Anik Waldow, Hume's Belief in Other Minds, British Journal for the History of Philosophy17(1)(2009),119-132",
+      "kind": "original scholarly metadata/abstract",
+      "coverage": "Discovery only; full argument not read",
+      "role": "Known antecedent; no criticism or precise reconstruction derived from abstract."
+    },
+    {
+      "id": "Waldow2009book",
+      "url": "https://www.bloomsbury.com/uk/david-hume-and-the-problem-of-other-minds-9780826433046/",
+      "citation": "Anik Waldow, David Hume and the Problem of Other Minds, Continuum2009",
+      "kind": "publisher metadata/abstract",
+      "coverage": "Discovery only; full book not read",
+      "role": "Established other-minds investigation; not used as full-argument evidence."
+    },
+    {
+      "id": "Pitson1996",
+      "citation": "Tony Pitson, Sympathy and Other Selves, Hume Studies22(2)(1996),255-271",
+      "kind": "bibliographical discovery",
+      "coverage": "Not read",
+      "role": "Known precedent requiring original verification; ResearchGate2011 date not used as original publication date."
+    }
+  ],
+  "chronology": {
+    "Treatise_Books_1_2": 1739,
+    "Treatise_Book_3": 1740,
+    "Enquiry_first_publication": 1748,
+    "Enquiry_current_public_witness": 1777,
+    "qualification": "Later witness supports reconstruction of mature position; does not prove every clause unchanged since1748."
+  },
+  "strongest_failure_condition": "A demanded proof acceptable to radical scepticism fails at transfer from first-person conjunction to another subject; predictive success cannot uniquely exclude behaviour without consciousness.",
+  "scope_corrections": [
+    "Some unobserved physical tokens belong to experienced causal kinds and can be inferred.",
+    "Mental productive powers remain as unknown as physical productive powers.",
+    "Independence from this observer is distinct from non-perceptual matter or independence from every mind.",
+    "Sympathy can occur without corresponding present feeling in another; it cannot by itself certify that feeling.",
+    "Testimony cannot bootstrap independently observed other consciousness without circularity."
+  ],
+  "novelty": {
+    "asserted": false,
+    "reason": "Kim explicitly advertises an analogical interpretation; Waldow/Pitson prior work discovered. Full original comparison not yet completed."
+  },
+  "_public_edition_note": "Selected argument, reading and verification metadata. Private operational locators and quotation-account fields omitted. Checksums and claims about source checks are reported audit evidence, not public access to the private witness."
+}
