@@ -1,0 +1,1098 @@
+{
+  "schema": "hpa-argument-model-v5",
+  "date": "2026-10-13",
+  "question": "What additional premises separate local causal attribution from constitution, persistence and assent?",
+  "attribution_not_truth": true,
+  "global_consistency_imposed": false,
+  "prospective_design": "REORIENTATION-v5.md",
+  "propositions": [
+    {
+      "id": "P01",
+      "meaning": "Experienced association explains absent-item belief; explanatory mechanism is not yet a faculty vindication",
+      "source": "T1.3.8.1-14; Abstract later corroboration at1740stage",
+      "url": "https://davidhume.org/texts/t/1/3/8",
+      "premise_origin": "HPA-reconstructed",
+      "voice": "author",
+      "textual_state": "Book1 publication1739; editedwitness originalprint uncollated; Abstract not assigned1739",
+      "scope": "local belief explanation",
+      "qualifications": [
+        "T1.3.8.10 all-belief generalization appears broader than T1.4.2.21-22 completion account; scope tension retained"
+      ],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E02"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P02",
+      "meaning": "Bodily dispositions and thought can be compared causally without explaining their production through an intelligible substance",
+      "source": "T1.4.5.29-33",
+      "url": "https://davidhume.org/texts/t/1/4/5",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "edited witness; first-edition wording uncollated",
+      "scope": "particular substance requirement",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E01"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P03",
+      "meaning": "Explaining without substance proves all such attributions evidentially independent of ontology",
+      "source": "HPA006 stronger implication",
+      "url": "",
+      "premise_origin": "HPA-added",
+      "voice": "HPA investigator testing bridge",
+      "textual_state": "HPA cycle-v5 stipulated test model, not wording in a Hume edition",
+      "scope": "WITHDRAWN strong bridge",
+      "qualifications": [],
+      "supporting_dependency_ids": [
+        "E01"
+      ],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P04",
+      "meaning": "Reconciling porter, door and letter evidence leads to adoption of continued objects",
+      "source": "T1.4.2.20",
+      "url": "https://davidhume.org/texts/t/1/4/2",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "edited witness; first-edition wording uncollated",
+      "scope": "belief-generating reasoning, then scrutinized",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E02"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P05",
+      "meaning": "Direct causal custom cannot by itself establish additional continuity beyond observed interrupted regularity",
+      "source": "T1.4.2.21-22",
+      "url": "https://davidhume.org/texts/t/1/4/2",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "edited witness; first-edition wording uncollated",
+      "scope": "mechanism and target of object completion",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P06",
+      "meaning": "No experienced conjunction between perceptions and independent archetypes grounds the proposed causal inference",
+      "source": "T1.4.2.47; EHU12.12",
+      "url": "https://davidhume.org/texts/e/12",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "edited witness; first-edition wording uncollated",
+      "scope": "causal double-existence inference; not nonexistence",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P07",
+      "meaning": "Imagination supplies completion beyond observed regularity",
+      "source": "T1.4.2.22-23",
+      "url": "https://davidhume.org/texts/t/1/4/2",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "edited witness; first-edition wording uncollated",
+      "scope": "genesis of continued-object belief",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P08",
+      "meaning": "Objects exist independently of every human perception",
+      "source": "M1 target; HPA003 restricted-realism dispute",
+      "url": "",
+      "premise_origin": "scholar-supplied target",
+      "voice": "HPA investigator testing bridge",
+      "textual_state": "HPA cycle-v5 stipulated test model, not wording in a Hume edition",
+      "scope": "not own-current-observation independence",
+      "qualifications": [],
+      "supporting_dependency_ids": [
+        "E02"
+      ],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P09",
+      "meaning": "Some determinate extensions consist of actual minimal constituents",
+      "source": "T1.2.2-3",
+      "url": "https://davidhume.org/texts/t/1/2/3",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "edited witness; first-edition wording uncollated",
+      "scope": "spatial constitution",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P10",
+      "meaning": "A dependent real whole differs numerically from its part without wholly-distinct separability",
+      "source": "Hakkarainen2012 p56,68,75,78n31; Hume on Spatial Properties2015 manuscript17-18notes9,10,13",
+      "url": "https://humesociety.org/?hume_article_pdf=16320",
+      "premise_origin": "scholar-supplied",
+      "voice": "Hakkarainen reconstruction",
+      "textual_state": "Specific accessible scholarly original; version and complete-reading bounds in v5 source ledger",
+      "scope": "dependent spatial complex; not all minds",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P11",
+      "meaning": "Complexes exist collectively without an additional strictly existing whole",
+      "source": "Baxter2015 MS5-10,25-27",
+      "url": "https://philarchive.org/archive/BAXHOS-4",
+      "premise_origin": "scholar-supplied",
+      "voice": "Baxter reconstruction",
+      "textual_state": "Baxter penultimate manuscript2014-01-06 for Lodge/Stoneham2015volume; all27pages; published pagination notcollated",
+      "scope": "strict versus collective existence",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P12",
+      "meaning": "Some perceptions cannot acquire extension by accumulation",
+      "source": "T1.4.5.9-16",
+      "url": "https://davidhume.org/texts/t/1/4/5",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "edited witness; first-edition wording uncollated",
+      "scope": "spatial solution does not cover all mental union",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P13",
+      "meaning": "Related succession and reflective transition explain attributed personal identity",
+      "source": "T1.4.6.16-20",
+      "url": "https://davidhume.org/texts/t/1/4/6",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "edited witness; first-edition wording uncollated",
+      "scope": "1739 explanation; later qualified",
+      "qualifications": [
+        "not strict invariant identity"
+      ],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E04"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P14",
+      "meaning": "Causal communication occurs between different people",
+      "source": "T2.1.11.2-8",
+      "url": "https://davidhume.org/texts/t/2/1/11",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "edited witness; first-edition wording uncollated",
+      "scope": "sympathy",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E03"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P15",
+      "meaning": "The same-person convergence of relations differs from their distribution across people",
+      "source": "T2.1.11.16-17",
+      "url": "https://davidhume.org/texts/t/2/1/11",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "edited witness; first-edition wording uncollated",
+      "scope": "sympathy and pride/humility; broader moral application reconstructed separately",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P16",
+      "meaning": "All causally connected episodes form one consciousness",
+      "source": "Strong reduction test model",
+      "url": "",
+      "premise_origin": "HPA-added",
+      "voice": "HPA investigator testing bridge",
+      "textual_state": "HPA cycle-v5 stipulated test model, not wording in a Hume edition",
+      "scope": "REJECTED bridge; not attributed to every scholar",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E03"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P17",
+      "meaning": "Person-specific relations require indexing signs/episodes to the same currently distinguished people",
+      "source": "Required by T2.1.11.16-17 contrast",
+      "url": "https://davidhume.org/texts/t/2/1/11",
+      "premise_origin": "argument-required",
+      "voice": "author",
+      "textual_state": "edited witness; first-edition wording uncollated",
+      "scope": "ordinary person-indexing, not by itself temporal-history constitution",
+      "qualifications": [
+        "Hume descriptions already person-indexed; richer ordinary evidence not shown underdetermined; dependency not global defect"
+      ],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E04"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P18",
+      "meaning": "Character can change within an attributed person",
+      "source": "T1.4.6.19",
+      "url": "https://davidhume.org/texts/t/1/4/6",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "edited witness; first-edition wording uncollated",
+      "scope": "ordinary identity attribution",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E05"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P19",
+      "meaning": "Durable character affects judgments about already attributed actions",
+      "source": "T3.3.1.4-7",
+      "url": "https://davidhume.org/texts/t/3/3/1",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "edited witness; first-edition wording uncollated",
+      "scope": "published1740; relative Appendix composition order unknown",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E05"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P20",
+      "meaning": "Earlier personal-identity explanation fails to explain union in consciousness",
+      "source": "Appendix10,20-21",
+      "url": "https://davidhume.org/texts/t/app",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "1740 Appendix separately marked in edited witness",
+      "scope": "explicit explanatory qualification",
+      "qualifications": [
+        "Difficulty may concern reflected connection/association; ownership diagnosis not exhaustive"
+      ],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E13"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P21",
+      "meaning": "Distinct perceptions are distinct existences",
+      "source": "Appendix21",
+      "url": "https://davidhume.org/texts/t/app",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "1740 Appendix",
+      "scope": "retained principle",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E06"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P22",
+      "meaning": "Mind perceives no real connection among distinct existences",
+      "source": "Appendix21",
+      "url": "https://davidhume.org/texts/t/app",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "1740 Appendix",
+      "scope": "absence of perceived connection; not absence of connection",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E06"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P23",
+      "meaning": "A simple bearer or perceived real connection exhausts all possible unity explanations",
+      "source": "Proposed formal bridge",
+      "url": "",
+      "premise_origin": "HPA-added",
+      "voice": "HPA investigator testing bridge",
+      "textual_state": "HPA cycle-v5 stipulated test model, not wording in a Hume edition",
+      "scope": "UNESTABLISHED exhaustiveness; not Appendix explicit proof",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P24",
+      "meaning": "Causal belief explanation remains articulated alongside identity qualification",
+      "source": "Appendix2-9, especially4",
+      "url": "https://davidhume.org/texts/t/app",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "1740 Appendix",
+      "scope": "retention does not solve unity",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E13"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P25",
+      "meaning": "A cause estimated only from its effect does not license extra properties or future effects by that estimate alone",
+      "source": "EHU11.12-14,26; narrator challenge30",
+      "url": "https://davidhume.org/texts/e/11",
+      "premise_origin": "Hume-stated",
+      "voice": "represented friend / reported debate",
+      "textual_state": "1777 edited witness; work first1748; exact revisions uncollated",
+      "scope": "unknown cause versus independently familiar cause",
+      "qualifications": [
+        "Narrator EHU11.30 also questions initial inference to singular cause; enrichment account only conceded friend argument"
+      ],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E07"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P26",
+      "meaning": "An independently learned relevant cause/property relation supplies additional evidence",
+      "source": "EHU11.25,27 contrast reconstructed",
+      "url": "https://davidhume.org/texts/e/11",
+      "premise_origin": "HPA-reconstructed",
+      "voice": "represented friend / interpretation",
+      "textual_state": "edited witness; first-edition wording uncollated",
+      "scope": "not repeated observation of identical target event",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E07"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P27",
+      "meaning": "Extensive comparative testimony may support imagined unprecedented darkness",
+      "source": "EHU10.36",
+      "url": "https://davidhume.org/texts/e/10",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "1777 edited witness; exact1748 wording uncollated",
+      "scope": "hypothetical extraordinary event",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E08"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P28",
+      "meaning": "Religious miracle reports receive a categorical negative policy grounded in witness/religious psychology",
+      "source": "EHU10.38 and preceding partII",
+      "url": "https://davidhume.org/texts/e/10",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "1777 edited witness",
+      "scope": "must not erase categorical policy when rejecting topic-only ban",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E08"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P29",
+      "meaning": "Limited intelligence analogy does not license all divine attributes or practical effects",
+      "source": "Dialogues12.33 and context",
+      "url": "https://davidhume.org/texts/d/12",
+      "premise_origin": "Hume-stated",
+      "voice": "Philo conditional / other voices retained",
+      "textual_state": "1779 posthumous edited witness; composition stages uncollated",
+      "scope": "not automatically sole author doctrine",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P30",
+      "meaning": "Natural frame affirms intelligent-author inference distinct from human origin of religion",
+      "source": "NHR Introduction",
+      "url": "https://davidhume.org/texts/n/0",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "1777 edited witness; work first1757; exact earlier wording uncollated",
+      "scope": "strong contrary assertion; irony not assumed",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P31",
+      "meaning": "Reason discovers objects as they stand; taste gives productive sentiment",
+      "source": "Moral Enquiry Appendix1.21",
+      "url": "https://davidhume.org/texts/m/app1",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "1777 edited witness; work first1751; earlier wording uncollated",
+      "scope": "conditional opening .1 and false-hypothesis test .4 do not erase affirmation",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P32",
+      "meaning": "Even a fictional Xenophon narrative evidences an ancient available balancing notion",
+      "source": "Hume Essays critical edition, ed. Beauchamp and Box, Clarendon2021 vol1 pp252-257; variants634-635",
+      "url": "",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "Clarendon2021 vol1 p252 edited text; variants634-635 consulted",
+      "scope": "author conceptual content, not occurrence of narrated alliance",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E09",
+        "E10"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P33",
+      "meaning": "Authorship, dating and semantic interpretation connect representation to its historical target",
+      "source": "Balance opening required premises",
+      "url": "",
+      "premise_origin": "argument-required",
+      "voice": "author",
+      "textual_state": "edited witness; first-edition wording uncollated",
+      "scope": "not every textual narrative automatically authentic",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E09"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P34",
+      "meaning": "Causal plausibility is sufficient for narrated-event truth",
+      "source": "Strong historical extrapolation test model",
+      "url": "",
+      "premise_origin": "HPA-added",
+      "voice": "HPA investigator testing bridge",
+      "textual_state": "HPA cycle-v5 stipulated test model, not wording in a Hume edition",
+      "scope": "REJECTED sufficiency; plausible romance counterexample",
+      "qualifications": [],
+      "supporting_dependency_ids": [
+        "E10"
+      ],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P35",
+      "meaning": "Remote-origin inquiry distinguishes comparative traces from unreliable traditions and magnifying witnesses",
+      "source": "History1.1-5",
+      "url": "https://davidhume.org/texts/h/1",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "1778 edited witness; early volumes first1762",
+      "scope": "selected application; not certification of historical claims",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P36",
+      "meaning": "Fact-constrained political/natural reasoning has checks less available to metaphysics/theology",
+      "source": "Elliot18February1751 public extract",
+      "url": "https://www.cambridge.org/core/books/abs/hume-dialogues-concerning-natural-religion/letters-to-gilbert-elliot-extracts/5497F5A60ECE81E80BFFEDEF5C40C420",
+      "premise_origin": "Hume-stated",
+      "voice": "Hume private letter",
+      "textual_state": "dated letter; only modern public extract inspected",
+      "scope": "corroboration, not full-letter or1739 doctrine",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P37",
+      "meaning": "First-order probable evidence can ascend to oppose sceptical faculty assessments under a constitutive standard",
+      "source": "Garrett2014 reply to Loeb, printed283-288 and293-296",
+      "url": "https://humesociety.org/?hume_article_pdf=16385",
+      "premise_origin": "scholar-supplied",
+      "voice": "Garrett reconstruction",
+      "textual_state": "HumeStudies40(2),279-300; complete23PDFpages includingcover;2014printedstate",
+      "scope": "global error possible; balance not fixed a priori",
+      "qualifications": [
+        "pp293-296 senses/memory noninferential; composite faculty may retain authority despite misattribution; causal-only critique does not refute"
+      ],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E11"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P38",
+      "meaning": "Strong theoretical corrective passive assent does not itself constitute active rational endorsement",
+      "source": "Baxter A Pyrrhonian Interpretation of Hume on Assent; authorMS7-11,14-18,19-22",
+      "url": "https://philpapers.org/archive/BAXAIS.pdf",
+      "premise_origin": "scholar-supplied",
+      "voice": "Baxter reconstruction",
+      "textual_state": "26-page authorMS forthcoming2016header; finalpublication2018pp380-394; published mapping uncollated",
+      "scope": "strong rival; normative statements alone no refutation",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E12"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P39",
+      "meaning": "Positive assertion and corrective practice entail rational endorsement",
+      "source": "Earlier HPA endorsement bridge",
+      "url": "",
+      "premise_origin": "HPA-added",
+      "voice": "HPA investigator testing bridge",
+      "textual_state": "HPA cycle-v5 stipulated test model, not wording in a Hume edition",
+      "scope": "UNESTABLISHED; passive countermodel remains",
+      "qualifications": [],
+      "supporting_dependency_ids": [
+        "E12"
+      ],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P40",
+      "meaning": "Treatise already recommends critical examination and sceptical limits",
+      "source": "T1.4.7.14",
+      "url": "https://davidhume.org/texts/t/1/4/7",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "edited witness; first-edition wording uncollated",
+      "scope": "defeats later-first-invention developmental story",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E14"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P41",
+      "meaning": "Later guidance increases actionable regulation without alone proving ultimate vindication",
+      "source": "Qu2025 pp207-218",
+      "url": "https://doi.org/10.1017/can.2025.8",
+      "premise_origin": "scholar-supplied",
+      "voice": "Qu original reconstruction",
+      "textual_state": "Specific accessible scholarly original; version and complete-reading bounds in v5 source ledger",
+      "scope": "audience/function; distinct from all substantive-change claims",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E14"
+      ],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P42",
+      "meaning": "Ignorance of a substance nature by itself requires suspension of its existence",
+      "source": "Unlicensed bridge under test",
+      "url": "",
+      "premise_origin": "HPA-added",
+      "voice": "HPA investigator testing bridge",
+      "textual_state": "HPA cycle-v5 stipulated test model, not wording in a Hume edition",
+      "scope": "REJECTED entailment; separate epistemic premise needed",
+      "qualifications": [],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P43",
+      "meaning": "Continued-object and causal belief share kind of sentiment, without explicit identity of formation mechanism",
+      "source": "Abstract27,13-16,25,33",
+      "url": "https://davidhume.org/texts/a",
+      "premise_origin": "Hume-stated",
+      "voice": "author",
+      "textual_state": "March1740 copytext with undated Hume-hand corrections; precise intervention chronology unestablished",
+      "scope": "phenomenology versus generative operation",
+      "qualifications": [
+        "Strong adverse control against crude separation"
+      ],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [],
+      "interpretive_alternatives": "Related edge qualifications, competing models, and sustained report specify alternatives; primitive textual premises remain contestable translations."
+    },
+    {
+      "id": "P44",
+      "meaning": "Continuing-history attribution needs temporal linking information in addition to present-person indexing",
+      "source": "HPA dependency derived from distinct targets; T1.4.6 memory discussion context",
+      "url": "https://davidhume.org/texts/t/1/4/6",
+      "premise_origin": "HPA-reconstructed",
+      "voice": "HPA reconstruction, not explicit uniform Hume rule",
+      "textual_state": "v5 model target distinction supported by editedTreatise context",
+      "scope": "memory/bodytrajectory/context may jointly supply linkage; actual failure not established",
+      "qualifications": [
+        "Present patient indexing does not automatically imply strict identity or one consciousness"
+      ],
+      "supporting_dependency_ids": [],
+      "consequence_dependency_ids": [
+        "E04"
+      ]
+    }
+  ],
+  "conjunctive_dependencies": [
+    {
+      "id": "E01",
+      "premises": [
+        "P02"
+      ],
+      "conclusion": "P03",
+      "status": "fails",
+      "inference_origin": "HPA-added",
+      "qualification": "Removing an explanatory bearer requirement does not prove all evidential dependencies dispensable.",
+      "conjunctive": true
+    },
+    {
+      "id": "E02",
+      "premises": [
+        "P04",
+        "P01"
+      ],
+      "conclusion": "P08",
+      "status": "fails",
+      "inference_origin": "HPA-added",
+      "qualification": "P05/P06 block the proposed direct causal-custom route; P07 explains adoption separately.",
+      "conjunctive": true
+    },
+    {
+      "id": "E03",
+      "premises": [
+        "P14",
+        "P16"
+      ],
+      "conclusion": "one-person-for-every-connected-network",
+      "status": "counterexample",
+      "inference_origin": "HPA-added",
+      "qualification": "P15 needs different people; bare graph cannot determine P17.",
+      "conjunctive": true
+    },
+    {
+      "id": "E04",
+      "premises": [
+        "P13",
+        "P17",
+        "P44"
+      ],
+      "conclusion": "person-specific-causal-explanation",
+      "status": "conditional",
+      "inference_origin": "HPA-reconstructed",
+      "qualification": "Present indexing and temporal linking are different inputs; no strict invariant self or additional whole follows. Hume ordinary evidence not shown insufficient.",
+      "conjunctive": true
+    },
+    {
+      "id": "E05",
+      "premises": [
+        "P18",
+        "P19"
+      ],
+      "conclusion": "unchanged-character-necessary-for-identity",
+      "status": "fails",
+      "inference_origin": "HPA-added",
+      "qualification": "P18 defeats necessity of unchanged character; probabilistic tracking using character/body/history is unrefuted",
+      "conjunctive": true
+    },
+    {
+      "id": "E06",
+      "premises": [
+        "P21",
+        "P22"
+      ],
+      "conclusion": "logical-contradiction",
+      "status": "fails",
+      "inference_origin": "HPA-added",
+      "qualification": "Both satisfiable alone. P20 explanatory demand is not P23 exhaustive axiom.",
+      "conjunctive": true
+    },
+    {
+      "id": "E07",
+      "premises": [
+        "P25",
+        "P26"
+      ],
+      "conclusion": "bounded-extra-property-inference",
+      "status": "conditional",
+      "inference_origin": "HPA-reconstructed",
+      "qualification": "Specific independently supported relation and evidence comparison required.",
+      "conjunctive": true
+    },
+    {
+      "id": "E08",
+      "premises": [
+        "P27",
+        "P28"
+      ],
+      "conclusion": "topic-alone-prohibition",
+      "status": "fails-as-general-derivation",
+      "inference_origin": "HPA-reconstructed",
+      "qualification": "Extraordinary and religious-target reports differ by additional psychology premises; actual .38 policy retained.",
+      "conjunctive": true
+    },
+    {
+      "id": "E09",
+      "premises": [
+        "P32",
+        "P33"
+      ],
+      "conclusion": "ancient-available-concept",
+      "status": "supported-in-context",
+      "inference_origin": "Hume-explicit",
+      "qualification": "No event-truth consequence; this is an alternate target, not a repaired false narrative.",
+      "conjunctive": true
+    },
+    {
+      "id": "E10",
+      "premises": [
+        "P32"
+      ],
+      "conclusion": "P34",
+      "status": "bridge-refuted-by-logical-countercase",
+      "inference_origin": "HPA test",
+      "qualification": "P34 is the sufficiency bridge under test, not a premise held true. Plausible romance can fail event-truth while evidencing author concept.",
+      "conjunctive": true
+    },
+    {
+      "id": "E11",
+      "premises": [
+        "P37"
+      ],
+      "conclusion": "local-normative-evidence",
+      "status": "live-rival",
+      "inference_origin": "scholar-supplied",
+      "qualification": "Constitutive standard is a substantive defence; no foundation demand imposed by fiat.",
+      "conjunctive": true
+    },
+    {
+      "id": "E12",
+      "premises": [
+        "P38"
+      ],
+      "conclusion": "P39",
+      "status": "countermodel-to-entailment",
+      "inference_origin": "HPA-added",
+      "qualification": "Formal availability does not prove historical passive-assent interpretation.",
+      "conjunctive": true
+    },
+    {
+      "id": "E13",
+      "premises": [
+        "P20",
+        "P24"
+      ],
+      "conclusion": "all-causal-inquiry-withdrawn",
+      "status": "fails",
+      "inference_origin": "HPA-added",
+      "qualification": "Explicit failure and retained mechanism coexist; epistemic independence not proved.",
+      "conjunctive": true
+    },
+    {
+      "id": "E14",
+      "premises": [
+        "P40",
+        "P41"
+      ],
+      "conclusion": "Enquiry-first-invents-moderation",
+      "status": "fails",
+      "inference_origin": "HPA-added",
+      "qualification": "More explicit/actionable presentation differs from invention and vindication.",
+      "conjunctive": true
+    }
+  ],
+  "models": [
+    {
+      "id": "M1",
+      "name": "foundational scientific realism",
+      "disputed": [
+        "P03",
+        "P16",
+        "P39"
+      ],
+      "verdict": "Strong causal-grounding route fails; independent realist arguments unrefuted",
+      "constructed_maximal_hypothesis": true
+    },
+    {
+      "id": "M2",
+      "name": "universal suspension/fiction",
+      "disputed": [
+        "all affirmative targets merely epistemically useless fiction"
+      ],
+      "verdict": "Blanket version fails positive comparisons; qualified Baxter passive assent survives",
+      "constructed_maximal_hypothesis": true
+    },
+    {
+      "id": "M3",
+      "name": "evidence-calibrated causal projection",
+      "disputed": [
+        "familiar kinds suffice for object continuity and ownership"
+      ],
+      "verdict": "Replaced by conclusion-specific constraints; ultimate authority unresolved"
+    },
+    {
+      "id": "M4",
+      "name": "developmental revision",
+      "disputed": [
+        "omission implies withdrawal",
+        "later moderation first appears in Enquiry"
+      ],
+      "verdict": "Explicit Appendix qualification established; blanket retreat/first-moderation fails"
+    }
+  ],
+  "consequence_tests": [
+    {
+      "id": "C1",
+      "model": "M1",
+      "prospective_prediction": "Signs plus successful causal completion ground independent continued objects",
+      "primary_evidence": [
+        "P04",
+        "P05",
+        "P06",
+        "P07"
+      ],
+      "outcome": "Fails specified route",
+      "revision": "Do not infer object ontology from causal-custom success",
+      "strongest_rival": "See report and separate assessments; outcome does not alone refute qualified rival",
+      "prior_exposure": true
+    },
+    {
+      "id": "C2",
+      "model": "M2",
+      "prospective_prediction": "Metaphysical uncertainty excludes all meaningful absent-person/testimony conclusions",
+      "primary_evidence": [
+        "P24",
+        "P27",
+        "P30",
+        "P31"
+      ],
+      "outcome": "Blanket version overpredicts",
+      "revision": "Distinguish substantive content from passive assent",
+      "strongest_rival": "See report and separate assessments; outcome does not alone refute qualified rival",
+      "prior_exposure": true
+    },
+    {
+      "id": "C3",
+      "model": "M3",
+      "prospective_prediction": "Relevant familiarity permits bounded novel-instance inference; topic alone does not universally exclude it",
+      "primary_evidence": [
+        "P25",
+        "P26",
+        "P27",
+        "P28",
+        "P29"
+      ],
+      "outcome": "Qualified support; .38 adverse categorical policy retained",
+      "revision": "Familiar relevant relation, not identical repeated event; extra testimonial psychology required",
+      "strongest_rival": "See report and separate assessments; outcome does not alone refute qualified rival",
+      "prior_exposure": true
+    },
+    {
+      "id": "C4",
+      "model": "M1",
+      "prospective_prediction": "Causal connectedness yields one person/whole",
+      "primary_evidence": [
+        "P14",
+        "P15",
+        "P18",
+        "P20"
+      ],
+      "outcome": "Fails sufficiency",
+      "revision": "Expose ownership assignment and constitutive difference",
+      "strongest_rival": "See report and separate assessments; outcome does not alone refute qualified rival",
+      "prior_exposure": true
+    },
+    {
+      "id": "C5",
+      "model": "M1",
+      "prospective_prediction": "Positive corrective practice establishes active endorsement",
+      "primary_evidence": [
+        "P37",
+        "P38",
+        "P39"
+      ],
+      "outcome": "Not settled; bridge lacks automatic entailment",
+      "revision": "Confront constitutive normative account and passive rival separately",
+      "strongest_rival": "See report and separate assessments; outcome does not alone refute qualified rival",
+      "prior_exposure": true
+    },
+    {
+      "id": "C6",
+      "model": "M3",
+      "prospective_prediction": "Historical testimony shows transferable calibrated evidential practice",
+      "primary_evidence": [
+        "P32",
+        "P33",
+        "P35",
+        "P36"
+      ],
+      "outcome": "Target-specific contrast supports bounded transfer",
+      "revision": "Do not certify global faculty authority or narrated-event truth",
+      "strongest_rival": "See report and separate assessments; outcome does not alone refute qualified rival",
+      "prior_exposure": true
+    },
+    {
+      "id": "C7",
+      "model": "M4",
+      "prospective_prediction": "Later omissions establish retreat",
+      "primary_evidence": [
+        "P20",
+        "P24",
+        "P40",
+        "P41"
+      ],
+      "outcome": "Fails general inference; explicit Appendix qualification supports local change",
+      "revision": "Separate withdrawal, retained premise, presentation and omission",
+      "strongest_rival": "See report and separate assessments; outcome does not alone refute qualified rival",
+      "prior_exposure": true
+    }
+  ],
+  "chronological_versions": [
+    {
+      "stage": "1739",
+      "context": "TreatiseBooks1-2",
+      "reconstruction": [
+        "P01",
+        "P02",
+        "P04",
+        "P05",
+        "P07",
+        "P09",
+        "P13",
+        "P14"
+      ],
+      "known": "publication; individual composition chronology unknown",
+      "problem": "causal completion/ownership/reflective authority not automatically derived"
+    },
+    {
+      "stage": "1740",
+      "context": "Appendix and Book3",
+      "reconstruction": [
+        "P19",
+        "P20",
+        "P21",
+        "P22",
+        "P24"
+      ],
+      "change": "explicit personal-identity explanatory qualification; causal belief retained",
+      "consequence": "failure of completed unity account not all causal inquiry",
+      "uncertainty": "relative composition order unknown; integrated T124.22/31 marked interventions"
+    },
+    {
+      "stage": "1751",
+      "context": "Elliotletter; MoralEnquiry first publication",
+      "known": "datedletter extract; MoralEnquiry used1777witness",
+      "change": "no precise first-edition contrast established"
+    },
+    {
+      "stage": "1752-to1754",
+      "context": "Balance of Power Roman-history note",
+      "known": "Clarendonvariants634-635 note only52a/52b absent54onward",
+      "change": "omission of explicit local methodological defence",
+      "consequence": "does not remove all independent balance evidence; no repudiation inferred"
+    },
+    {
+      "stage": "later-edited-witnesses",
+      "context": "EHU1777; NHR1777; History1778; Dialogues1779",
+      "change": "contextual comparisons; exact early-edition formulations/composition stages uncollated",
+      "consequence": "no timeless merger or automatic abandonment claim"
+    }
+  ],
+  "formal_checks": "scripts/check_reconstruction_v5.py",
+  "limitations": [
+    "nonblinded",
+    "exact deployment unavailable",
+    "no human evaluation",
+    "no priority proof",
+    "Garrett1997/2007 and Hakkarainen2019 full arguments unassessed"
+  ],
+  "target_distinctions": [
+    {
+      "id": "episode",
+      "meaning": "a mental episode occurs"
+    },
+    {
+      "id": "present_patient",
+      "meaning": "episode attributed to currently recognized patient; signs may already be person-indexed"
+    },
+    {
+      "id": "continuing_history",
+      "meaning": "current patient/episode linked to an earlier personal history; extra body/memory/context evidence"
+    },
+    {
+      "id": "strict_identity",
+      "meaning": "strictly invariant numerical identity; not ordinary tracked succession"
+    },
+    {
+      "id": "one_consciousness",
+      "meaning": "union of perceptions in thought or consciousness; Appendix difficulty not exhaustively diagnosed as ownership"
+    }
+  ],
+  "derived_control": {
+    "present_patient": true,
+    "earlier_history_established": false,
+    "source": "HPA logical limiting case, not explicit Hume example",
+    "point": "present indexed sign inference does not automatically establish yesterday linkage"
+  }
+}

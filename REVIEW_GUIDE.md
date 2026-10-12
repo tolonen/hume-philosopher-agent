@@ -4,7 +4,7 @@ The request is for an assessment of both the Hume arguments and what this experi
 
 ## A manageable reading route
 
-Begin with [EXPERIMENT.md](EXPERIMENT.md) and [the positive reconstruction](reports/positive-reconstruction.md). Read [HPA-007](dossiers/HPA-007.md) for its strongest qualifications. For a check on failed criticism, inspect [HPA-001](dossiers/HPA-001.md) or [HPA-002](dossiers/HPA-002.md). [SOURCES.md](SOURCES.md) and the linked originals distinguish what was read from what remains unassessed.
+Begin with [EXPERIMENT.md](EXPERIMENT.md) and [the integrated reconstruction](reports/integrated-reconstruction-v5.md), then [the argument model](models/integrated-v5.json) and [final opposition](notes/integrated-opposition-v5.md). The [earlier positive reconstruction](reports/positive-reconstruction.md) remains historical. Read [HPA-007](dossiers/HPA-007.md) for its strongest qualifications. For a check on failed criticism, inspect [HPA-001](dossiers/HPA-001.md) or [HPA-002](dossiers/HPA-002.md). [SOURCES.md](SOURCES.md) and the linked originals distinguish what was read from what remains unassessed.
 
 If time is limited, prioritize a detailed judgement on one inferential chain over a global impression. Identify dossier, paragraph or heading, primary reference and scholarly page. Explain whether your objection concerns the text, the reconstruction, the inference, the philosophical adequacy or novelty; these are different failure modes.
 
@@ -66,3 +66,15 @@ Limits of this review:
 ```
 
 A useful verdict can be “accurate but familiar,” “helpful synthesis with unresolved premises,” or “unpersuasive despite correction,” as well as a positive judgement. Please identify which judgement the evidence warrants; the project's ambition does not predetermine its outcome.
+
+## Discriminating tests for cycle v5
+
+1. Does T1.4.2.21–22 defeat the precise HPA grounding route, while leaving Garrett’s noninferential alternative available?
+2. Does the Abstract’s shared sentiment threaten a distinction between belief-generating operations?
+3. Does EHU11 support the stated known-relation rule, and has its narrator’s objection been given sufficient force?
+4. Is the Xenophon conceptual-target inference philosophically informative, or just a familiar reconstruction rule?
+5. Have richer person-indexing evidence and the Appendix’s competing diagnoses been fairly preserved?
+6. What does the explicit1740qualification change, and what is merely inferred from omitted later material?
+7. Which complete original offers the closest precedent, and what new premise or consequence, if any, survives?
+
+The finite checks expose stipulated consequences; assess the translation and its textual support separately. Successful criticism of HPA’s earlier route does not certify a contribution to published scholarship.

@@ -1,0 +1,226 @@
+{
+  "schema": "hpa-consequence-test-reading-v1",
+  "stage": "inference-tests-v5",
+  "date": "2026-10-12",
+  "reader": "new_hume_reading",
+  "status": "complete bounded assessment; unifying ontological bridge withdrawn; local inference model and qualified assent rival retained",
+  "pre_retrieval_models": [
+    "M1 absolute empirical/theological prohibition",
+    "M2 evidence-calibrated analogical extension and restricted attribute projection",
+    "M3 default practice and sceptical passive assent"
+  ],
+  "tests": [
+    "EHU X complete, both parts",
+    "EHU XI complete",
+    "EHU XII complete",
+    "Dialogues III complete",
+    "Dialogues IV complete",
+    "Dialogues XII complete",
+    "T1.3.16 complete",
+    "T2.1.11 complete"
+  ],
+  "prior_exposure": "EHU9-12 and D0-5/12 already fully read in positive-analogy-primary-v3; other-minds primary and scholarly arguments encountered in shared notes; no untouched holdout",
+  "initial_expectation": "M1 fails; M2 survives on content projection; M3 remains live concerning ultimate assent",
+  "sources": [
+    {
+      "id": "hume-T1316",
+      "title": "A Treatise of Human Nature, animal reason",
+      "url": "https://davidhume.org/texts/t/1/3/16",
+      "original_publication": "1739",
+      "text_state": "Hume Texts Online edited presentation; no original witness collation",
+      "reading_status": "complete bounded section in current stage",
+      "coverage": "T1.3.16.1-9; SBN176-179",
+      "inspected_web_lines": "0-47"
+    },
+    {
+      "id": "hume-T2111",
+      "title": "A Treatise of Human Nature, love of fame / sympathy",
+      "url": "https://davidhume.org/texts/t/2/1/11",
+      "original_publication": "1739",
+      "text_state": "Hume Texts Online edited presentation; no original witness collation",
+      "reading_status": "complete bounded section in current stage",
+      "coverage": "T2.1.11.1-19 and displayed notes58/59; SBN316-324",
+      "inspected_web_lines": "0-101"
+    },
+    {
+      "id": "hume-T142",
+      "title": "A Treatise of Human Nature, scepticism with regard to the senses",
+      "url": "https://davidhume.org/texts/t/1/4/2",
+      "original_publication": "1739",
+      "text_state": "Hume Texts Online edited presentation",
+      "reading_status": "selective independent reading; parent complete reading not credited as own",
+      "coverage": "T1.4.2.19-36, .44-49, .53-57 with relevant displayed notes; decisive SBN195-199,201-202,211-218",
+      "not_read_completely": "all57paragraphs"
+    },
+    {
+      "id": "hume-E10",
+      "title": "An Enquiry concerning Human Understanding, Of Miracles",
+      "url": "https://davidhume.org/texts/e/10",
+      "text_state": "edited1777state; not uncollated1748 witness",
+      "reading_status": "complete prior v3 reading reused; substantial targeted current rereading",
+      "coverage": "E10.1-41, both parts and all displayed notes",
+      "prior_reading_ledger": "notes/positive-analogy-primary-v3-sources.json",
+      "decisive_current_tests": [
+        "E10.3-13",
+        "E10.14-19",
+        "E10.24-27",
+        "E10.35-41",
+        "noteK"
+      ]
+    },
+    {
+      "id": "hume-E11",
+      "title": "An Enquiry concerning Human Understanding, Of a Particular Providence and of a Future State",
+      "url": "https://davidhume.org/texts/e/11",
+      "text_state": "edited1777state; not uncollated1748 witness",
+      "reading_status": "complete prior v3 reading reused; substantial current rereading including dependency sequences",
+      "coverage": "E11.1-30 and noteM",
+      "prior_reading_ledger": "notes/positive-analogy-primary-v3-sources.json",
+      "decisive_current_tests": [
+        "E11.1-3",
+        "E11.10-18",
+        "E11.21-30"
+      ],
+      "speakers": "narrator; friend impersonating Epicurus; narrator adds final qualification"
+    },
+    {
+      "id": "hume-E12",
+      "title": "An Enquiry concerning Human Understanding, Of the Academical or Sceptical Philosophy",
+      "url": "https://davidhume.org/texts/e/12",
+      "text_state": "edited1777state; not uncollated1748 witness",
+      "reading_status": "complete prior v3 reading reused; substantial current rereading including all newly decisive sequences",
+      "coverage": "E12.1-34 and displayed notesN-Q",
+      "prior_reading_ledger": "notes/positive-analogy-primary-v3-sources.json",
+      "decisive_current_tests": [
+        "E12.4-16",
+        "E12.22-25",
+        "E12.29-34"
+      ]
+    },
+    {
+      "id": "hume-D3",
+      "title": "Dialogues concerning Natural Religion, PartIII",
+      "url": "https://davidhume.org/texts/d/3",
+      "text_state": "posthumous1779work, online edited presentation; no manuscript revision collation",
+      "reading_status": "complete prior v3 and complete current part",
+      "coverage": "D3.1-13",
+      "prior_reading_ledger": "notes/positive-analogy-primary-v3-sources.json",
+      "speakers": "Cleanthes voice/books; Demea rescue; Pamphilus reports Philo difficulty"
+    },
+    {
+      "id": "hume-D4",
+      "title": "Dialogues concerning Natural Religion, PartIV",
+      "url": "https://davidhume.org/texts/d/4",
+      "text_state": "posthumous1779work, online edited presentation; no manuscript revision collation",
+      "reading_status": "complete prior v3 and complete current part",
+      "coverage": "D4.1-14",
+      "prior_reading_ledger": "notes/positive-analogy-primary-v3-sources.json",
+      "speakers": "Demea simplicity; Cleanthes explanation objection; Philo general-cause concession"
+    },
+    {
+      "id": "hume-D12",
+      "title": "Dialogues concerning Natural Religion, PartXII",
+      "url": "https://davidhume.org/texts/d/12",
+      "text_state": "posthumous1779work, online edited presentation; no manuscript revision collation",
+      "reading_status": "complete prior v3 reused with substantial current rereading",
+      "coverage": "D12.1-34 and all displayed notes10-13",
+      "prior_reading_ledger": "notes/positive-analogy-primary-v3-sources.json",
+      "speakers": "affirmations/limits by Philo; Cleanthes religious motivation; final ranking Pamphilus"
+    },
+    {
+      "id": "kim-other-minds-2018-2019",
+      "title": "Hume on the Problem of Other Minds",
+      "url": "https://www.researchgate.net/publication/328822026_Hume_on_the_Problem_of_Other_Minds",
+      "doi": "10.1080/09608788.2018.1524365",
+      "publication": "online2018; British Journal for the History of Philosophy27(3)(2019),535-555",
+      "reading_status": "complete original argument, notes and bibliography through displayed author text",
+      "coverage": "original article21pages; article text web lines85-1724, inspected with overlapping windows; pageimages uncollated",
+      "page_key": "displayed articlepp1-21 correspond journal535-555",
+      "independent_reading": true,
+      "source_hash": "not acquired or independently archived by this subagent",
+      "access_limit": "ResearchGate header issue metadata differs; original DOI/journal citation used; related-page material beyond original excluded",
+      "other_project_quotes": "not duplicated; root earlier quote allowance remains shared"
+    },
+    {
+      "id": "inoue-other-minds-2003",
+      "title": "The Problem of Other Minds and Hume\u2019s Theory of Sympathy",
+      "url": "https://www.jstage.jst.go.jp/article/jafpos1956/11/2/11_2_75/_pdf/-char/en",
+      "doi": "10.4288/jafpos1956.11.75",
+      "publication": "Annals of the Japan Association for Philosophy of Science11(2)(2003),75-86",
+      "reading_status": "complete12PDFpages including notes and references",
+      "coverage": "pp75-86; remote readerfirst1count6 and first7count6 batch5",
+      "source_sha256": "cbe1e68645cd1512817d7b2281adc46f3c783e4106a6dd2b69912788336960cc",
+      "source_bytes": 755596,
+      "preservation_locator": "operations/scholarship-v5.json",
+      "preservation": "privateAllas original+pageextraction immutable archive, full readback verified by acquisition receipt"
+    },
+    {
+      "id": "hume-Abstract",
+      "title": "An Abstract of a Book lately Published; entituled, A Treatise of Human Nature",
+      "url": "https://davidhume.org/texts/a/",
+      "publication": "March1740 (editorialnote)",
+      "text_state": "1740copytext with alterations from Hume-hand corrections in BritishLibrary copy; correctiondates not independently established",
+      "reading_status": "complete bounded work and editorialnote, currentstage",
+      "coverage": "Prefacei-iv, paragraphs1-35; SBN643-662; web0-197 plus entireeditorialnote",
+      "editorial_url": "https://davidhume.org/texts/a/notes",
+      "test_selected": "parent request after initial result; no prospectiveholdout claim",
+      "result": "same sentiment-kind .27 does not imply same source mechanism; custom/uniformity .13-16/.25 retained; testimony/history .33; union .28 not silently withdrawn"
+    },
+    {
+      "id": "hume-NHRIntro",
+      "title": "The Natural History of Religion, Introduction",
+      "url": "https://davidhume.org/texts/n/0",
+      "publication": "first1757; currentonlineeditedstate notfirstwitnesscollated",
+      "reading_status": "complete boundedunit in currentstage",
+      "coverage": "N0.1 entireintroduction, Bea33; web0-17",
+      "test_selected": "after parent notification; no untouchedholdout claim",
+      "result": "strong rationalintelligentauthor affirmation and refusalrational suspension; distinct popularbelief origin notautomaticirony"
+    }
+  ],
+  "cleanup": {
+    "local_source_payload_bytes": 0,
+    "temporary_files_created": 0,
+    "removed_bytes": 0,
+    "retained": "only two assigned compact research notes; remote source receipts reused by path",
+    "unauthorized_operations": "none"
+  },
+  "completed_date": "2026-10-13",
+  "pre_retrieval_note_sha256": "52e5bcdd899e80e62f87c3dbabe6d2658a2413c4debb309e6e48041c1293b487",
+  "model_mapping_to_root": {
+    "M1": "additional categorical-ban rival; not root M1",
+    "M2": "root M3 calibrated inference",
+    "M3": "root M2 passive assent, qualified",
+    "root_M1": "scientific foundationalism; adversely tested by attempted expansion of local M2",
+    "root_M4": "development; not settled by this note"
+  },
+  "verdict": {
+    "M1": "fails as a comprehensive causal subject-matter prohibition; religious-miracle exclusion policy retained",
+    "M2": "survives as local content/evidence restriction; expansion into foundation for independent objects fails T1.4.2.21-22, .47, .57",
+    "M3": "remains live and qualified; no uniform passive-assent conclusion inferred from all affirmative language",
+    "consequential_result": "Local causal kind attribution, object completion across unobserved intervals, and reflective assent require separate bridges; successful mental attribution does not prove independent bodily persistence."
+  },
+  "additional_test": {
+    "id": "T8",
+    "selected": "after parent notification, before direct inspection",
+    "scope": "T1.4.2.20-22, .31, .46, .57 and their inspected neighboring sequences",
+    "holdout": false,
+    "reason": "prior exposure plus parent disclosed adverse qualification"
+  },
+  "reported_adverse_evidence": [
+    {
+      "source": "Moral Enquiry AppendixI",
+      "coverage": "parent reports complete reading; no independent reread credited here",
+      "claim": "strong affirmative objects-really-stand-in-nature language at.21, alongside received-hypothesis.1 and alternative-test.4"
+    }
+  ],
+  "limits": [
+    "No untouched holdout: primary passages and scholarly positions already encountered",
+    "No original1748Enquiry witness or Dialogues manuscript revision collation",
+    "No complete independent T1.4.2 in this stage",
+    "No complete independent external-object or passive-assent secondary-literature survey",
+    "No fresh scholar refutation or priority claim",
+    "Model agreement is not independent evidence",
+    "Countermodel tests entailment only, not historical attribution or nonexistence of objects",
+    "Abstractcopytext corrections and original1757NHR witness notcollated; no exactcompositionorder inference"
+  ]
+}

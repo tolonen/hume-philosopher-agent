@@ -1,0 +1,224 @@
+{
+  "schema": "hpa-constitution-assessment-v5",
+  "begun_date": "2026-10-12",
+  "completion_date": "2026-10-13",
+  "output": "notes/constitution-v5.md",
+  "role": "Separate sustained automated opposition and reconstruction; nonblinded; parent integrates and handles register",
+  "model_identity": "Exact deployment/configuration unavailable; no override made",
+  "prediction_record": {
+    "recorded_before_new_search": true,
+    "record_location": "Opening section of constitution-v5.md, preserved unchanged",
+    "prior_exposure": "Most primary tests and Hakkarainen originals already read; Baxter initial model based on separate assessor report until complete direct reading this stage",
+    "models": [
+      "H1-H6 real dependent complex, accessible 2012/2015 sources only",
+      "B1-B6 organized plurality without additional strictly existing whole",
+      "C1-C4 provisional causal account"
+    ],
+    "predictions": [
+      "P1/P6 spatial reality versus fictitious unity",
+      "P2 causal organization not strict persistence",
+      "P3 complete consciousness explanation tested by Appendix",
+      "P4 interperson causal connectedness",
+      "P5 changing character"
+    ],
+    "revision": "Complete-solution C fails P3/P4; C4 revised to C4* independence from the very character regularity being confirmed, not from all causal evidence",
+    "emergent_control_not_preregistered": "T1.2.4.22-25 discriminable united appearances and correction; .31 recognized as Appendix insertion"
+  },
+  "secondary_sources": [
+    {
+      "id": "baxter-substance-2015",
+      "title": "Hume on Substance: A Critique of Locke",
+      "source_url": "https://philarchive.org/archive/BAXHOS-4",
+      "version": "Penultimate manuscript dated 2014-01-06; 2015 Lodge and Stoneham edited volume",
+      "coverage": "Complete direct reading: all 27 PDF/manuscript pages, all seven sections and notes",
+      "source_sha256": "ebed624660031d37bb539b5c8545a94cfb3f00b3a630869544c307f04c1886ea",
+      "source_bytes": 190347,
+      "archive_sha256": "c3c26f5927c7aaecede2a686da52ce5c7bab04183d2a0e29b666fb7db01b68ac",
+      "claim_locations": [
+        "MS5-10 real compounds, strict units and collectivity",
+        "MS17-23 separability and conceivability",
+        "MS25-26 direct reply to Hakkarainen2012",
+        "MS27 ontological conclusion"
+      ],
+      "published_page_mapping": "Not verified; manuscript pages used",
+      "rights": "Public author original privately preserved for research; no source redistribution or training admission"
+    },
+    {
+      "id": "hakkarainen-third-2012",
+      "title": "A Third Type of Distinction in the Treatise",
+      "url": "https://humesociety.org/?hume_article_pdf=16320",
+      "citation": "Hume Studies38(1),55-78",
+      "coverage": "Complete original read in prior metaphysics-adversarial-v2 stage; reused without rereading",
+      "ledger": "notes/metaphysics-adversarial-v2-sources.json",
+      "source_sha256": "fe3f2f86020e924f4ddcbe8703032f71a4923560caac029437b98bc4a724ca02",
+      "claim_locations": [
+        "p56 restricted-domain repair",
+        "pp68,78n31 spatial domain and mere pluralities",
+        "p75 no-common-parts distinction"
+      ],
+      "scope": "Consistency/interpretive repair, not proof Hume consciously recognized third distinction"
+    },
+    {
+      "id": "hakkarainen-spatial-2015",
+      "title": "Hume on Spatial Properties",
+      "url": "https://trepo.tuni.fi/bitstream/10024/101369/1/hume_on_spatial_properties.pdf",
+      "coverage": "Complete twenty-page original manuscript read in prior unity-v4 stage, including notes/references; reused",
+      "ledger": "notes/hakkarainen-unity-v4-sources.json",
+      "source_sha256": "8e86095a70e4d0777e2073503e33cbb95432fb501da946cdf751939a1b2c89cf",
+      "pagination": "PDF pages1-20 equal manuscript pages1-20; no separate cover; published79-94 not mapped",
+      "claim_locations": [
+        "MS2 spatial trope thesis",
+        "MS17n9 multimodal scope",
+        "MS17-18n10 distinct perceptual spaces",
+        "MS18n13 synchronic/diachronic distinction"
+      ],
+      "not_substitute_for": "Unread Hakkarainen2019 exact argument"
+    },
+    {
+      "id": "hakkarainen-unity-2019",
+      "title": "Hume on the Unity of Determinations of Extension",
+      "citation": "History of Philosophy and Logical Analysis22(1),219-233",
+      "doi": "10.30965/26664275-02201013",
+      "full_argument_read": false,
+      "assessment": "UNASSESSED",
+      "known_routes": [
+        {
+          "url": "https://researchportal.tuni.fi/en/publications/hume-on-the-unity-of-determinations-of-extension/",
+          "result": "Indexed institutional metadata still points to PhilArchiveHAKHOTv1; live web open internal error"
+        },
+        {
+          "url": "https://philarchive.org/archive/HAKHOTv1",
+          "result": "Current web open internal error; earlier parent ordinary remote404 in scholarship-v6"
+        },
+        {
+          "url": "https://www.degruyterbrill.com/document/doi/10.30965/26664275-02201013/html",
+          "result": "Legitimate current publisher-route candidate; web internal error"
+        },
+        {
+          "url": "https://brill.com/downloadpdf/view/journals/hpla/22/1/article-p219_13.pdf",
+          "result": "Publisher-route candidate; web internal error; no payload admitted"
+        }
+      ],
+      "searches": [
+        "Exact title plus manuscript/download",
+        "Exact DOI plus pdf",
+        "Prior institutional/author-profile/PhilPapers routes reused as failed evidence"
+      ],
+      "failure_limit": "Failures do not prove worldwide absence; no bypass or author contact; no abstract verdict"
+    }
+  ],
+  "primary_sources": {
+    "witness": "Public Hume Texts Online edited HTML; paragraph/SBN labels verified; no original-print facsimile collation",
+    "complete_read_this_stage": [
+      {
+        "reference": "T1.2.2",
+        "url": "https://davidhume.org/texts/t/1/2/2",
+        "coverage": "All ten paragraphs and notes"
+      },
+      {
+        "reference": "T1.2.3",
+        "url": "https://davidhume.org/texts/t/1/2/3",
+        "coverage": "All seventeen paragraphs and notes"
+      },
+      {
+        "reference": "T1.2.4",
+        "url": "https://davidhume.org/texts/t/1/2/4",
+        "coverage": "All thirty-three paragraphs and notes via overlapping calls; .19 revisited after output truncation"
+      },
+      {
+        "reference": "T1.4.3",
+        "url": "https://davidhume.org/texts/t/1/4/3",
+        "coverage": "All eleven paragraphs"
+      },
+      {
+        "reference": "T1.4.5",
+        "url": "https://davidhume.org/texts/t/1/4/5",
+        "coverage": "All thirty-five paragraphs and notes; closing sequence revisited after initial combined-output truncation"
+      },
+      {
+        "reference": "T1.4.6",
+        "url": "https://davidhume.org/texts/t/1/4/6",
+        "coverage": "All twenty-three paragraphs and note50"
+      },
+      {
+        "reference": "T2.1.11",
+        "url": "https://davidhume.org/texts/t/2/1/11",
+        "coverage": "All nineteen paragraphs and notes58-59"
+      },
+      {
+        "reference": "T3.3.1",
+        "url": "https://davidhume.org/texts/t/3/3/1",
+        "coverage": "All thirty-one paragraphs and note83"
+      },
+      {
+        "reference": "Edited Appendix",
+        "url": "https://davidhume.org/texts/t/app",
+        "coverage": "All twenty-two paragraphs and note89; original insertions separately marked"
+      }
+    ],
+    "complete_prior_reading_reused": [
+      "T1.1.7; full section in prior stages"
+    ],
+    "chronology": {
+      "Book1_and_Book2": "Publication1739; precise individual argument composition dates not established",
+      "Book3_and_Appendix": "Publication1740; relative composition order not established",
+      "explicit_change": "App10/20-21 defective personal-identity explanation while constituent principles retained",
+      "retained_argument": "App2-9 causal-belief account; person/body inference App4",
+      "insertions": "T1.2.4.22 opening replaced and .31 added, SBN637-638; not silently attributed to1739",
+      "smaller_corrections": "App22 distance-angle and force/vivacity formulations"
+    },
+    "coverage_exclusions": "No systematic new search/read across Enquiries, Essays, Dissertations, Dialogues, History or correspondence; parent handles integrated corpus coverage",
+    "incidental_unused_discovery": {
+      "url": "https://dev.gutenberg.org/files/53791/53791-h/53791-h.htm",
+      "witness": "1826 Philosophical WorksVolI",
+      "bounds": "Appendix search returned Rousseau correspondence passages including letters19/26June1766 and translator material; not full correspondence reading or argument evidence"
+    },
+    "private_corpus_queries": 0
+  },
+  "formal_checks": {
+    "runtime": "/usr/bin/python3 -B; standard library only",
+    "modal_frames": {
+      "valuations": "Two objects w,p over two scenarios",
+      "tested": 16,
+      "essential_dependence": 9,
+      "independent_whole_witness": 7,
+      "both": 0,
+      "general_result": "Direct formula contradiction supplies unrestricted proof, enumeration only translation smoke"
+    },
+    "owner_countermodels": {
+      "graph": "a->b->c->d fixed",
+      "unlabelled_nontrivial_two_history_partitions": 7,
+      "examples": [
+        [
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          1,
+          1,
+          1
+        ]
+      ],
+      "conclusion": "Bare causal graph does not determine ownership assignment; not a metaphysical or textual refutation"
+    },
+    "appendix_result": "Distinct existences plus absence of perceived real connection satisfiable alone; unified-consciousness demand and explanatory bridge require separate reconstruction",
+    "source_fidelity_limit": "Formal premises are proposed translations, not proof of HumeAccepts(P); possibility, belief, knowledge and perceived/actual connection remain distinct"
+  },
+  "novelty": "No priority claim; Hakk/Baxter dependence objection already debated; episode/history dependency diagnosis requires fuller original personal-identity literature comparison",
+  "cleanup": {
+    "temporary_files_created": 0,
+    "local_source_payload_bytes": 0,
+    "removed_bytes": 0,
+    "retained": [
+      "notes/constitution-v5.md",
+      "notes/constitution-v5-sources.json"
+    ],
+    "reason": "Requested compact private reconstruction and audit ledger"
+  },
+  "public_repo_edits": false,
+  "jobs_or_schedules": false,
+  "training_admission": false
+}

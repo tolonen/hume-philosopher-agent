@@ -155,3 +155,9 @@ No source-access bypass, scholar contact, local source payload or training admis
 occurred. Exact access findings and the distinction from capability are recorded
 in the private operational audit. Full Baxter1990, book and Hakk2019 arguments remain
 gaps; the current integration does not pretend to adjudicate those unread works.
+
+## Cycle v5 coverage update
+
+[Coverage metadata](models/coverage-v5.json) distinguishes the11-member earlier index from a bounded all21-member term search. History and correspondence remain only partly read. [Root reading](notes/root-reading-v5.json) records the complete Balance essay/variants, selected History opening and partial letter. [Constitution](notes/constitution-v5-sources.json), [development](notes/development-v5-sources.json), and [inference](notes/inference-tests-v5-sources.json) distinguish complete direct originals, reused readings, and gaps. Public ledgers omit private payload locators and quote-account fields; no complete modern articles or licensed texts are redistributed.
+
+New comparisons include complete Qu2025 and a selective Faria2021 reading. Garrett1997/2007 and Hakkarainen2019 remain unassessed at the complete-original level despite legitimate access retries. The March1740 Abstract copytext includes corrections whose exact dates were not established. Later1777/1778/1779 witnesses are not treated as verbatim first-publication states.

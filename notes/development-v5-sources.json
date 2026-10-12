@@ -1,0 +1,206 @@
+{
+  "assessment_id": "development-v5",
+  "started_date": "2026-10-12",
+  "assessor_task": "/root/perspectivalism_defence",
+  "parent_task": "/root",
+  "status": "completed_assessment",
+  "model": {
+    "inheritance": "parent model; no override",
+    "exact_identifier": null,
+    "sampling_configuration": null
+  },
+  "blindness": "Nonblinded; prior HPA reading included target Treatise sections and selected Enquiry passages. Predictions are prospective only relative to new stage-v5 retrieval.",
+  "initial_models": [
+    "N: naturalistic reflective endorsement",
+    "P: Pyrrhonian assent without active endorsement",
+    "D: developmental change in the function of scepticism",
+    "K: familiar-kind restriction tested across testimony and religion"
+  ],
+  "initial_material_access_gaps": [
+    "Garrett 1997 complete relevant book argument",
+    "Garrett 2007 complete article",
+    "Baxter assent original not yet directly read by this assessor; parent previously read in full"
+  ],
+  "primary_reading": [
+    {
+      "work": "Treatise",
+      "witness": "Hume Texts Online edited text; no fresh facsimile collation",
+      "publication_context": "Book 1 published 1739; Appendix 1740 kept distinct",
+      "coverage": [
+        {
+          "section": "1.4.1",
+          "paragraphs": "1\u201312 and notes",
+          "url": "https://davidhume.org/texts/t/1/4/1",
+          "complete_section": true
+        },
+        {
+          "section": "1.4.7",
+          "paragraphs": "1\u201315 and notes51\u201353",
+          "url": "https://davidhume.org/texts/t/1/4/7",
+          "complete_section": true
+        }
+      ],
+      "prior_stage_dependencies": [
+        "T1.4.2 full v4 reading, newly reread by parent in v5",
+        "T1.4.6 and Appendix personal-identity paragraphs10\u201321 read in v4; not fresh complete rereading here"
+      ],
+      "inherited_evidence_not_directly_reread": [
+        "Parent v5 T1.4.2.20\u201322 reconstruction"
+      ]
+    },
+    {
+      "work": "Enquiry concerning Human Understanding",
+      "witness": "HTO edited1777 state; relevant1748 wording not collated",
+      "coverage": [
+        {
+          "section": "5",
+          "paragraphs": "1\u201312",
+          "complete_section": false,
+          "url": "https://davidhume.org/texts/e/5"
+        },
+        {
+          "section": "10",
+          "paragraphs": "1\u201341 and notes21\u201327, including extended note25.1\u201312",
+          "complete_section": true,
+          "url": "https://davidhume.org/texts/e/10"
+        },
+        {
+          "section": "11",
+          "paragraphs": "1\u201330 and notes28\u201331",
+          "complete_section": true,
+          "url": "https://davidhume.org/texts/e/11"
+        },
+        {
+          "section": "12",
+          "paragraphs": "1\u201334 and notes32\u201335",
+          "complete_section": true,
+          "url": "https://davidhume.org/texts/e/12"
+        }
+      ]
+    }
+  ],
+  "scholarship": [
+    {
+      "author": "Donald L. M. Baxter",
+      "title": "A Pyrrhonian Interpretation of Hume on Assent",
+      "publication": "Skepticism: From Antiquity to the Present (2018),380\u2013394",
+      "witness": "26-page author manuscript; forthcoming2016 header retained as manuscript metadata, not final publication date",
+      "coverage": "All26PDFpages: argument1\u201322, references23\u201326",
+      "direct_full_argument_read": true,
+      "source": "https://philpapers.org/archive/BAXAIS.pdf",
+      "sha256": "f86be6777e4fa08a0ffd52368a47d699d4fdc33bf1f40323a39707bf390551ae",
+      "source_bytes": 204505,
+      "key_pages": {
+        "distinction": "7\u201311",
+        "regress_and_Garrett_objection": "14\u201318",
+        "theoretical_normative_strong_assent": "19\u201322"
+      },
+      "failed_attempt": "Initial missing --batch8 selected defaultbatch2, StopIteration; corrected without source mutation"
+    },
+    {
+      "author": "Don Garrett",
+      "title": "Loeb\u2019s \u201cStandard\u201d Questions about Hume\u2019s Concept of Probable Truth",
+      "publication": "Hume Studies40(2)(2014),279\u2013300",
+      "coverage": "All23PDFpages including cover, printed279\u2013300, notes, references",
+      "direct_full_argument_read": true,
+      "source": "https://humesociety.org/?hume_article_pdf=16385",
+      "sha256": "d478be29bd7b6bf1627ff5de5945cdb9e31a1f0aef61caea5dd08c051cd77265",
+      "source_bytes": 503307,
+      "key_pages": {
+        "prior_truth_judgments": "281,284\u2013285",
+        "global_error": "283",
+        "semantic_ascent_and_standard": "285\u2013292",
+        "bodies_and_faculty_components": "293\u2013296"
+      },
+      "scope_limit": "A complete original reply; not a substitute for the unread2007article,1997chapter,2015book,2016chapter,2020chapter"
+    },
+    {
+      "author": "Hsueh Qu",
+      "title": "Hume\u2019s Regulative Epistemology in the Enquiry",
+      "publication": "Canadian Journal of Philosophy54(3),207\u2013218; issue2024, online/copyright2025",
+      "doi": "10.1017/can.2025.8",
+      "source": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0AB088A63B43271D87ADF5B53768E2C3/S0045509125000086a.pdf/humes_regulative_epistemology_in_the_enquiry.pdf",
+      "coverage": "All12PDFpages, printed207\u2013218 including allnotes and references",
+      "direct_full_argument_read": true,
+      "sha256": null,
+      "rights": "Publisher marks openaccessCCBY4.0",
+      "key_pages": {
+        "claim_scope": "207\u2013208",
+        "Treatise_objections": "208\u2013211",
+        "Enquiry": "211\u2013213",
+        "consequent_antecedent_caution": "212n21",
+        "shared_doctrines": "213",
+        "causal_rules_and_audience": "214\u2013217"
+      }
+    }
+  ],
+  "source_payload_bytes_local": 0,
+  "temporary_bytes_removed": 0,
+  "assigned_files": [
+    "notes/development-v5.md",
+    "notes/development-v5-sources.json"
+  ],
+  "started_date_basis": "UTC; initial local-date label corrected after clock check at 2026-10-12 20:58:46 UTC",
+  "completed_local_date": "2026-10-13",
+  "unassessed_originals": [
+    {
+      "author": "Don Garrett",
+      "title": "Reasons to Act and Believe: Naturalism and Rational Justification in Hume\u2019s Philosophical Project",
+      "publication": "Philosophical Studies132(1)(2007),1\u201316",
+      "doi": "10.1007/s11098-006-9055-y",
+      "attempts": [
+        "OfficialSpringerarticle inaccessible",
+        "OfficialSpringerPDF inaccessible",
+        "PhilPapersmetadata/search accessible but directpage403",
+        "ResearchGateauthorrequest route only; not used",
+        "Targetedpublicwebsearch no complete original located"
+      ],
+      "full_argument_access": false
+    },
+    {
+      "author": "Don Garrett",
+      "title": "Cognition and Commitment in Hume\u2019s Philosophy, chapter10 Skepticism and Commitment",
+      "publication": "Oxford1997,205\u2013241",
+      "attempts": [
+        "OfficialOxfordchapterrecord no fullaccess",
+        "GoogleBooksmetadata/preview notfullchapter",
+        "PublicStafforinibibliographyPDFheading no usablehref/src"
+      ],
+      "full_argument_access": false
+    },
+    {
+      "author": "Don Garrett",
+      "title": "Hume on Reason, Normativity, and the Title Principle",
+      "publication": "Oxford Handbook of Hume2016,32\u201353",
+      "status": "Discovered through Qu bibliography; not read or adjudicated"
+    },
+    {
+      "author": "Don Garrett",
+      "title": "Pyrrhonian Skepticism and Humean Skepticism: Belief, Evidence, and Causal Power",
+      "publication": "Epistemology after Sextus Empiricus2020,213\u2013236",
+      "status": "Bibliographic record/abstract discovered; no fullargumentread"
+    }
+  ],
+  "verdicts": {
+    "N": "Informed preference survives; epistemic bridge contested; no general naturalism refutation",
+    "P": "Normative regress challenge strengthened by fulloriginal reading; involuntariness alone insufficient",
+    "D": "Firstappearance-of-durable-discipline version withdrawn; increased explicitregulation precedented byQu; date-specific revision unverified",
+    "K": "Eventlevel novelty boundary defeated; relevant inferentialrelation and independently supported addition retained",
+    "integrated_revision": "Local success cannot independently establish contested content supplied by frame/identity operations; not a refutation of constitutive standards"
+  },
+  "chronology_limits": [
+    "No1748vs1777collation; no exact1748wordingclaim",
+    "1740Appendix formulations not imported into1739",
+    "No compositiondate inference from publicationdate",
+    "NHR,moralEnquiry,History,essayvariants parentreported notdirectv5reading"
+  ],
+  "storage": {
+    "local_source_payload_bytes": 0,
+    "temporary_bytes_removed": 0,
+    "temporary_files_created": [],
+    "new_jobs": 0,
+    "schedules_created": 0,
+    "scholar_contacts": 0,
+    "public_repository_edits": 0
+  }
+}

@@ -1,6 +1,6 @@
 # Stages, corrections and remaining claims
 
-All four substantive stages occurred on 12 October 2026. This log is an edited retrospective account drawn from dossiers and stage ledgers. It is not a complete transcript or an exhaustive record of every retrieval and prompt. The public repository starts after these investigations; the private development history is not represented as public Git history.
+The first four substantive stages occurred on 12 October 2026. Stage5 continued through 13 October2026. This log is an edited retrospective account drawn from dossiers and stage ledgers. It is not a complete transcript or an exhaustive record of every retrieval and prompt. The public repository starts after these investigations; the private development history is not represented as public Git history.
 
 ## Stage 1: two exact claims and two withdrawn objections
 
@@ -49,3 +49,17 @@ The surviving integration distinguishes causal evidence, constitution, persisten
 The user requested a public repository under `tolonen`, explicitly framed as an experiment for a philosopher to judge. Publication added the explanatory account and review guide, adapted links, removed private locators and omitted operational/source payloads. No verdict was elevated into a discovery during this step. Original source access and quotation-account fields in selected ledgers were reduced for publication; the scope of omitted evidence is stated in SOURCES and NOTICE.
 
 The separate user-requested conversation export is retained locally outside this public edition. Review has not been performed by a human philosopher. Next substantive questions remain original-source comparison, decisive edition collation and external evaluation; none is represented as already completed.
+
+## Stage5: reconstruction and dependency testing
+
+The user reopened the premises of the positive account and required one complete integrated cycle. [The new report](reports/integrated-reconstruction-v5.md) and [model](models/integrated-v5.json) record the result.
+
+- Strong familiar-kind/explanatory-independence grounding was withdrawn after the porter sequence’s direct causal-custom objection.
+- Bare graph underdetermination was retained as a formal result; its extension to Hume’s full ordinary person evidence was withdrawn.
+- Appendix unity failure was preserved; diagnosing it exclusively as ownership was qualified.
+- EHU11’s enrichment restriction was separated from the narrator’s first-inference objection.
+- Garrett’s noninferential composite-faculty route was restored; the causal-only criticism does not refute it.
+- The Abstract’s shared sentiment, NHR’s direct rational-theism affirmation and EHU10’s severe religious-miracle policy remain counterevidence.
+- A deleted Roman-history note was dated through the critical apparatus, not inferred from later omission.
+
+[The evaluation record](evaluation/session-v5.json) links the tests, adverse outcomes, corrections and coverage. No human review or novelty certification occurred. Earlier files remain provisional history rather than silently rewritten predictions.

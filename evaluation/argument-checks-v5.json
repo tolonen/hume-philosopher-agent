@@ -1,0 +1,99 @@
+{
+  "ignorance": {
+    "models": 4,
+    "entails_existence": false,
+    "entails_suspension": false
+  },
+  "assent_countermodel": {
+    "affirmative": true,
+    "corrective": true,
+    "strong_belief": true,
+    "active_endorsement": false
+  },
+  "other_bridge_countermodels": {
+    "explanation_to_warrant": {
+      "no_bearer_in_explanation": true,
+      "all_warrant_dependencies_dispensable": false
+    },
+    "episode_to_ontology": {
+      "local_episode_attribution": true,
+      "perception_independent_mind_proved": false
+    },
+    "success_to_whole": {
+      "successful_relational_prediction": true,
+      "additional_strict_whole": false
+    },
+    "effect_to_enrichment": {
+      "local_cause_estimate": true,
+      "independently_known_extra_relation": false,
+      "further_effect_licensed": false
+    },
+    "plausibility_to_event_truth": {
+      "plausible_narrative": true,
+      "narrated_event_occurred": false,
+      "author_has_concept": true
+    }
+  },
+  "owner_countermodels": {
+    "same_bare_edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "two_history_partitions": 7,
+    "examples": [
+      [
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        1,
+        1
+      ]
+    ],
+    "richer_sign_body_memory_context_held_fixed": false
+  },
+  "whole_part_minimal_conflict": [
+    [
+      "whole_in_strict_domain",
+      "essential_dependence",
+      "unrestricted_separation"
+    ]
+  ],
+  "repairs_not_attribution_proofs": {
+    "restricted_separation_scope": "Numerical difference need not be wholly distinct separability",
+    "collective_existence": "Additional whole excluded from strict domain"
+  },
+  "appendix": {
+    "two_stated_principles_satisfiable": true,
+    "added_translation_minimal_conflict": [
+      [
+        "no_perceived_connection",
+        "unity_demand",
+        "no_simple_bearer",
+        "exhaustive_grounds_ADDED"
+      ]
+    ],
+    "exhaustiveness_textually_established": false,
+    "no_perceived_connection_means_no_actual_connection": false
+  },
+  "model_validation": {
+    "propositions": 44,
+    "edges": 14,
+    "tests": 7
+  },
+  "historical_fidelity_proved": false
+}

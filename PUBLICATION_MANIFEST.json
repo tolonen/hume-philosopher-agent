@@ -1,12 +1,11 @@
 {
-  "edition": "public-review-v1",
-  "date": "2026-10-12",
-  "experiment_date": "2026-10-12",
-  "development_base_commit": "c5196c199d9ecfdea4a05153666074acc02744cf",
-  "development_history_included": false,
-  "coverage": "Selected public research record; current dossiers, historical stage reports, edited source ledgers, experiment account and review guide. File identity does not certify scholarly conclusions.",
+  "edition": "public-review-v2-reconstruction-cycle-v5",
+  "date": "2026-10-13",
+  "previous_public_commit": "7be7dd3322a913ada0f76042071e44ff097da958",
   "source_payloads_included": false,
   "transcript_included": false,
+  "development_history_included": false,
+  "coverage": "Earlier experimental record retained; integrated report/model/coverage/opposition added. Checksums certify file identity, not philosophical conclusions.",
   "files": [
     {
       "path": ".gitignore",
@@ -20,13 +19,13 @@
     },
     {
       "path": "EXPERIMENT.md",
-      "bytes": 15954,
-      "sha256": "4d87dd41af841772e1881edb74ca29c925e73ed4541bf1ae7e4925f9e50b93b4"
+      "bytes": 19197,
+      "sha256": "0924d78f5e3de6a1be344f49830f100783b1fbfcca94b79ade53a830e27b1d9d"
     },
     {
       "path": "EXPERIMENT_LOG.md",
-      "bytes": 5796,
-      "sha256": "ef61a9300571f2d39d2396ca718c071cb8ba17492dbf3e079ba5638e9ef9a4ca"
+      "bytes": 7192,
+      "sha256": "ee085c29ebb754de3f90f86ab2b7c056fb7ae9f2397cddf3ea2e1c80cbc9112b"
     },
     {
       "path": "NOTICE.md",
@@ -35,8 +34,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 6975,
-      "sha256": "9bacead57a894d952285839d7c076ba143c1fb0d05c34065034b3f5cb7d57e27"
+      "bytes": 8022,
+      "sha256": "b89cac10b891344aa5f34477925dfe2ea77418be5e743b68a752e6d5399958ae"
+    },
+    {
+      "path": "REORIENTATION-v5.md",
+      "bytes": 4953,
+      "sha256": "a60d7985599900018e5cb95d453503e0dbaa38880e591f0e2f3a5b19b01c5fea"
+    },
+    {
+      "path": "REQUEST-v5.md",
+      "bytes": 14616,
+      "sha256": "c6f357a71cd11b27f56b12acab9f54a42bc159d179e06fb6c64e61752b8df4cc"
     },
     {
       "path": "REQUEST.md",
@@ -45,18 +54,18 @@
     },
     {
       "path": "REVIEW_GUIDE.md",
-      "bytes": 5364,
-      "sha256": "bf95fbcb8110d143baff5276c942414569d5cca5cba9ec51ecda695acad2a680"
+      "bytes": 6618,
+      "sha256": "f60dac51854cd5db31c47bff37e919d685c039774d8b38abd2dbe0c13b40e775"
     },
     {
       "path": "SOURCES.md",
-      "bytes": 11941,
-      "sha256": "60c3ccb57a06640cb201e732093b2397c89e0f6f9c16a07ab6f92d0ad6a08c54"
+      "bytes": 13016,
+      "sha256": "384cbde64e1b2e0ec2bdb448e230eb89fb746955ab7b09790e1e362e168c876b"
     },
     {
       "path": "bibliography.bib",
-      "bytes": 8138,
-      "sha256": "d1a6b812d365abfa37580429431dc2146fd87df2e77599c6e399c34487609a9d"
+      "bytes": 8875,
+      "sha256": "1ff5051c9dafa8fec92bcaceed67d72811e59ffaf136787de576f82008a2e919"
     },
     {
       "path": "dossiers/HPA-001.md",
@@ -99,6 +108,11 @@
       "sha256": "97933dd83a8d89f4483fde73bac52ff8ee2083810de74b76cecfe870c2f94c6e"
     },
     {
+      "path": "evaluation/argument-checks-v5.json",
+      "bytes": 2247,
+      "sha256": "cc277332830bb8114b28db97e1a94f284f42150d2d521abc13bac123882355c4"
+    },
+    {
       "path": "evaluation/public-edition-review.md",
       "bytes": 751,
       "sha256": "51a9266a804c1369cb22dbf711f99ef5ff880f39dbdb5fba6cc6093fda178dd1"
@@ -119,9 +133,29 @@
       "sha256": "d73fd22e914271e03467a3ce7ea6e961be285f5ccef9c69870c2d500d326851a"
     },
     {
+      "path": "evaluation/session-v5.json",
+      "bytes": 3473,
+      "sha256": "5c7440671ad73a19304a97a3e9565959f6562b147cb6724aa2af241087391dba"
+    },
+    {
       "path": "evaluation/session.json",
       "bytes": 2007,
       "sha256": "20454b75696eb862e18644ea152f4209a47fa1738a3dda9ac8110114af81b522"
+    },
+    {
+      "path": "models/coverage-v5.json",
+      "bytes": 20274,
+      "sha256": "03070a4b5f9195a820ccb9ab616752305c1b1d3302ad065f672fb0b0f5a02466"
+    },
+    {
+      "path": "models/dossier-status-v5.json",
+      "bytes": 826,
+      "sha256": "edd23e8f1285b196296aa4017c623e20e6a7c7d66ab3d24a6a5b424dd55936a7"
+    },
+    {
+      "path": "models/integrated-v5.json",
+      "bytes": 47651,
+      "sha256": "823c2316fd10d8c3405b4aa5185f802e5cbad377b6bbfb9ed1481709c45bd055"
     },
     {
       "path": "notes/HPA-001-sources.json",
@@ -144,6 +178,11 @@
       "sha256": "bc973e8619cb7e0072c36514c9771de96c57191d5ff71c956f66d6c67e982b76"
     },
     {
+      "path": "notes/assent-opposition-v5.md",
+      "bytes": 4055,
+      "sha256": "681bc76e53f9d9d8f8a01679287a08a8f2afa03a8dda87b3cc415847b9b5be54"
+    },
+    {
       "path": "notes/baxter-composition-v4-sources.json",
       "bytes": 7421,
       "sha256": "590a9cf572ccdd1a1d117ca3c8937a8e349a20772cdec7937d083655fa321015"
@@ -152,6 +191,26 @@
       "path": "notes/baxter-composition-v4.md",
       "bytes": 9899,
       "sha256": "d1300901f7d937222d49743dfdf392bff96705bd845f5f14b2c67647ccdbea14"
+    },
+    {
+      "path": "notes/constitution-v5-sources.json",
+      "bytes": 10521,
+      "sha256": "216f35b98df53651cd7aa042599f58b7e8feafbe6348aaa0b031f02d8df7aa44"
+    },
+    {
+      "path": "notes/constitution-v5.md",
+      "bytes": 22425,
+      "sha256": "46b0c984d36358d0655e35ff097966271d4f73dc028dcf225512312ad1a1a95f"
+    },
+    {
+      "path": "notes/development-v5-sources.json",
+      "bytes": 8865,
+      "sha256": "5cde5aac42748e69a56a8dc3604542ec044b693028b27223bcf0ca6379edeb8f"
+    },
+    {
+      "path": "notes/development-v5.md",
+      "bytes": 29182,
+      "sha256": "464b23b66e7972b45ed1d8c78e4a11f0ce024ab3392c63f3c8f84dc70432f405"
     },
     {
       "path": "notes/essay-witness-v3.json",
@@ -177,6 +236,21 @@
       "path": "notes/hakkarainen-unity-v4.md",
       "bytes": 8701,
       "sha256": "7ae5f2f70882fbe98ad73adaa23d2dcb428377b5b9166944a3272148cf4ff884"
+    },
+    {
+      "path": "notes/inference-tests-v5-sources.json",
+      "bytes": 12036,
+      "sha256": "23b005bd02e817af9e32db1a819e453f11d39ebbbeaeb7e6bbda541723ad6d59"
+    },
+    {
+      "path": "notes/inference-tests-v5.md",
+      "bytes": 28818,
+      "sha256": "e0fa73056b584f172860272c296d6a9992c2fcdfae8197fa04cf1312bf071db9"
+    },
+    {
+      "path": "notes/integrated-opposition-v5.md",
+      "bytes": 15918,
+      "sha256": "b76cd99a1c7f42bf74a5d4d8f2f52e5c984ad0ef28296a1ab14b56a7c54eb53a"
     },
     {
       "path": "notes/metaphysics-adversarial-v2-sources.json",
@@ -269,6 +343,11 @@
       "sha256": "d7301cfb9fe50ad47bfb4ebb915e811e4358750d86dfc32232cd07b756c8086f"
     },
     {
+      "path": "notes/root-reading-v5.json",
+      "bytes": 3481,
+      "sha256": "13c1a2f65b3872c770351645609f4b7cf7640cfbd0860ceb70ea47f2f283aae4"
+    },
+    {
       "path": "notes/unity-identity-adversarial-v4-reading.json",
       "bytes": 7750,
       "sha256": "eb94c8950c4a3e3ac39150b3ea34278a15d5decfd7041a8564a94aa1cb9cdf2b"
@@ -282,6 +361,11 @@
       "path": "reports/first-investigations.md",
       "bytes": 10203,
       "sha256": "c2cca70c27df030dd2dd08f94a907de2967e67ea28a186b6ac601be1ba56ff94"
+    },
+    {
+      "path": "reports/integrated-reconstruction-v5.md",
+      "bytes": 29069,
+      "sha256": "053ae46f64431cf13754162ed3be78248bb8c9f0d9c0caecba6ed5b5d898650d"
     },
     {
       "path": "reports/positive-reconstruction.md",
@@ -302,15 +386,11 @@
       "path": "scripts/check_argument_forms.py",
       "bytes": 2054,
       "sha256": "88551702da0ccb9c2ca4d94d1c7d553e12fed44c67d02dba0a8310eed645eeb5"
+    },
+    {
+      "path": "scripts/check_reconstruction_v5.py",
+      "bytes": 6041,
+      "sha256": "da10dbb7f5e2ef10c79229dbf5f2f52ca170e77d113d2aec1867e52a5e7e3cb2"
     }
-  ],
-  "file_count_excluding_manifest": 59,
-  "total_bytes_excluding_manifest": 485242,
-  "validation": {
-    "json_parse": "passed",
-    "relative_markdown_links": "passed including manifest link",
-    "private_locator_and_credential_patterns": "passed",
-    "formal_check": "passed with /usr/bin/python3 (resolved Python 3.9.6), standard library only; eight valuations and eight worlds",
-    "automated_framing_review": "Two corrections incorporated; evaluation/public-edition-review.md"
-  }
+  ]
 }

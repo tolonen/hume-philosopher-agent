@@ -1,0 +1,615 @@
+{
+  "schema": "hpa-coverage-v5",
+  "date": "2026-10-13",
+  "availability_and_search": {
+    "date": "2026-10-12T20:58:08Z",
+    "archive_sha256": "0cfbf7c107a324e8040a0f5c3f4cbf06d5799b884079a852381e0531fa0647f2",
+    "members": [
+      {
+        "member": "hume.00.xml",
+        "bytes": 10438,
+        "sha256": "a455d2c35b09c844bc651b0e18903806931947f5e777ea3512c2ab063f01059e",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "LIST OF CONTENTS"
+        ],
+        "paragraph_elements": 42,
+        "search_term_paragraph_counts": {
+          "testimony": 0,
+          "fabulous": 0,
+          "credulity": 0,
+          "authentic": 0,
+          "miracle": 0,
+          "connexion": 0,
+          "conjecture": 0
+        },
+        "indexed_v1": false,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "contents",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.01.xml",
+        "bytes": 23423,
+        "sha256": "9f2ea039e8baca9a5d1c59ce56a370c557fb9b6821e359bc991c872483493ddd",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "Frontmatter",
+          "Table of Contents",
+          ""
+        ],
+        "paragraph_elements": 27,
+        "search_term_paragraph_counts": {
+          "testimony": 0,
+          "fabulous": 0,
+          "credulity": 0,
+          "authentic": 0,
+          "miracle": 0,
+          "connexion": 2,
+          "conjecture": 0
+        },
+        "indexed_v1": false,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "My Own Life",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.02.xml",
+        "bytes": 1603169,
+        "sha256": "47540e633f3547cc6455701ec25e06f5a648509d934d8a0a928091f3de19b1de",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "Frontmatter",
+          "Table of Contents",
+          ""
+        ],
+        "paragraph_elements": 1479,
+        "search_term_paragraph_counts": {
+          "testimony": 7,
+          "fabulous": 1,
+          "credulity": 6,
+          "authentic": 2,
+          "miracle": 2,
+          "connexion": 118,
+          "conjecture": 6
+        },
+        "indexed_v1": true,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "Treatise",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.03.xml",
+        "bytes": 48228,
+        "sha256": "242af2655109b6ec7fd480b473bd3ff5eb67fdcf7342ba082d34e87344ddfaa2",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "Frontmatter",
+          "Title Page",
+          "Preface"
+        ],
+        "paragraph_elements": 65,
+        "search_term_paragraph_counts": {
+          "testimony": 0,
+          "fabulous": 0,
+          "credulity": 0,
+          "authentic": 0,
+          "miracle": 0,
+          "connexion": 3,
+          "conjecture": 0
+        },
+        "indexed_v1": true,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "Abstract",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.04.xml",
+        "bytes": 52810,
+        "sha256": "f0aebbce3d0c32ff561d6eecbf8d615a1d37fc4335561392b2d43861e2045786",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "Frontmatter",
+          "Title Page",
+          "Text"
+        ],
+        "paragraph_elements": 63,
+        "search_term_paragraph_counts": {
+          "testimony": 0,
+          "fabulous": 0,
+          "credulity": 0,
+          "authentic": 0,
+          "miracle": 0,
+          "connexion": 0,
+          "conjecture": 0
+        },
+        "indexed_v1": false,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "Letter from a Gentleman",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.05.xml",
+        "bytes": 423429,
+        "sha256": "e8e75b961f3f95194668a241271edd95e8579988c66eb0791351d5bde798ae1a",
+        "metadata_title": "British Philosophy",
+        "opening_headings": [
+          "Frontmatter",
+          "Table of Contents",
+          ""
+        ],
+        "paragraph_elements": 407,
+        "search_term_paragraph_counts": {
+          "testimony": 30,
+          "fabulous": 2,
+          "credulity": 5,
+          "authentic": 2,
+          "miracle": 31,
+          "connexion": 52,
+          "conjecture": 15
+        },
+        "indexed_v1": true,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "Human Understanding Enquiry",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.06.xml",
+        "bytes": 456909,
+        "sha256": "d29540d6e3ecb2f842c955ec0c417fabc424ae2a6a1f026cd07a3c156b8b6f2a",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "Frontmatter",
+          "Table of Contents",
+          ""
+        ],
+        "paragraph_elements": 571,
+        "search_term_paragraph_counts": {
+          "testimony": 2,
+          "fabulous": 1,
+          "credulity": 2,
+          "authentic": 0,
+          "miracle": 0,
+          "connexion": 18,
+          "conjecture": 2
+        },
+        "indexed_v1": true,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "Moral Enquiry",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.07.xml",
+        "bytes": 1562848,
+        "sha256": "948edf3f3db851f7729bed0ae82db191d675e7a188ffec854e1fd7251fba1967",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "Frontmatter",
+          "Table of Contents",
+          "Editions of Green and Grose"
+        ],
+        "paragraph_elements": 1925,
+        "search_term_paragraph_counts": {
+          "testimony": 8,
+          "fabulous": 4,
+          "credulity": 2,
+          "authentic": 2,
+          "miracle": 2,
+          "connexion": 10,
+          "conjecture": 6
+        },
+        "indexed_v1": true,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "Essays",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.08.xml",
+        "bytes": 89929,
+        "sha256": "e436161758f060b2728087a79a0208c72c2aba066920df3c5b7a95412b08ad87",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "Frontmatter",
+          "Table of Contents",
+          ""
+        ],
+        "paragraph_elements": 140,
+        "search_term_paragraph_counts": {
+          "testimony": 0,
+          "fabulous": 0,
+          "credulity": 0,
+          "authentic": 0,
+          "miracle": 0,
+          "connexion": 12,
+          "conjecture": 0
+        },
+        "indexed_v1": true,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "Dissertation on Passions",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.09.xml",
+        "bytes": 190270,
+        "sha256": "3fe1461c2176732d4ded91ef8b76be45350ddf1dcb8f0cd6b149c6ed746cdd22",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "Frontmatter",
+          "Table of Contents",
+          ""
+        ],
+        "paragraph_elements": 265,
+        "search_term_paragraph_counts": {
+          "testimony": 1,
+          "fabulous": 1,
+          "credulity": 5,
+          "authentic": 0,
+          "miracle": 1,
+          "connexion": 3,
+          "conjecture": 1
+        },
+        "indexed_v1": true,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "Natural History of Religion",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.10.xml",
+        "bytes": 261759,
+        "sha256": "4a69c0d32f7c3e8248745e0c2b6c283ce58875f5262a47744ad4a67dcfafeab8",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "Frontmatter",
+          "Table of Contents",
+          "Text"
+        ],
+        "paragraph_elements": 271,
+        "search_term_paragraph_counts": {
+          "testimony": 3,
+          "fabulous": 0,
+          "credulity": 1,
+          "authentic": 0,
+          "miracle": 0,
+          "connexion": 3,
+          "conjecture": 13
+        },
+        "indexed_v1": true,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "Dialogues",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.11.xml",
+        "bytes": 2288761,
+        "sha256": "1feb8225951d390589607ae438b7aa4d8034fa46dd9059e30a3b74ebaf2e83cf",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "Frontmatter",
+          "to Hume's History of England",
+          "An Historian at Work\n\n[Editor's Introduction]"
+        ],
+        "paragraph_elements": 3304,
+        "search_term_paragraph_counts": {
+          "testimony": 13,
+          "fabulous": 3,
+          "credulity": 5,
+          "authentic": 10,
+          "miracle": 13,
+          "connexion": 22,
+          "conjecture": 14
+        },
+        "indexed_v1": false,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "History volume1",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.12.xml",
+        "bytes": 1661142,
+        "sha256": "1e98b12c4c86d471334cb6f1fa8ac4cbe8cc3828644f0ec9a94f9f90c5570e6e",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "Frontmatter",
+          "Table of Contents",
+          "Volume 2"
+        ],
+        "paragraph_elements": 2232,
+        "search_term_paragraph_counts": {
+          "testimony": 9,
+          "fabulous": 0,
+          "credulity": 3,
+          "authentic": 7,
+          "miracle": 2,
+          "connexion": 33,
+          "conjecture": 10
+        },
+        "indexed_v1": false,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "History volume2",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.13.xml",
+        "bytes": 1494408,
+        "sha256": "57cd5d38b5a6f0e71b9c09021823b54db36cd1fd77440b5a508a82e9824f31ec",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "Frontmatter",
+          "Table of Contents",
+          "Volume 3"
+        ],
+        "paragraph_elements": 1803,
+        "search_term_paragraph_counts": {
+          "testimony": 11,
+          "fabulous": 0,
+          "credulity": 10,
+          "authentic": 4,
+          "miracle": 4,
+          "connexion": 23,
+          "conjecture": 2
+        },
+        "indexed_v1": false,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "History volume3",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.14.xml",
+        "bytes": 1335604,
+        "sha256": "c3b8774ff15e3c6b5d8bf2674ba0094b400c7ee85df92abe46704f60899cc0a5",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "Frontmatter",
+          "Table of Contents",
+          "Volume 4"
+        ],
+        "paragraph_elements": 1738,
+        "search_term_paragraph_counts": {
+          "testimony": 7,
+          "fabulous": 0,
+          "credulity": 3,
+          "authentic": 9,
+          "miracle": 0,
+          "connexion": 8,
+          "conjecture": 3
+        },
+        "indexed_v1": false,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "History volume4",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.15.xml",
+        "bytes": 2166962,
+        "sha256": "57af6b42dc1d71309e86d3364b4360ca912e6f6bc8e25fefa09e85779f914c4d",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "Frontmatter",
+          "Table of Contents\n\n\nTHE HISTORY OF ENGLAND",
+          "Volume 5"
+        ],
+        "paragraph_elements": 3279,
+        "search_term_paragraph_counts": {
+          "testimony": 17,
+          "fabulous": 1,
+          "credulity": 5,
+          "authentic": 3,
+          "miracle": 1,
+          "connexion": 11,
+          "conjecture": 7
+        },
+        "indexed_v1": false,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "History volume5",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.16.xml",
+        "bytes": 1591271,
+        "sha256": "6d3c4274aa2de08ddaf647dacbacd332252efb24b3f80a53bb15c012bb6c77b6",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "Frontmatter",
+          "Table of Contents",
+          "Volume 6"
+        ],
+        "paragraph_elements": 1620,
+        "search_term_paragraph_counts": {
+          "testimony": 29,
+          "fabulous": 1,
+          "credulity": 11,
+          "authentic": 2,
+          "miracle": 2,
+          "connexion": 22,
+          "conjecture": 6
+        },
+        "indexed_v1": false,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "History volume6",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.17.xml",
+        "bytes": 2175568,
+        "sha256": "9acdd02806b3b2dcec6cc0b0e9c5fc8da43971d82c3526e9435cc7b161aa8609",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "Frontmatter",
+          "Title Page",
+          "Preface"
+        ],
+        "paragraph_elements": 3818,
+        "search_term_paragraph_counts": {
+          "testimony": 8,
+          "fabulous": 0,
+          "credulity": 1,
+          "authentic": 21,
+          "miracle": 13,
+          "connexion": 38,
+          "conjecture": 40
+        },
+        "indexed_v1": true,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "Letters volume1",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.18.xml",
+        "bytes": 1765203,
+        "sha256": "499207f044dcbe6b958d5ac43f37124874dce394e5863a55cfdc0aa60837ce8b",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "Frontmatter",
+          "Title Page",
+          "Table of Contents"
+        ],
+        "paragraph_elements": 3167,
+        "search_term_paragraph_counts": {
+          "testimony": 7,
+          "fabulous": 0,
+          "credulity": 3,
+          "authentic": 9,
+          "miracle": 2,
+          "connexion": 16,
+          "conjecture": 30
+        },
+        "indexed_v1": true,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "Letters volume2",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.19.xml",
+        "bytes": 1080941,
+        "sha256": "b048c338ba56ac7dd19503e43babf3d2caf478794273e96ba05921142f7052f3",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "Frontmatter",
+          "Title Page",
+          "Acknowledgements"
+        ],
+        "paragraph_elements": 2152,
+        "search_term_paragraph_counts": {
+          "testimony": 3,
+          "fabulous": 0,
+          "credulity": 0,
+          "authentic": 12,
+          "miracle": 6,
+          "connexion": 9,
+          "conjecture": 19
+        },
+        "indexed_v1": true,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "New Letters",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      },
+      {
+        "member": "hume.xml",
+        "bytes": 10429,
+        "sha256": "ae52434f87e6ec78450f84dfcf7a67bc9ac6dd7542fc0526ee04c24971325d63",
+        "metadata_title": "xml",
+        "opening_headings": [
+          "LIST OF CONTENTS"
+        ],
+        "paragraph_elements": 42,
+        "search_term_paragraph_counts": {
+          "testimony": 0,
+          "fabulous": 0,
+          "credulity": 0,
+          "authentic": 0,
+          "miracle": 0,
+          "connexion": 0,
+          "conjecture": 0
+        },
+        "indexed_v1": false,
+        "new_context_reading": false,
+        "reconstructed": false,
+        "work_identity": "contents",
+        "work_identity_basis": "existing corpus mapping; title metadata often uninformative; not newly established from opening heading"
+      }
+    ],
+    "search_before_reading": "C6 prospective historical testimony/calibration test; counts do not establish arguments",
+    "local_source_bytes": 0,
+    "new_index_created": false,
+    "transient_bytes_retired": 20296499
+  },
+  "stage_context_reading": {
+    "complete_units": [
+      "T1.2.2",
+      "T1.2.3",
+      "T1.2.4 edited",
+      "T1.3.16",
+      "T1.4.1",
+      "T1.4.2",
+      "T1.4.3",
+      "T1.4.5",
+      "T1.4.6",
+      "T1.4.7",
+      "T2.1.11",
+      "T3.3.1",
+      "Appendix edited22paras",
+      "EHU10",
+      "EHU11",
+      "EHU12",
+      "Moral Enquiry Appendix1",
+      "NHR Introduction",
+      "DialoguesIII",
+      "DialoguesIV",
+      "DialoguesXII",
+      "Balance of Power Clarendonvol1 pp252-257 +634-635 variants",
+      "Abstract prefacei-iv and1-35 + editorialnote",
+      "Kim original21pages incl notes/references",
+      "T1.3.8 all17paras and displayednote, root late adversecontrol"
+    ],
+    "partial_units": [
+      "EHU5.1-12",
+      "History1.1-5",
+      "Elliot18February1751 public extract",
+      "Faria2021 selected introduction/history-evidence discussion"
+    ],
+    "prior_reused": [
+      "Hakkarainen2012 complete",
+      "Hakkarainen2015 complete",
+      "T1.1.7",
+      "prior Abstract reading bounds in earlier ledgers"
+    ],
+    "no_new_full_reconstruction": [
+      "all correspondence collections",
+      "all six History volumes",
+      "Dissertation on Passions entire argument",
+      "entire Moral Enquiry",
+      "entire Essays collection",
+      "allTreatise"
+    ]
+  },
+  "reconstructed_problems": [
+    "continued-object grounding",
+    "spatial whole/part distinction",
+    "causal ownership/identity dependency",
+    "limited attribute projection",
+    "testimony target comparison",
+    "sceptical assent rivals",
+    "local developmental changes"
+  ],
+  "qualification": "Complete section reading is not whole-work reconstruction; term counts are paragraph-element counts, not argument comprehension. Per-reader direct/reused bounds remain in assessment ledgers."
+}

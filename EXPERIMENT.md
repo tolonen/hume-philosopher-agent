@@ -2,7 +2,21 @@
 
 **Question:** can an LLM, working with primary texts and original scholarship, produce a substantial contribution to history of philosophy, rather than plausible summaries or speculative criticism? This experiment uses Hume to make that question concrete. It is a single interactive research episode with a documented argument record. Its intellectual quality awaits external assessment.
 
-The work took place across four substantive stages on 12 October 2026. Mikko Tolonen set the research question and standards, supplied access to existing research resources, and redirected the investigation. A Codex LLM assistant selected claims, retrieved texts, reconstructed arguments, wrote dossiers and integrated separate automated assessments. No philosopher has yet validated the conclusions. The scholars discussed were not contacted.
+The first four stages took place on 12 October 2026; the integrated fifth reconstruction cycle continued across 12–13 October 2026. Mikko Tolonen set the research question and standards, supplied access to existing research resources, and redirected the investigation. A Codex LLM assistant selected claims, retrieved texts, reconstructed arguments, wrote dossiers and integrated separate automated assessments. No philosopher has yet validated the conclusions. The scholars discussed were not contacted.
+
+## Current reconstruction cycle: aims, work and results
+
+The [new brief](REQUEST-v5.md) required prospective rival models, conjunctive dependencies, chronological reconstruction, consequence tests and sustained opposition. The [integrated report](reports/integrated-reconstruction-v5.md) is the current philosophical delivery. It replaces the stronger grounding interpretation of the earlier report, which remains visible below as the history of the experiment.
+
+Work completed: a design with four models and seven tests; a 44-proposition model and 14 dependency edges; contextual readings of active primary sections; an all21-member metadata search covering History and correspondence; direct original comparisons; finite translation checks; three separate automated reconstructions and two final opposition reviews. The record separates fresh from reused readings. Corpus search does not imply complete reading.
+
+The material failure was our own: T1.4.2.20’s explanatory attraction was overextended without giving .21–22’s adverse argument its force. Direct causal custom does not supply extra object continuity. Further opposition showed that a bare causal graph cannot diagnose a deficit in Hume’s richer person-indexed evidence, and that Garrett explicitly offers a noninferential body-belief alternative. These findings changed the written argument, rather than merely adding caveats to a retained foundational conclusion.
+
+The positive replacement connects a specific rule and its limits. Independently experienced relevant relations can support local novel-instance inferences; an unknown cause characterized only through one effect cannot acquire additional attributes from that characterization alone. Xenophon’s fictional narrative supplies a control: evidence for an ancient available concept need not be evidence for the represented event. Present patient attribution, continuing history, strict identity and one consciousness are different targets. These distinctions change what the earlier causal proposal can claim to establish.
+
+Chronology includes a documented withdrawal of confidence in the personal-identity explanation, retained causal-belief analysis in the Appendix, and a 1752 Roman-history note omitted from 1754 onward. Omission is not treated as repudiation. Later edited formulations are not silently dated to their works’ first publication. The Abstract’s shared-sentiment claim and the Natural History’s affirmative rational theism remain adverse controls.
+
+This cycle does not settle Hakkarainen versus Baxter on complex reality, or Garrett versus Baxter on reflective assent. It supplies a consequential correction to HPA’s own proposed bridge and an inspectable candidate account, not an established advance over all existing scholarship. Qu2025 already develops a regulative developmental reading; Faria2021 already connects historical evidence and Hume’s epistemology. Full personal-identity priority review, key inaccessible originals and decisive early-edition collation remain incomplete. The philosopher’s task is to judge whether the narrower dependency diagnosis has substantive value beyond familiar methodology.
 
 ## 1. Aim and success standard
 

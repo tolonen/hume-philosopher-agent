@@ -1,0 +1,78 @@
+{
+  "stage": "v5 integrated reconstruction cycle",
+  "date": "2026-10-13",
+  "brief": "REQUEST-v5.md",
+  "prospective_design": "REORIENTATION-v5.md",
+  "question": "Does local causal inquiry establish the ontology, ownership and authority of its relata?",
+  "sustained_argument": "reports/integrated-reconstruction-v5.md",
+  "model": "models/integrated-v5.json",
+  "coverage": "models/coverage-v5.json",
+  "dossier_reopening": "models/dossier-status-v5.json",
+  "formal_result": "evaluation/argument-checks-v5.json",
+  "automated_assessments": [
+    "notes/constitution-v5.md",
+    "notes/development-v5.md",
+    "notes/inference-tests-v5.md"
+  ],
+  "opposition": [
+    "notes/integrated-opposition-v5.md",
+    "notes/assent-opposition-v5.md"
+  ],
+  "corrections": [
+    {
+      "objection": "Bare graph excludes richer Humean information",
+      "action": "Restricted countermodel; ordinary ownership deficit withdrawn as established result"
+    },
+    {
+      "objection": "Present attribution differs from enduring consciousness",
+      "action": "Five target distinctions and derived present-only control added"
+    },
+    {
+      "objection": "Appendix precise diagnosis not ownership explicitly",
+      "action": "Own diagnosis conditional; documented change is confidence in completion"
+    },
+    {
+      "objection": "Garrett has noninferential composite-faculty alternative",
+      "action": "Added pp293-296 defence; causal-only criticism no full refutation"
+    },
+    {
+      "objection": "EHU11.30 challenges first divine inference",
+      "action": "Conceded enrichment argument distinguished from narrator objection"
+    },
+    {
+      "objection": "NHR strong affirmation and Abstract shared sentiment",
+      "action": "Counterevidence preserved with source-mechanism and voice limits"
+    },
+    {
+      "objection": "Positive method too generic",
+      "action": "Specific independent-known-relation rule, historicaltargettest and ordinaryindexing conditions connected"
+    }
+  ],
+  "central_failure": "Earlier familiar-kind/explanatory-independence route does not establish continued-object ontology or fullpersonconstitution",
+  "surviving_result": "Conclusion-specific local evidence constraints; relation-based extension needs appropriate independent evidence; unity and reflective authority have distinct dependencies",
+  "novel_intervention_certified": false,
+  "expert_review": false,
+  "independent_holdout": false,
+  "exact_model_configuration": null,
+  "source_accuracy_not_interpretation_validation": true,
+  "access_gaps": [
+    "Hakkarainen2019 complete original",
+    "Garrett1997/2007 complete relevant arguments"
+  ],
+  "later_edition_collation_complete": false,
+  "no_automatic_background_work": true,
+  "formal_metadata_corrections": [
+    "1739T138 distinguished from1740Abstract corroboration",
+    "P17presentindexing/P44history separated",
+    "E10testedbridge not premise fixedtrue",
+    "scholar/HPA source-state templates corrected",
+    "unchanged-character necessity rather than all probabilistictracking",
+    "Appendixminimalconflict includes no-bearer and addedexhaustiveness"
+  ],
+  "formal_check_count": {
+    "propositions": 44,
+    "conjunctive_edges": 14,
+    "prospective_tests": 7
+  },
+  "final_review_version_note": "Finite assessor reviewed model d316fa71...; parent subsequently added the already-reviewed temporal premise P44 to conjunctive E04 and reran the checker. Report SHA unchanged from finite review."
+}

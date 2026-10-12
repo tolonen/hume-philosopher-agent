@@ -1,0 +1,75 @@
+{
+  "schema": "hpa-root-reading-v5",
+  "date": "2026-10-13",
+  "reader": "root",
+  "nonblinded": true,
+  "exact_deployment": null,
+  "primary": [
+    {
+      "source": "T1.4.2",
+      "url": "https://davidhume.org/texts/t/1/4/2",
+      "coverage": "Complete57paragraphs and displayednotes through overlapping opens; edited Appendix integration, original body/insertions not fully facsimile-collated"
+    },
+    {
+      "source": "MoralEnquiryAppendix1",
+      "url": "https://davidhume.org/texts/m/app1",
+      "coverage": "Complete21paragraphs andnotes;1777editedwitness, not silently1751wording"
+    },
+    {
+      "source": "NHRIntroduction",
+      "url": "https://davidhume.org/texts/n/0",
+      "coverage": "Complete introduction;1777editedwitness, firstworkpublication1757notexactwording"
+    },
+    {
+      "source": "History1.1-5",
+      "url": "https://davidhume.org/texts/h/1",
+      "coverage": "Complete selectedopeningsequence; remainder ofchapter notclaimed;1778witness earlyvolumesfirst1762"
+    },
+    {
+      "source": "Elliot18February1751",
+      "url": "https://www.cambridge.org/core/books/abs/hume-dialogues-concerning-natural-religion/letters-to-gilbert-elliot-extracts/5497F5A60ECE81E80BFFEDEF5C40C420",
+      "coverage": "Publiceditedextract only, not wholeletter"
+    },
+    {
+      "source": "BalanceofPower",
+      "edition": "BeauchampandBoxClarendon2021Vol1",
+      "coverage": "Completeessayprinted252-257; fullremovedRomannotep634-635; apparatusonlytwo1752states52a/52bnot1754onward",
+      "page_text_sha256": {
+        "252": "2500ef6502da2cba193ad2a7d9bb980c41d6db84e0d663fc8113544539d6564f",
+        "253": "e62532aa37e41cc3bfe755125c8f23a4f528ba1757cb39d285316107bffa99e6",
+        "254": "4441cfd85d7cc292240297f1abda7637cf8eecb8d978c65d905adf5681938752",
+        "255": "2f752bfb8656bb53a16f55ec077e4b80b8067b6baf2133f052ae2021e1a29855",
+        "256": "3ce1a4aa3de7de615f2b478f00ad4091a590471d20799c14edb52a2008bdf447",
+        "257": "e62566524031d0ad30c9aed610e343ab1376982081a2ac294c02bb42379b18ae",
+        "634": "9082ea4751687fa8de5d1c05b91614251981e769ea2ee5ff6bbb7766df0959e7",
+        "635": "01c18c170ab4c9816e050b239c900e33752070ee1172388b9d91375d4b8dd530"
+      },
+      "source_payload_redistributed": false
+    },
+    {
+      "source": "T1.3.8",
+      "url": "https://davidhume.org/texts/t/1/3/8",
+      "coverage": "Complete17paragraphs and displayednote; late control prompted by exact-source correction, not preregistered unseenprediction"
+    }
+  ],
+  "scholarship": [
+    {
+      "author": "PedroFaria",
+      "title": "DavidHume,theAcad\u00e9miedesinscriptionsandtheNatureofHistoricalEvidenceintheEarlyEighteenthCentury",
+      "doi": "10.1017/S1479244319000404",
+      "date": "2021 print;2020online",
+      "coverage": "Selectedintroductionandhistorical-evidenceargumentsection; notfullarticle",
+      "role": "Knownprecedentlimitsnoveltyofhistoricalgenreextension"
+    }
+  ],
+  "corrections": [
+    "fullactor/trackingevidencenotheldfixedinbaregraph",
+    "Appendixownershipdiagnosisnottextuallysettled",
+    "E11.30firstinferenceobjectionretained",
+    "NHRunconditionalaffirmationnotD12conditionalanalogy",
+    "Garrettnoninferential/compositefacultyalternativeretained",
+    "Abstractsamephenomenologynotidenticalgeneration"
+  ],
+  "novelty_scope": "Accessiblepreviousdossiers/originalsplusQu2025completeandFariaselected; notexhaustivepersonalidentity/othermindsprioritysearch",
+  "local_source_payload_bytes": 0
+}
