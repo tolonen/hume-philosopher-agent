@@ -1,7 +1,7 @@
 {
   "edition": "public-review-v2-reconstruction-cycle-v5",
   "date": "2026-10-13",
-  "previous_public_commit": "8f3a1d8492e78561b4c8ee0141e7fa1456e86822",
+  "previous_public_commit": "c973c08faff5036e892e517ad508e96761c54395",
   "source_payloads_included": false,
   "transcript_included": false,
   "development_history_included": false,
@@ -34,8 +34,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 9943,
-      "sha256": "f05baed01b7f240326cc535e7d3327f6ea36c1490d8bb6ae74454367fe1e10b6"
+      "bytes": 9968,
+      "sha256": "493f0d5e7d6343fa190d14b17b102b0cad52cd8b30250e97931fd41dd561fcce"
     },
     {
       "path": "REORIENTATION-v5.md",
@@ -393,5 +393,5 @@
       "sha256": "da10dbb7f5e2ef10c79229dbf5f2f52ca170e77d113d2aec1867e52a5e7e3cb2"
     }
   ],
-  "editorial_update": "2026-10-13: contemporary capability and independent-task framing"
+  "editorial_update": "2026-10-13: landing-page resource wording clarified"
 }
