@@ -6,4 +6,4 @@ Modern scholarly articles, manuscript PDFs, licensed corpus files, complete sour
 
 No general licence for third-party material is granted. A separate open-content or software licence for the original experiment materials has not been designated in this initial release.
 
-This is a selected public edition, with a new Git history. It omits private infrastructure locators, credentials, source payloads, operational receipts and conversation exports. These omissions are described in EXPERIMENT.md. The substantive dossier verdicts have not been promoted during publication. Small changes adapt links and quotation/provenance presentation to this edition.
+This is a selected public edition. The complete published research record is retained in archive/; Git history preserves the earlier organisation. It omits private infrastructure locators, credentials, source payloads, operational receipts and conversation exports. These omissions are described in archive/EXPERIMENT.md. The substantive dossier verdicts have not been promoted during publication. Small changes adapt links and quotation/provenance presentation to this edition.

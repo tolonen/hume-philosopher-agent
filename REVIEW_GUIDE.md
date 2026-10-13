@@ -1,82 +1,51 @@
-# Guide for philosophical evaluation
+# One argument to assess
 
-The request is for an assessment of both the Hume arguments and what this dated experiment shows about current state-of-the-art LLMs undertaking a substantive task independently within supplied instructions. Please treat the materials as unvalidated proposals. The automated reviews are part of the experiment, not refereeing. There is no expectation of a positive judgement.
+Please read the argument below and send Mikko a short reply to the three questions at the end. A few paragraphs are enough for an initial assessment. The source links allow you to check the passages if you wish. The complete research archive is supporting material; reviewing it is a separate, larger undertaking.
 
-## A manageable reading route
+## The claim
 
-Begin with [EXPERIMENT.md](EXPERIMENT.md) and [the integrated reconstruction](reports/integrated-reconstruction-v5.md), then [the argument model](models/integrated-v5.json) and [final opposition](notes/integrated-opposition-v5.md). The [earlier positive reconstruction](reports/positive-reconstruction.md) remains historical. Read [HPA-007](dossiers/HPA-007.md) for its strongest qualifications. For a check on failed criticism, inspect [HPA-001](dossiers/HPA-001.md) or [HPA-002](dossiers/HPA-002.md). [SOURCES.md](SOURCES.md) and the linked originals distinguish what was read from what remains unassessed.
+**Hume can support a limited conclusion about an unobserved event or cause without thereby supporting a stronger conclusion about its existence, unity or authority. The additional conclusion needs additional premises.**
 
-If time is limited, prioritize a detailed judgement on one inferential chain over a global impression. Identify dossier, paragraph or heading, primary reference and scholarly page. Explain whether your objection concerns the text, the reconstruction, the inference, the philosophical adequacy or novelty; these are different failure modes.
+The LLM initially treated familiarity with a causal kind as sufficient to explain a broad range of positive claims about objects and people. On further investigation, that account proved too strong. The proposed replacement is more specific: experience of a relevant relation can support a new instance within the scope of that relation. It does not automatically establish the continuing objects or unified minds presupposed by a larger interpretation.
 
-## Questions to decide from the sources
+Here is the evidence and the reasoning we want you to assess.
 
-| Test | Concrete question |
-|---|---|
-| Faithful targets | Do HPA-001/002 retain Millican's and Zimmerman's actual qualifications? Were the withdrawals justified, or did the initial objections contain a surviving point? |
-| Garrett on custom | Does T1.3.8.14 support the stated dependence claim? Does HPA-004 fairly distinguish a mechanism, a reflective argument and classification as reasoning? |
-| Restricted suspension | Does T1.3.5.2 support methodological independence only? Is the move to other-person attribution in HPA-003 the right discriminant between the positions? |
-| Separability | Does HPA-005 correctly distinguish a point from the other points and from its whole? Are the nonoverlap/noninclusion comparison and logical countermodel historically relevant? |
-| Substance and cause | Is T1.4.5.30/.33 being used within its genuine argument, or generalized beyond its local purpose? What positive conclusion about inquiry actually follows? |
-| Analogy | Does EHU11.24–30 license the independent-background restriction as formulated? Are concessions and the narrator's commitments correctly separated? Does D3 or D12 undermine the proposed limit? |
-| Other minds | Does the own-case analogy work as reconstructed? Do Book 2's signs, sympathy and mistaken attributions support the claimed correctability, and what existential commitments remain? |
-| Constitution | Does HPA-007 fairly present Hakkarainen's real complexes and Baxter's collective-existence response? What evidence discriminates them beyond successful prediction? |
-| Personal unity | Does the proposed account assume the person it purports to track? Does the Appendix or cross-person sympathy expose a deeper problem than the report admits? |
-| Assent and warrant | Does the distinction between affirmative content and endorsement accurately preserve Baxter's position? Is the term “warrant” still doing more work than the premises justify? |
-| Scholarly contribution | Is the combined reading new, a useful elaboration of known positions, familiar synthesis, or philosophically unhelpful? Which existing argument provides the closest precedent? |
+## 1. Continued bodies: Hume challenges the apparently successful inference
 
-## Assess the experiment separately
+In *Treatise* 1.4.2.20, Hume describes a porter, a door and a letter. Making sense of the evidence appears to require a world of objects continuing to exist while unperceived. This initially looked like support for the LLM's proposal: familiar causal experience permits us to extend beyond what we presently observe.
 
-The intended test was independent execution of a demanding task, rather than a Hume scholar developing an argument through intensive guidance of an LLM tool. Task-setting, access provision and subsequent redirection still occurred and must be considered when assessing that independence. The experiment does not adjudicate the broader value of philosopher-led LLM research. Evaluate what was actually produced and what it establishes, without treating its origin as either a guarantee or a disqualification.
+But the next two paragraphs change the assessment. In .21, Hume denies that causal custom alone supplies the extra continuity. The regularity observed among interrupted perceptions does not directly establish a more complete, uninterrupted regularity. In .22, he adds a tendency of the imagination to continue its course.
 
-Source accuracy and revision honesty are valuable but do not by themselves amount to philosophical discovery. Please distinguish:
+The inference therefore needs something beyond the causal mechanism initially offered to explain it. Explaining why we adopt continued existence does not by itself establish that this belief is warranted. This defeats the LLM's proposed causal-only grounding route. It does not establish that bodies do not exist, or defeat every other defence of body belief. [Check T1.4.2.20–22](https://davidhume.org/texts/t/1/4/2).
 
-- **Accurate reconstruction:** does the model understand the arguments and their scope?
-- **Defensible reasoning:** do the conclusions follow from plausible interpretations of the evidence?
-- **Explanatory gain:** does the positive account solve a problem or explain more than the alternatives?
-- **Originality:** what, if anything, is not already established in the literature?
-- **Practical value:** would the work help an expert, require major correction, or consume more checking effort than it saves?
+## 2. Unknown causes: the conclusion cannot supply its own extra evidence
 
-The protocol has no untouched holdout, blind review or human baseline. Do not infer a general success rate from these selected cases. A citation mistake matters in proportion to its role; a correct citation does not certify the whole argument. Likewise, seven dossiers do not mean seven independent trials.
+In *Enquiry concerning Human Understanding* 11, the represented friend contrasts a familiar human artificer with a cause known only through the effects attributed to it. Experience of human beings can supply information beyond one person's particular work. A cause characterised only through the universe cannot acquire additional attributes or future effects simply from that characterisation.
 
-## Suggested review form
+The proposed distinction concerns the available evidence, not just a ban on a particular subject. However, the narrator's final objection in .30 also questions the initial inference to a wholly singular cause outside experienced kinds. We must preserve that objection: the friend's restriction on further conclusions does not settle whether the first inference is justified. [Check EHU11.12–14, .25–27 and .30](https://davidhume.org/texts/e/11).
 
-Copy this into your own notes, or an issue if you choose to publish your assessment. No automated agent will contact you or attribute an endorsement to you.
+The connection to the body case is limited but important. In both, a proposed extension needs support that is not already contained in the evidence used for the initial conclusion. This is our reconstruction of the relationship; Hume does not explicitly present the two discussions as one argument.
 
-```text
-Reviewer and date (optional):
-Materials actually inspected:
-Original sources checked:
+## 3. A fictional narrative can still be evidence—for a different conclusion
 
-Strongest specific result:
-Why it succeeds, and how far:
+The opening of “Of the Balance of Power” supplies a particularly clear comparison. Hume says that even if Xenophon's narrative were entirely fictional, its representation of political balancing would establish an available notion in antiquity. The narrative could therefore support a claim about an ancient author's concepts while failing to support the occurrence of the narrated alliance.
 
-Weakest or incorrect specific claim:
-Exact location and source evidence:
-Strongest possible repair:
-Does the repair preserve a worthwhile conclusion?
+Authorship, dating and interpretation remain necessary. The point is that the truth of the narrated event is not necessary for this different conclusion. Rejecting the event does not make the text useless as evidence; accepting the text's conceptual evidence does not establish the event.
 
-Important missing source or competing argument:
-Closest published precedent:
-What, if anything, is original:
+This supports the proposed attention to exactly what the evidence establishes. It does not prove a general epistemology or establish that the observation is new. Citation: Hume, *Essays, Moral, Political, and Literary*, ed. Beauchamp and Box (Clarendon, 2021), vol.1, p.252, opening paragraph of “Of the Balance of Power.”
 
-Verdict on the positive reconstruction:
-Verdict on the attempted criticisms and withdrawals:
-Verdict on the value of the LLM workflow:
+## The strongest objection
 
-Recommended changes or next discriminating investigation:
-Limits of this review:
-```
+**Is this just the familiar point that conclusions must not exceed their evidence?** It may be. The experiment has established a correction to its own earlier account; that correction need not amount to an advance in Hume scholarship. The worthwhile possibility is that the comparison identifies a specific mistaken bridge: moving from a useful causal account to a justification of the continuing or unified objects it uses.
 
-A useful verdict can be “accurate but familiar,” “helpful synthesis with unresolved premises,” or “unpersuasive despite correction,” as well as a positive judgement. Please identify which judgement the evidence warrants; the project's ambition does not predetermine its outcome.
+Nor does the result choose between all the scholarly alternatives. Garrett offers a noninferential defence of body belief, so the failure of a causal-only route does not refute him. Baxter's account allows strong, carefully argued passive assent, so positive inquiry alone does not establish rational endorsement. The Hakkarainen–Baxter dispute about real complexes also needs evidence beyond successful causal description.
 
-## Discriminating tests for cycle v5
+There is contrary primary evidence too. The *Abstract*, .27, puts causal and continued-existence belief in the same kind of sentiment. Our reply is that a shared feeling does not establish an identical generating mechanism. Whether that reply adequately handles Hume's text is a genuine question. [Check Abstract .27](https://davidhume.org/texts/a/).
 
-1. Does T1.4.2.21–22 defeat the precise HPA grounding route, while leaving Garrett’s noninferential alternative available?
-2. Does the Abstract’s shared sentiment threaten a distinction between belief-generating operations?
-3. Does EHU11 support the stated known-relation rule, and has its narrator’s objection been given sufficient force?
-4. Is the Xenophon conceptual-target inference philosophically informative, or just a familiar reconstruction rule?
-5. Have richer person-indexing evidence and the Appendix’s competing diagnoses been fairly preserved?
-6. What does the explicit1740qualification change, and what is merely inferred from omitted later material?
-7. Which complete original offers the closest precedent, and what new premise or consequence, if any, survives?
+## Your assessment
 
-The finite checks expose stipulated consequences; assess the translation and its textual support separately. Successful criticism of HPA’s earlier route does not certify a contribution to published scholarship.
+1. **Is the reading correct?** Identify its weakest step, a misread passage, or an important counterexample.
+2. **Does it add anything?** Is it a useful clarification, a familiar synthesis, or a new contribution? Name the closest existing discussion if you know one.
+3. **Is the output useful?** Would it help a Hume scholar, or require more checking than its contribution justifies? Give your overall judgement.
+
+“Correct but familiar” and “unpersuasive” are useful answers. Please distinguish the value of the argument from the fact that an LLM produced it. This is an initial expert assessment of one result, not a request to certify the entire experiment.

@@ -1,11 +1,19 @@
 {
-  "edition": "public-review-v2-reconstruction-cycle-v5",
+  "edition": "public-review-v3-simple-review-route",
   "date": "2026-10-13",
-  "previous_public_commit": "c973c08faff5036e892e517ad508e96761c54395",
+  "previous_public_commit": "f3b1c850201f50b7f77793e1f7888f690f8d4ba1",
   "source_payloads_included": false,
   "transcript_included": false,
   "development_history_included": false,
-  "coverage": "Earlier experimental record retained; integrated report/model/coverage/opposition added. Checksums certify file identity, not philosophical conclusions.",
+  "organisation": {
+    "start": "README.md",
+    "initial_review": "REVIEW_GUIDE.md",
+    "optional_archive_index": "ARCHIVE.md",
+    "full_record": "archive/",
+    "previous_landing_and_guide_retained": true,
+    "research_arguments_changed": false
+  },
+  "coverage": "Short self-contained review text added. Existing published research retained in archive with relative links adjusted. Identity checks do not certify philosophical conclusions.",
   "files": [
     {
       "path": ".gitignore",
@@ -13,385 +21,399 @@
       "sha256": "fa5b2d4433b835933b22140e01833a4972a0ee8532d76951286e3dd071994af0"
     },
     {
-      "path": "DISPUTES.md",
+      "path": "ARCHIVE.md",
+      "bytes": 2164,
+      "sha256": "bd03c6dacea7feb5b95747a83a611e94e826b083aa5680d2cbaff1d4d6d7c90b"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 1407,
+      "sha256": "c88323c9db745f01250c41ea6011efa0a0e0a8b41708785ae64b028a948a6b53"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1957,
+      "sha256": "6e46790018f38291f8d17a3327934b1cb4105494327268e42ffe2706663e3adb"
+    },
+    {
+      "path": "REVIEW_GUIDE.md",
+      "bytes": 6471,
+      "sha256": "dbbdb86bf0c98f2c85e2f12e0aaa89d8ed8f608fa74d58647d341b62a0844453"
+    },
+    {
+      "path": "archive/DISPUTES.md",
       "bytes": 9098,
       "sha256": "d72ca0e0015384decfa1092b60f2ee41e9d9bf7815ef45ef3bafb39f58cb899e"
     },
     {
-      "path": "EXPERIMENT.md",
-      "bytes": 21620,
-      "sha256": "2180c606fdb7580c5d532d1cba70dadde84dba9b29b9a8dc5893a39a7b079793"
+      "path": "archive/EXPERIMENT.md",
+      "bytes": 21629,
+      "sha256": "337824ced156a9a4862b69f81c66a23a74232741217912f35b10efc42a59f49e"
     },
     {
-      "path": "EXPERIMENT_LOG.md",
+      "path": "archive/EXPERIMENT_LOG.md",
       "bytes": 7815,
       "sha256": "73da58471b6428cfa049bd585b57c9a428bbc821192d436751b0685a1cb7bd2a"
     },
     {
-      "path": "NOTICE.md",
-      "bytes": 1311,
-      "sha256": "51e348f345f8af5a481bdc234a28c5def2a8b12da6dfbc218a757cd12c164af3"
+      "path": "archive/README-previous.md",
+      "bytes": 9983,
+      "sha256": "58825b4bd5f5ac6330858d8c1224dadc325a92645f9783bbaee3e6ab679ff7fd"
     },
     {
-      "path": "README.md",
-      "bytes": 9968,
-      "sha256": "493f0d5e7d6343fa190d14b17b102b0cad52cd8b30250e97931fd41dd561fcce"
-    },
-    {
-      "path": "REORIENTATION-v5.md",
+      "path": "archive/REORIENTATION-v5.md",
       "bytes": 4953,
       "sha256": "a60d7985599900018e5cb95d453503e0dbaa38880e591f0e2f3a5b19b01c5fea"
     },
     {
-      "path": "REQUEST-v5.md",
+      "path": "archive/REQUEST-v5.md",
       "bytes": 14616,
       "sha256": "c6f357a71cd11b27f56b12acab9f54a42bc159d179e06fb6c64e61752b8df4cc"
     },
     {
-      "path": "REQUEST.md",
+      "path": "archive/REQUEST.md",
       "bytes": 13605,
       "sha256": "3c9cfda3bc5acc18c8d325997d27cf09ac52cdfdbe99a0a87525b3409982420c"
     },
     {
-      "path": "REVIEW_GUIDE.md",
+      "path": "archive/REVIEW_GUIDE-previous.md",
       "bytes": 7215,
       "sha256": "fef9d252d64046b63a749a9d8dde3395118a872a2950a8b3c25d1b4efe1dd8b2"
     },
     {
-      "path": "SOURCES.md",
+      "path": "archive/SOURCES.md",
       "bytes": 13016,
       "sha256": "384cbde64e1b2e0ec2bdb448e230eb89fb746955ab7b09790e1e362e168c876b"
     },
     {
-      "path": "bibliography.bib",
+      "path": "archive/bibliography.bib",
       "bytes": 8875,
       "sha256": "1ff5051c9dafa8fec92bcaceed67d72811e59ffaf136787de576f82008a2e919"
     },
     {
-      "path": "dossiers/HPA-001.md",
+      "path": "archive/dossiers/HPA-001.md",
       "bytes": 18587,
       "sha256": "6f3e874dcd13a131eaea24a9bf71f8f05e070947b1201560ba17c6667381da46"
     },
     {
-      "path": "dossiers/HPA-002.md",
+      "path": "archive/dossiers/HPA-002.md",
       "bytes": 11743,
       "sha256": "30662f5fff9d9a64a8ef1057530c45fbd410f593c02d6b443c1d385a98fb95e6"
     },
     {
-      "path": "dossiers/HPA-003.md",
+      "path": "archive/dossiers/HPA-003.md",
       "bytes": 12530,
       "sha256": "a5c0ffbfd089c49d2a8b04b4eb395c5c5bb023f457eb7f06c321395263b94543"
     },
     {
-      "path": "dossiers/HPA-004.md",
+      "path": "archive/dossiers/HPA-004.md",
       "bytes": 7147,
       "sha256": "7aaef0e9744ae1a7fa9cabc96d32a04a2b2bc14857b93f3e1bf277b310990e8d"
     },
     {
-      "path": "dossiers/HPA-005.md",
+      "path": "archive/dossiers/HPA-005.md",
       "bytes": 8447,
       "sha256": "7e1317de49b23a21fce7301b773884f1d78edb1c5bdc0dd78c2ca4310e956894"
     },
     {
-      "path": "dossiers/HPA-006.md",
+      "path": "archive/dossiers/HPA-006.md",
       "bytes": 18493,
       "sha256": "257105423a4203cdca1f6f81de3e1e8f113c960fe6e5c67a0365e9f9ca02fc9e"
     },
     {
-      "path": "dossiers/HPA-007.md",
+      "path": "archive/dossiers/HPA-007.md",
       "bytes": 14490,
       "sha256": "8cfe1220e49c5af510cdd1a8a627068064293356d6187ff1bdc5a4ef8498ea68"
     },
     {
-      "path": "evaluation/PROTOCOL.md",
+      "path": "archive/evaluation/PROTOCOL.md",
       "bytes": 1421,
       "sha256": "97933dd83a8d89f4483fde73bac52ff8ee2083810de74b76cecfe870c2f94c6e"
     },
     {
-      "path": "evaluation/argument-checks-v5.json",
+      "path": "archive/evaluation/argument-checks-v5.json",
       "bytes": 2247,
       "sha256": "cc277332830bb8114b28db97e1a94f284f42150d2d521abc13bac123882355c4"
     },
     {
-      "path": "evaluation/public-edition-review.md",
+      "path": "archive/evaluation/public-edition-review.md",
       "bytes": 751,
       "sha256": "51a9266a804c1369cb22dbf711f99ef5ff880f39dbdb5fba6cc6093fda178dd1"
     },
     {
-      "path": "evaluation/session-v2.json",
+      "path": "archive/evaluation/session-v2.json",
       "bytes": 3795,
       "sha256": "85ed63413e2944d92d1bcd8040ced68fcc4b62902cca52bbfc36e1503bef2d2d"
     },
     {
-      "path": "evaluation/session-v3.json",
+      "path": "archive/evaluation/session-v3.json",
       "bytes": 2626,
       "sha256": "2c5170cd901e26a6dbe060cbdd123ac7cfd2fd38f9754919e2af9b2939daace0"
     },
     {
-      "path": "evaluation/session-v4.json",
+      "path": "archive/evaluation/session-v4.json",
       "bytes": 2313,
       "sha256": "d73fd22e914271e03467a3ce7ea6e961be285f5ccef9c69870c2d500d326851a"
     },
     {
-      "path": "evaluation/session-v5.json",
+      "path": "archive/evaluation/session-v5.json",
       "bytes": 3473,
       "sha256": "5c7440671ad73a19304a97a3e9565959f6562b147cb6724aa2af241087391dba"
     },
     {
-      "path": "evaluation/session.json",
+      "path": "archive/evaluation/session.json",
       "bytes": 2007,
       "sha256": "20454b75696eb862e18644ea152f4209a47fa1738a3dda9ac8110114af81b522"
     },
     {
-      "path": "models/coverage-v5.json",
+      "path": "archive/models/coverage-v5.json",
       "bytes": 20274,
       "sha256": "03070a4b5f9195a820ccb9ab616752305c1b1d3302ad065f672fb0b0f5a02466"
     },
     {
-      "path": "models/dossier-status-v5.json",
+      "path": "archive/models/dossier-status-v5.json",
       "bytes": 826,
       "sha256": "edd23e8f1285b196296aa4017c623e20e6a7c7d66ab3d24a6a5b424dd55936a7"
     },
     {
-      "path": "models/integrated-v5.json",
+      "path": "archive/models/integrated-v5.json",
       "bytes": 47651,
       "sha256": "823c2316fd10d8c3405b4aa5185f802e5cbad377b6bbfb9ed1481709c45bd055"
     },
     {
-      "path": "notes/HPA-001-sources.json",
+      "path": "archive/notes/HPA-001-sources.json",
       "bytes": 9927,
       "sha256": "2b788d548fb5a138d6773a8bace304441553431e6bf6f21753f7c1ce315ab66d"
     },
     {
-      "path": "notes/HPA-002-sources.json",
+      "path": "archive/notes/HPA-002-sources.json",
       "bytes": 6761,
       "sha256": "ed6bb9e6a50eea713c8da9c9cca9ce632940d5cf698fc158eeaf18579b6c6807"
     },
     {
-      "path": "notes/adversarial-HPA-001.md",
+      "path": "archive/notes/adversarial-HPA-001.md",
       "bytes": 5369,
       "sha256": "a3f5fdbc8d4f0493bc4b132584136fbceb94dc81e1b8f13dc7cbeee476ed266c"
     },
     {
-      "path": "notes/adversarial-HPA-002.md",
+      "path": "archive/notes/adversarial-HPA-002.md",
       "bytes": 6285,
       "sha256": "bc973e8619cb7e0072c36514c9771de96c57191d5ff71c956f66d6c67e982b76"
     },
     {
-      "path": "notes/assent-opposition-v5.md",
+      "path": "archive/notes/assent-opposition-v5.md",
       "bytes": 4055,
       "sha256": "681bc76e53f9d9d8f8a01679287a08a8f2afa03a8dda87b3cc415847b9b5be54"
     },
     {
-      "path": "notes/baxter-composition-v4-sources.json",
+      "path": "archive/notes/baxter-composition-v4-sources.json",
       "bytes": 7421,
       "sha256": "590a9cf572ccdd1a1d117ca3c8937a8e349a20772cdec7937d083655fa321015"
     },
     {
-      "path": "notes/baxter-composition-v4.md",
+      "path": "archive/notes/baxter-composition-v4.md",
       "bytes": 9899,
       "sha256": "d1300901f7d937222d49743dfdf392bff96705bd845f5f14b2c67647ccdbea14"
     },
     {
-      "path": "notes/constitution-v5-sources.json",
+      "path": "archive/notes/constitution-v5-sources.json",
       "bytes": 10521,
       "sha256": "216f35b98df53651cd7aa042599f58b7e8feafbe6348aaa0b031f02d8df7aa44"
     },
     {
-      "path": "notes/constitution-v5.md",
+      "path": "archive/notes/constitution-v5.md",
       "bytes": 22425,
       "sha256": "46b0c984d36358d0655e35ff097966271d4f73dc028dcf225512312ad1a1a95f"
     },
     {
-      "path": "notes/development-v5-sources.json",
+      "path": "archive/notes/development-v5-sources.json",
       "bytes": 8865,
       "sha256": "5cde5aac42748e69a56a8dc3604542ec044b693028b27223bcf0ca6379edeb8f"
     },
     {
-      "path": "notes/development-v5.md",
+      "path": "archive/notes/development-v5.md",
       "bytes": 29182,
       "sha256": "464b23b66e7972b45ed1d8c78e4a11f0ce024ab3392c63f3c8f84dc70432f405"
     },
     {
-      "path": "notes/essay-witness-v3.json",
+      "path": "archive/notes/essay-witness-v3.json",
       "bytes": 1966,
       "sha256": "3eed5f47bbb4ba49bb47c7295130949877200203703b0429f573eafe3ac98ce2"
     },
     {
-      "path": "notes/garrett-induction-assessment-v2-sources.json",
+      "path": "archive/notes/garrett-induction-assessment-v2-sources.json",
       "bytes": 10747,
       "sha256": "3400c5e121b2df593d460fcd3fc2065f5991f8031793d55d537c0089188527f4"
     },
     {
-      "path": "notes/garrett-induction-assessment-v2.md",
+      "path": "archive/notes/garrett-induction-assessment-v2.md",
       "bytes": 20090,
       "sha256": "ba249b643be40256a7417f0dceebf6d79d858647dbaf1f6507dcda3ecd33da89"
     },
     {
-      "path": "notes/hakkarainen-unity-v4-sources.json",
+      "path": "archive/notes/hakkarainen-unity-v4-sources.json",
       "bytes": 6308,
       "sha256": "ca2433fd0f0b1eae4a602c2800042bfc689eec569d3648c03c4dcf413dbf5ac7"
     },
     {
-      "path": "notes/hakkarainen-unity-v4.md",
+      "path": "archive/notes/hakkarainen-unity-v4.md",
       "bytes": 8701,
       "sha256": "7ae5f2f70882fbe98ad73adaa23d2dcb428377b5b9166944a3272148cf4ff884"
     },
     {
-      "path": "notes/inference-tests-v5-sources.json",
+      "path": "archive/notes/inference-tests-v5-sources.json",
       "bytes": 12036,
       "sha256": "23b005bd02e817af9e32db1a819e453f11d39ebbbeaeb7e6bbda541723ad6d59"
     },
     {
-      "path": "notes/inference-tests-v5.md",
+      "path": "archive/notes/inference-tests-v5.md",
       "bytes": 28818,
       "sha256": "e0fa73056b584f172860272c296d6a9992c2fcdfae8197fa04cf1312bf071db9"
     },
     {
-      "path": "notes/integrated-opposition-v5.md",
+      "path": "archive/notes/integrated-opposition-v5.md",
       "bytes": 15918,
       "sha256": "b76cd99a1c7f42bf74a5d4d8f2f52e5c984ad0ef28296a1ab14b56a7c54eb53a"
     },
     {
-      "path": "notes/metaphysics-adversarial-v2-sources.json",
+      "path": "archive/notes/metaphysics-adversarial-v2-sources.json",
       "bytes": 10004,
       "sha256": "78da8e179f174887d08f084cc578e5faf8b41451875191299f767a3c3047edae"
     },
     {
-      "path": "notes/metaphysics-adversarial-v2.md",
+      "path": "archive/notes/metaphysics-adversarial-v2.md",
       "bytes": 12919,
       "sha256": "3f2aa58adb4b3c4f5bc6baa3205f764c79240e0c050c6d8fde475a488f45a9d2"
     },
     {
-      "path": "notes/perspectivalism-adversarial-v2-reading.json",
+      "path": "archive/notes/perspectivalism-adversarial-v2-reading.json",
       "bytes": 9975,
       "sha256": "ea7e44c257c17caa1a9aea0c6c0a4399a603158f65dbd70ccf610d4133f9f1d9"
     },
     {
-      "path": "notes/perspectivalism-adversarial-v2.md",
+      "path": "archive/notes/perspectivalism-adversarial-v2.md",
       "bytes": 20024,
       "sha256": "e8986783e09f5595d66183037972648f6b6a54c76318fe7377e7dd830308a732"
     },
     {
-      "path": "notes/positive-analogy-primary-v3-sources.json",
+      "path": "archive/notes/positive-analogy-primary-v3-sources.json",
       "bytes": 14779,
       "sha256": "1352260b4ce509d39ada5068c8261c85305637d4e4bb87d2d8563cbafff7ae5a"
     },
     {
-      "path": "notes/positive-analogy-primary-v3.md",
+      "path": "archive/notes/positive-analogy-primary-v3.md",
       "bytes": 17177,
       "sha256": "8929cfad3717e3a2abd8862b0a3cf5432569f149da826768dd4db6c8f63ee6f7"
     },
     {
-      "path": "notes/positive-other-minds-primary-v3-sources.json",
+      "path": "archive/notes/positive-other-minds-primary-v3-sources.json",
       "bytes": 10219,
       "sha256": "2f616a3200d06a88feeb59b048bf711583b19e7a71041e218650ec6d9376031b"
     },
     {
-      "path": "notes/positive-other-minds-primary-v3.md",
+      "path": "archive/notes/positive-other-minds-primary-v3.md",
       "bytes": 11300,
       "sha256": "0f5171d7f221fe00854a1c419e3ffdc8c85c628b6bd1f52cc9458ab043e67267"
     },
     {
-      "path": "notes/positive-reading-adversarial-v3-reading.json",
+      "path": "archive/notes/positive-reading-adversarial-v3-reading.json",
       "bytes": 9857,
       "sha256": "373c7f138d81f477f9e7b26a3745068b0282c424c6151b0185802a10a03c41be"
     },
     {
-      "path": "notes/positive-reading-adversarial-v3.md",
+      "path": "archive/notes/positive-reading-adversarial-v3.md",
       "bytes": 17012,
       "sha256": "ef5f93deabd3073469be1fdea3a111fd7042fac1bd42916c254bfd3652d4fc4f"
     },
     {
-      "path": "notes/primary-character-identity-v4.json",
+      "path": "archive/notes/primary-character-identity-v4.json",
       "bytes": 1017,
       "sha256": "450cd58ef80af4d7aaa4bc2ef5c795d2afde88c8bd784052b92b2d8b34d6454e"
     },
     {
-      "path": "notes/primary-independent-experience-v3.json",
+      "path": "archive/notes/primary-independent-experience-v3.json",
       "bytes": 1525,
       "sha256": "84d6656ba84d8be1fd507bd7e54e6a093f9e55f5e0b4ee52c256768fff0e16ec"
     },
     {
-      "path": "notes/primary-substance-cause-v3.json",
+      "path": "archive/notes/primary-substance-cause-v3.json",
       "bytes": 1018,
       "sha256": "f33bafd31ae4539cc98f770ce24c5a8cdf14cbb97efdae25a94a5ce6cf1b6cbc"
     },
     {
-      "path": "notes/primary-witness-T1352.json",
+      "path": "archive/notes/primary-witness-T1352.json",
       "bytes": 1545,
       "sha256": "bc9c25dabc2faffbe0020bc25b3bdc174f98ac167bf49b6417dbe44a1375974f"
     },
     {
-      "path": "notes/primary-witness-T3119.json",
+      "path": "archive/notes/primary-witness-T3119.json",
       "bytes": 810,
       "sha256": "22d2c5d891a879dbf4a5e4361e8e04d1f63a9947b5dd27fcb53ca3ab59b186cc"
     },
     {
-      "path": "notes/root-reading-v2.json",
+      "path": "archive/notes/root-reading-v2.json",
       "bytes": 5932,
       "sha256": "9ba00ce923372cc745d0641960599e8d7f6ff6b8aa8dec0112fcfbfeff50e002"
     },
     {
-      "path": "notes/root-reading-v3.json",
+      "path": "archive/notes/root-reading-v3.json",
       "bytes": 2042,
       "sha256": "5a23a75f3b884a19c8827e3ccde170364ee79e6d59f65f95ef0f61b6ceeff820"
     },
     {
-      "path": "notes/root-reading-v4.json",
+      "path": "archive/notes/root-reading-v4.json",
       "bytes": 2842,
       "sha256": "d7301cfb9fe50ad47bfb4ebb915e811e4358750d86dfc32232cd07b756c8086f"
     },
     {
-      "path": "notes/root-reading-v5.json",
+      "path": "archive/notes/root-reading-v5.json",
       "bytes": 3481,
       "sha256": "13c1a2f65b3872c770351645609f4b7cf7640cfbd0860ceb70ea47f2f283aae4"
     },
     {
-      "path": "notes/unity-identity-adversarial-v4-reading.json",
+      "path": "archive/notes/unity-identity-adversarial-v4-reading.json",
       "bytes": 7750,
       "sha256": "eb94c8950c4a3e3ac39150b3ea34278a15d5decfd7041a8564a94aa1cb9cdf2b"
     },
     {
-      "path": "notes/unity-identity-adversarial-v4.md",
+      "path": "archive/notes/unity-identity-adversarial-v4.md",
       "bytes": 14304,
       "sha256": "d0944a1e6d8ec1d120aa21b6a810ceeb5a175b17f3a641e8716ddb9c552a11b5"
     },
     {
-      "path": "reports/first-investigations.md",
+      "path": "archive/reports/first-investigations.md",
       "bytes": 10203,
       "sha256": "c2cca70c27df030dd2dd08f94a907de2967e67ea28a186b6ac601be1ba56ff94"
     },
     {
-      "path": "reports/integrated-reconstruction-v5.md",
+      "path": "archive/reports/integrated-reconstruction-v5.md",
       "bytes": 29069,
       "sha256": "053ae46f64431cf13754162ed3be78248bb8c9f0d9c0caecba6ed5b5d898650d"
     },
     {
-      "path": "reports/positive-reconstruction.md",
+      "path": "archive/reports/positive-reconstruction.md",
       "bytes": 12862,
       "sha256": "511412ba5a76f296fcec0bba994e91430e322e1e3ee9fb69c817654ce5edc07e"
     },
     {
-      "path": "reports/second-investigations.md",
+      "path": "archive/reports/second-investigations.md",
       "bytes": 10767,
       "sha256": "ccc66bcc4e0f208776a3afe326a66c767b48eeb405ef8c4531ab900fed548431"
     },
     {
-      "path": "schemas/dossier-template.md",
+      "path": "archive/schemas/dossier-template.md",
       "bytes": 1340,
       "sha256": "705fd09accc16f7c012afea454f1e02a75c770fbf4e9ddcbaef2ca7e60996967"
     },
     {
-      "path": "scripts/check_argument_forms.py",
+      "path": "archive/scripts/check_argument_forms.py",
       "bytes": 2054,
       "sha256": "88551702da0ccb9c2ca4d94d1c7d553e12fed44c67d02dba0a8310eed645eeb5"
     },
     {
-      "path": "scripts/check_reconstruction_v5.py",
+      "path": "archive/scripts/check_reconstruction_v5.py",
       "bytes": 6041,
       "sha256": "da10dbb7f5e2ef10c79229dbf5f2f52ca170e77d113d2aec1867e52a5e7e3cb2"
     }
-  ],
-  "editorial_update": "2026-10-13: landing-page resource wording clarified"
+  ]
 }

@@ -118,4 +118,4 @@ The public edition contains selected prompts and retrospective role summaries, c
 
 ## 7. What an external evaluation can decide
 
-The [review guide](REVIEW_GUIDE.md) asks a philosopher to identify the strongest and weakest specific claims, inspect original contexts, test the interpretive bridges, assess the replies, locate precedents, and judge whether anything exceeds competent synthesis. A negative result is a legitimate evaluation. Finding that the model corrected itself would still be different from finding that it made a new contribution to Hume scholarship.
+The [review guide](REVIEW_GUIDE-previous.md) asks a philosopher to identify the strongest and weakest specific claims, inspect original contexts, test the interpretive bridges, assess the replies, locate precedents, and judge whether anything exceeds competent synthesis. A negative result is a legitimate evaluation. Finding that the model corrected itself would still be different from finding that it made a new contribution to Hume scholarship.
